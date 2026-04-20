@@ -1,0 +1,817 @@
+**6**
+
+**Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana**
+
+**Juan Camilo Olaya González****1****,****3*****, Paula Andrea Villegas González****1****,****4****, Jairo Andrés Valcárcel Torres****1****,****5, ****Julián Darío Arbeláez Salazar****1****,****2****,****6****, ****Fabián**** Mauricio Caicedo Carrascal****1****,****2****,****4****, José Ville Triana García****1****,****2****,****7****,** **Lina Dorado González****1****, Juan Pablo Forero Acevedo****1****,****3** **& ****Maykel Yisseth Gutiérrez****1**
+
+# Capítulo 10: C06-LGRD-23-RIESGO-INUNDACION-MOJANA-VF-2022-09-28
+
+1 Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Avenida Calle 26 No. 92-32 Edificio Gold 4 Piso 2. Vinculación durante el desarrollo del proyecto. Bogotá, Engativá, Colombia.
+
+2 Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). Calle 25 D No. 96 B – 70, Bogotá, Colombia. Vinculación durante el desarrollo del proyecto.
+
+3 I+R Consultores en Ingeniería y Riesgos S.A.S. Calle 53#3-27, Bogotá, Colombia.
+
+4 Pontificia Universidad Javeriana, Facultad de Ingeniería. Carrera 7 No. 40 - 62, Bogotá, Colombia.
+
+5 Universidad de La Salle, Facultad de Ingeniería. Carrera 2 No. 10-70. Bogotá, Colombia.
+
+6 Universidad de los Andes, Facultad de Ingeniería. Carrera 1 No. 18A - 12, Bogotá, Colombia.
+
+7 Universitët Salzburg. Salzburgo (Austria).
+
+*Autor de contacto: Juan Camilo Olaya González, Consultor independiente, I+R Consultores en Ingeniería y Riesgos S.A.S. Calle 53#3-27, Bogotá, Colombia. Vinculado a la Unidad Nacional para la Gestión del Riesgo de Desastres durante el desarrollo del proyecto. Correo-e: juanog88@hotmail.com/juan.olaya@irconsultores.co/jc.olaya52@uniandes.edu.co.
+
+**Resumen**
+
+En la Gestión del Riesgo de Desastre (GRD), la definición de medidas de reducción del riesgo se basa en el estudio previo de los posibles efectos de las amenazas en el territorio a partir de diversas metodologías. Para dar un soporte técnico al proceso de incorporación de la GRD en instrumentos de planificación territorial en Colombia, se desarrolló una metodología de Evaluación Probabilista de Riesgo (EPR) por inundación lenta a escala de detalle (1:2000). La metodología combina la evaluación de amenaza por inundación, exposición, vulnerabilidad física, vulnerabilidad social, y el cálculo de pérdidas económicas. Se emplea un enfoque probabilista en el componente de amenaza, vulnerabilidad física y cálculo de riesgo, y un enfoque integral a partir de la evaluación de vulnerabilidad social de comunidades que presentan eventos recurrentes de inundación lenta y factores subyacentes del riesgo de desastres en su dimensión social como pobreza e inequidad. Se recopilaron datos en campo con encuestas presenciales predio a predio para el levantamiento digital de información relevante de edificaciones. Se utilizaron cuestionarios realizados a comunidades para determinar condiciones de vulnerabilidad social, así como talleres de socialización y participación de actores. Como resultado y gracias a la escala de trabajo, se estableció que el modelo de riesgo calcula daños separadamente para los rubros de contenidos y de edificaciones, lo que permite estimar las contribuciones de pérdidas acorde con el proceso de generación de daño y con los patrones de vulnerabilidad física en función de medidas de intensidad de amenaza como profundidad de inundación y velocidad media de flujo. La metodología se aplica a cuatro estudios de caso en el delta hídrico de La Mojana y en este artículo se presentan los resultados obtenidos para la cabecera municipal de Montelíbano (Córdoba). Recomendamos fomentar el conocimiento del riesgo con enfoques probabilistas e integrales como insumos para el desarrollo de comunidades resilientes a eventos de inundación. 
+
+**Palabras clave:** gestión del riesgo por inundación, resiliencia, amenaza por inundación, instrumentos de planificación territorial, vulnerabilidad física y social, gestión del riesgo de desastres              
+
+**Uses of comprehensive flood risk assessment in the consolidation of resilient communities: a case study in municipal capitals of the Mojana ecoregion**
+
+**Abstract**
+
+In Disaster Risk Management (DRM), the definition of risk reduction measures is based on the prior study of the possible effects of hazards on the territory using different methodologies. To technically support the process of incorporating DRM into territorial planning instruments in Colombia, a Probabilistic Risk Assessment (PRA) methodology was developed for slow flooding at a detailed scale (1:2000). The methodology combines the assessment of flood hazard, exposure, physical vulnerability, social vulnerability, and the calculation of economic losses. A probabilistic approach is used for the hazard component, physical vulnerability, and risk calculation, and a comprehensive approach is used for the social vulnerability assessment of communities with recurrent slow flooding events and underlying factors of disaster risk in its social dimensions such as poverty and inequity. Data were collected in the field with on-site surveys from property to property to survey relevant building information digitally. Questionnaires were used in communities to determine conditions of social vulnerability and socialization and stakeholder participation workshops. As a result, and thanks to the scale of the work, it was established that the risk model calculates damages separately for contents and buildings, which allows estimating loss contributions according to the damage generation process and physical vulnerability patterns based on hazard intensity measures such as flood depth and average flow velocity. The methodology is applied to four case studies in the La Mojana water delta and the results obtained for the municipal capital of Montelíbano (Córdoba) are presented in this article. We recommend promoting knowledge of risk with probabilistic and integral approaches as inputs for developing communities resilient to flood events. 
+
+**Keywords****: **Flood risk management, resilience, flood hazard, territorial planning instruments, physical and social vulnerability, disaster risk management
+
+## 1. INTRODUCCIÓN 
+
+La resiliencia de una comunidad ante desastres derivados de eventos naturales puede definirse como su habilidad para anticiparse, absorber, recuperarse y mantener su funcionalidad ante la ocurrencia de eventos desastrosos, así como su capacidad para aprender, adaptarse y transformarse con el fin de reducir daños potenciales y garantizar su bienestar y seguridad ante eventos futuros [1,2].
+
+Para fortalecer tales capacidades, es recomendable ejecutar medidas de intervención basadas en el conocimiento de la comunidad y de las posibles consecuencias por eventos desastrosos. Tal conocimiento puede enfocarse en diferentes componentes de la GRD: en el control/gestión de las amenazas, en el reforzamiento de la infraestructura, o en la respuesta a emergencias y en procesos educativos, entre otros.
+
+La GRD requiere que las medidas adoptadas tengan en cuenta aspectos relacionados con las amenazas, los elementos expuestos, la propensión al daño y la vulnerabilidad social. En este sentido, en Colombia existen elementos normativos (ver **C****aja 1**) que definen la integración de la GRD en la planificación territorial en términos de requisitos y reglamentaciones de obligatorio cumplimiento por parte de los entes territoriales. 
+
+En el caso de inundaciones lentas, existen limitaciones frente al conocimiento y la modelación de amenaza por inundación en los siguientes aspectos:
+
+La extensión, profundidad de la lámina de agua y frecuencia de ocurrencia de los eventos
+
+El comportamiento de las edificaciones e infraestructura expuesta ante la velocidad, y la profundidad de la lámina de agua y duración de la inundación.
+
+La capacidad técnica, económica y demás recursos y condiciones que inciden en el desarrollo de la población, en la conformación de asentamientos humanos y en la toma de decisiones de la comunidad frente al riesgo de desastre.
+
+En consecuencia, como insumo para incorporar la GRD en los instrumentos de planificación territorial, se plantea como objetivo principal del capítulo la presentación de una metodología de EPR de desastre por inundaciones lentas a escala de detalle. En la metodología se consideran incertidumbres para estimar daños directos e indirectos y los factores que determinan la vulnerabilidad social para la región de La Mojana, en los municipios de Magangué y Mompox (Bolívar), San Marcos (Sucre), y Montelíbano (Córdoba). Los objetivos específicos del capítulo son: i) presentar detalles metodológicos de los componentes de amenaza, vulnerabilidad física y social, exposición y evaluación del riesgo por inundación lenta para escalas de detalle, ii) presentar resultados de la aplicación de la metodología propuesta en el estudio de caso para la cabecera municipal de Montelíbano (Córdoba), y iii) presentar conceptos, puntos clave y recomendaciones a futuro para la integración de la GRD por inundaciones en instrumentos de planificación territorial. 
+
+Con ello se pretende aportar a la planificación de medidas de reducción del riesgo que integren condiciones de incertidumbre y de contexto de las comunidades. También, a que las comunidades tengan la capacidad de anticiparse, responder y recuperarse oportunamente cuando las inundaciones ocurran. Finalmente, de aprender, adaptarse y transformarse para reducir los impactos futuros de las inundaciones contribuyendo a consolidar comunidades resilientes en el país. 
+
+
+| Caja 1. Elementos normativos que integran la GRD en instrumentos de planificación territorial La Ley 1523 de 2012 adopta la Política Nacional de Gestión del Riesgo de Desastre y se establece el Sistema Nacional de Gestión del Riesgo de Desastre [3]. El Artículo 189 del decreto ley 019 de 2012 dicta la incorporación de la GRD en la revisión de Planes de Ordenamiento Territorial (POT) [4]. El Decreto reglamentario 1807 de 2014 reglamenta el artículo 189 del Decreto Ley 019 de 2012 en cuanto a las condiciones y escalas de detalle para la incorporación de la GRD en lo relacionado con amenazas por remoción en masa, inundaciones y avenidas torrenciales en instrumentos de planificación territorial [5]. Establece la evaluación de riesgo como “el resultado de relacionar la zonificación detallada de amenaza y la evaluación de la vulnerabilidad. Con base en ello, se categorizará el riesgo en alto, medio y bajo, en función del nivel de afectación esperada.” El Decreto 1077 de 2015 compila las normas reglamentarias preexistentes dadas para el Sector Vivienda, Ciudad y Territorio, dentro de las cuales se encuentra el Decreto 1807 de 2014, en lo referente a la incorporación del riesgo en el ordenamiento territorial [6]. |
+| --- |
+
+## 2. MATERIALES Y MÉTODOS 
+
+La definición de evaluación del riesgo del Decreto 1807 de 2014 relaciona la zonificación detallada de amenaza con la evaluación de la vulnerabilidad (ver Caja 1). Así, como resultado final de la metodología, el riesgo se categorizó en alto, medio y bajo en función del nivel de afectación esperada. Para apoyar técnicamente a los entes territoriales a incorporar la GRD a sus instrumentos de planificación territorial, la metodología se planteó con un enfoque probabilista en la modelación de la amenaza, vulnerabilidad física y cálculo de riesgo. Adicionalmente se planteó el diagnóstico y evaluación de la vulnerabilidad social siguiendo la metodología de UNGRD-IEMP [7]. En este capítulo se resumen los componentes principales de la metodología apropiados para la escala de trabajo reglamentada por el Decreto 1807 de 2014. Todos los detalles metodológicos se pueden encontrar en UNGRD (2018) [8].
+
+### 2.1. Evaluación de la amenaza
+
+La metodología de amenaza por inundación se basa en la *Guía Metodológica para la Elaboració**n de Mapas de Inundación* [9], la cual contiene enfoques metodológicos para el análisis de inundaciones y la elaboración de mapas de inundación en función de la escala y su respectiva aplicación.
+
+2.1.1. Información básica
+
+Un modelo de amenaza por inundación evalúa variables como la extensión de la inundación, la altura de la lámina de agua, la velocidad del flujo y el tiempo de permanencia de la inundación. Para ello, es indispensable el análisis morfológico, hidrológico e hidráulico del cuerpo de agua. Dentro de la información básica necesaria es necesario contar con: las series hidrometeorológicas del área de estudio, un Modelo Digital de Elevación detallado (MDE), información histórica y gráfica georreferenciada de eventos históricos, con la cual se compara y validan los resultados de la modelación realizada.
+
+Dos de los resultados principales del modelo son la profundidad de lámina de agua (o tirante hídrico), y la velocidad media de flujo, que corresponden a medidas de intensidad de amenaza de interés para la evaluación de los posibles efectos negativos de las inundaciones sobre la población y su infraestructura y medios de vida. Con esto es posible categorizar la amenaza por inundación en Alta, Media y Baja para diferentes periodos de retorno. El resultado del modelo de amenaza como insumo para la metodología de EPR por inundación es una colección de mallas de valores estimados de las profundidades de inundación y velocidad media de flujo, asociadas a diferentes períodos de retorno, para una localización particular. 
+
+2.1.2. Series hidrometeorológicas
+
+Corresponden a registros históricos de precipitación, niveles y caudales del área de estudio, resultado del monitoreo hidrológico del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) u otras entidades que sigan los estándares de medición establecidos por la Organización Meteorológica Mundial (OMM) [10].
+
+2.1.3. Modelo Digital de Elevaciones (MDE)
+
+Para el análisis de amenaza por inundación es fundamental contar con un MDE acorde a la escala de trabajo. El MDE es una representación visual y matemática de los valores de altura con respecto al nivel medio del mar que típicamente se presenta en un formato ráster, el cual es una matriz de celdas (píxeles), organizadas en filas y columnas y que cubren alguna región del mundo. Para la EPR a nivel urbano, el MDE debe tener, como mínimo, una resolución espacial de 1 metro (pixel = 1×1 m) para obtener cartografía a escala 1:2,000 tal como se especifica en el Decreto 1807 de 2014 [11]. El MDE debe contener la llanura inundable, el cauce del río/cuerpo de agua de interés, y todas las estructuras de protección de inundación y control hidráulico existentes en el sitio de análisis.
+
+2.1.4. Mapas de eventos
+
+Un formato efectivo de comunicación de los resultados del modelo para apoyar la toma de decisiones son los mapas de eventos de inundación. Se obtienen mediante la integración de información de sensores remotos, trabajo de campo y datos georreferenciados sobre eventos históricos provenientes de crónicas, fotografías, mapas, a partir de los cuales es posible validar los productos obtenidos con la modelación.
+
+2.1.5. Metodología de análisis de amenaza por inundación a escala 1:2000
+
+En la **Figura 1** se presenta el proceso metodológico utilizado para la modelación de amenaza por inundación a partir del análisis hidrológico, hidráulico y espacial. El análisis hidrológico comprende el cálculo de caudales máximos (o niveles máximos, según corresponda al tipo de inundación, ver **Caja 2**) de distintos períodos de retorno. De acuerdo con Chow et al. (1994) [12], la magnitud de un evento extremo está inversamente relacionada con su frecuencia de ocurrencia. Es decir, eventos muy severos ocurren con menor frecuencia que eventos más moderados. Estos caudales se transitan usando un modelo hidrodinámico bidimensional que, a partir del MDE ajustado y de la solución aproximada de ecuaciones de conservación de la masa y momento lineal (Ecuaciones de Navier-Stokes para flujo incompresible), permite calcular las profundidades de inundación y velocidades medias de flujo en cada nodo del dominio establecido. El modelo se somete a protocolos de calibración y validación con la información histórica y gráfica de eventos históricos.
+
+Dado que los eventos de inundación son dinámicos en el espacio-tiempo, los mapas de amenaza deben ser actualizados periódicamente y se debe propender por su difusión, de tal manera que los tomadores de decisión puedan actuar en la implementación de medidas de reducción del riesgo. 
+
+
+
+**Figura 1.** Metodología análisis de amenaza de inundación. Fuente [9].
+
+
+| Caja 2. Tipos de inundación lenta Inundación: el glosario de términos del reporte SREX del Panel Intergubernamental de Cambio Climático (IPCC) [13] define las inundaciones como: El desbordamiento de los confines normales de un arroyo u otro cuerpo de agua, o la acumulación de agua sobre zonas que normalmente no están sumergidas. Las inundaciones incluyen las inundaciones fluviales, las inundaciones repentinas, las inundaciones urbanas, las inundaciones pluviales, las inundaciones de alcantarillado, las inundaciones costeras y las inundaciones por desbordamiento de lagos glaciares. Particularmente, el caso de inundaciones lentas hace referencia a eventos que se producen sobre terrenos planos que desaguan muy lentamente (en un rango de semanas o meses), cercanos a las riberas de los ríos o en zonas de planicie donde hay alta pluviosidad.  Independientemente de su causa u origen meteorológico (ciclones tropicales, precipitaciones convectivas, u orográficas, deshielo, entre otros) las inundaciones lentas se pueden clasificar en: Fluvial o por desbordamiento: se produce cuando el nivel de agua de un río, lago o arroyo sube y se desborda sobre las orillas, costas o terreno aledaño (llanura de inundación).  Pluvial o por encharcamiento: ocurre cuando un evento de lluvia extrema crea una inundación independiente de una masa de agua desbordada. Las inundaciones pluviales pueden producirse en cualquier lugar, ya sea urbano o rural, incluso en zonas sin cuerpos de agua en las proximidades. |
+| --- |
+
+### 2.2. Modelo de exposición
+
+En la evaluación del riesgo catastrófico se considera que detallar las propiedades individuales de cada uno de los elementos expuestos resulta impráctico [14], debido a que: i) el trabajo de campo y el procesamiento de información de cada elemento demandan recursos –tiempo y dinero- que usualmente exceden el alcance de los EPR, y ii) el muestreo estadístico permite realizar una caracterización de los elementos expuestos lo suficientemente exhaustiva para el objetivo de los EPR. Como alternativa, se recomienda elaborar modelos de exposición mediante los cuales se representa la localización, tipos de elementos y su valor. A continuación, se presenta un procedimiento para elaborar modelos de exposición de edificaciones ante inundaciones.
+
+2.2.1. Localización
+
+La localización en planta se define mediante las coordenadas del centroide de las construcciones según la cartografía catastral del Instituto Geográfico Agustín Codazzi (IGAC) [15]. A su vez, se utiliza un MDE para identificar su posición en altura.
+
+2.2.2. Tipologías estructurales
+
+Una tipología estructural es una combinación de características tales como el sistema resistente, el material de la construcción, el número de pisos, entre otras. Para simplificar la estimación de daños es recomendable clasificar las edificaciones en tipologías estructurales [14], asumiendo que las edificaciones de una misma tipología tienen un comportamiento semejante ante inundaciones
+
+La **Tabla 1** presenta una descripción de las características incluidas en la definición de tipologías estructurales, las cuales se establecieron a partir de la revisión de estudios de riesgo elaborados por [14,16–20].  Las tipologías estructurales se definieron considerando las siguientes propiedades: sistema resistente a cargas, material de construcción, tipo de cubierta, sistema de soporte de la cubierta y número de pisos
+
+**Tabla 1.** Propiedades utilizadas en la definición de tipologías estructurales.
+
+
+| Componente de la estructura | Características | Utilidad |
+| --- | --- | --- |
+| Sistema resistente a cargas | Sistema resistente a cargas | Definir el tipo de estructura (muros, pórticos) y los materiales de construcción que estarán expuestos ante las cargas derivadas por el empuje del agua. |
+| Sistema resistente a cargas | Material sistema resistente | Definir el tipo de estructura (muros, pórticos) y los materiales de construcción que estarán expuestos ante las cargas derivadas por el empuje del agua. |
+| Sistema resistente a cargas | Fecha de construcción | Definir condiciones de ductilidad y de resistencia de los elementos estructurales |
+| Pisos | Material del sistema resistente del piso | Determinar si existen condiciones de diafragma rígido. |
+| Pisos | Sistema de soporte del piso | Determinar si existen condiciones de diafragma rígido. |
+| Pisos | Conexión del piso a la estructura | Determinar si existen condiciones de diafragma rígido. |
+| Pisos | Material de acabado del piso | Identificar condiciones de impermeabilidad |
+| Techo | Forma del techo | Identificar la capacidad de drenaje de la cubierta |
+| Techo | Material de la cubierta | Identificar condiciones de impermeabilidad |
+| Techo | Material del sistema resistente del techo | Determinar si existen condiciones de diafragma rígido |
+| Techo | Sistema de soporte del techo | Determinar si existen condiciones de diafragma rígido |
+| Techo | Conexión del techo a la estructura | Determinar si existen condiciones de diafragma rígido |
+| Paredes | Material de paredes | Identificar condiciones de impermeabilidad |
+| Paredes | Porcentaje de abertura de paredes | Evaluar la superficie resistente a las presiones ejercidas por el agua. |
+| Altura y número de plantas | Número de plantas sobre rasante | Determinar la altura de la estructura y la distribución de los elementos expuestos en cada planta. |
+| Altura y número de plantas | Número de plantas bajo rasante | Determinar la altura de la estructura y la distribución de los elementos expuestos en cada planta. |
+| Altura y número de plantas | Altura entrepiso | Determinar la altura de la estructura y la distribución de los elementos expuestos en cada planta. |
+| Nivel sobre rasante y protecciones | Altura entrada sobre la rasante | Determinar si existen elementos de protección ante inundaciones y la altura a la cual la estructura estaría protegida. |
+| Nivel sobre rasante y protecciones | Altura protección | Determinar si existen elementos de protección ante inundaciones y la altura a la cual la estructura estaría protegida. |
+
+Para clasificar las edificaciones en tipologías se adopta un procedimiento (**Fig****. ****2**) que divide el área de estudio en zonas homogéneas. En cada zona se asume que las edificaciones son semejantes según el uso, periodo de construcción, entre otros factores. A partir de inspecciones en una muestra de edificaciones se identifican las propiedades de la **Tabla 1** y se obtienen porcentajes de participación de las tipologías más frecuentes, clasificadas según el número de pisos. Teniendo en cuenta que en la información catastral se encuentra el número de pisos, es posible asignar a cada edificación una o varias tipologías estructurales de acuerdo con los resultados de las inspecciones.
+
+
+
+**Figura 2.** Procedimiento para la clasificación de edificios y asignación de tipologías estructurales. Fuente: [8]. 
+
+Adicionalmente, en las inspecciones realizadas se incluyeron preguntas respecto a la existencia de medidas de protección ante inundaciones, así como la altura promedio de tales medidas. Esta información se considera relevante para identificar la capacidad de adaptación de la población
+
+2.2.3. Valor económico y población expuesta
+
+El valor económico de las edificaciones se determina según el avalúo catastral [15]. El valor de los contenidos se obtiene de encuestas mediante las cuales se determinan rangos de variación según el tipo de contenido y del estrato socioeconómico. La población expuesta se estimó usando el censo de población y vivienda de 2005 según manzanas [21]. Usando proyecciones disponibles en el Departamento Administrativo Nacional de Estadística (DANE), se estima la población al año de interés 2017. A partir de estos datos y conociendo el número de construcciones según manzanas, se obtienen valores promedio del número de habitantes según construcciones.
+
+### 2.3. Evaluación y análisis de la vulnerabilidad física
+
+El modelo de vulnerabilidad física propuesto plantea un método de análisis de las condiciones estructurales y de contenidos de edificaciones ante solicitudes ejercidas por eventos de inundación. El objetivo principal es construir funciones de vulnerabilidad a partir de técnicas de simulación considerando características identificables mediante inspecciones en campo. Se construyen funciones para cada tipología definida en el modelo de exposición, las cuales permiten representar las condiciones de vulnerabilidad en un grupo de elementos expuestos con características similares. La metodología considera que las pérdidas económicas en un elemento expuesto se concentran principalmente en dos rubros: los contenidos y la edificación (elementos estructurales y no estructurales). 
+
+2.3.1. Vulnerabilidad del rubro de contenidos
+
+La metodología se basa en la propuesta de Huerta-Garnica et al. [22], y permite determinar las pérdidas en los contenidos de un inmueble específico partiendo de un tirante hídrico conocido y asumiendo que no se presenta el colapso de la estructura.
+
+Bajo este supuesto, se generan realizaciones de inmuebles utilizando simulaciones de Montecarlo [23], considerando la incertidumbre asociada a la tenencia de enseres (tiene o no tiene), el valor de los contenidos, la localización en altura con respecto al piso y la altura libre de entrepiso. Los resultados de pérdida individual por tipo de contenido son integrados para obtener la pérdida total en el inmueble (**Fig****. ****3**). 
+
+
+
+**Figura 3****.** Procedimiento para evaluación de vulnerabilidad en rubro de contenidos. Fuente: [8]. 
+
+El supuesto considerado para el daño de contenidos se resume así: para una realización  $j$  con  $N$  contenidos y para un tirante hídrico (TH), el porcentaje de pérdida se evalúa de acuerdo con la siguiente ecuación.
+
+$$%Dañoj,th=i=1NFdith∙Pii=1NPi$$
+
+
+
+Donde;
+
+$%Dañoj,th$ 	= Porcentaje de daño en la realización *j*, evaluado para un TH particular
+
+$Fdith$ 	= Función de daño para el contenido *i*, evaluado para un TH particular
+
+$Pi$ 		= Precio estimado del contenido
+
+N		= Número total de contenidos en la edificación hipotética definida en la realización
+
+El resultado final del procedimiento es una función de vulnerabilidad (**Fig****. ****4**) que relaciona cada intensidad del tirante hídrico con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones de vulnerabilidad se encuentran en [8]. 
+
+
+
+**Figura ****4****.** Ejemplo de función de vulnerabilidad para el rubro de contenidos. Fuente: [8]. 
+
+2.3.2. Vulnerabilidad del rubro de edificaciones
+
+De forma similar al análisis del rubro de contenidos, en el caso de edificaciones la evaluación de vulnerabilidad se realiza a partir de simulaciones mediante el método de Montecarlo. La metodología (**Fig****. ****5**) incluye modelos mecánicos de las tipologías constructivas que permiten definir diferentes estados de esfuerzos y de daño en sus elementos estructurales y no estructurales. Las variables consideradas en la evaluación del daño en estructuras son: el espesor de muros, la capacidad de los materiales, las cargas gravitacionales de cubierta y de placa, y el área aferente de cubierta y de placa sobre los muros. 
+
+
+
+**Figura ****5****.** Procedimiento para evaluar la vulnerabilidad de edificaciones. Fuente: [8]. 
+
+Para cada tipología se construyen modelos simplificados de elementos finitos que evalúan los efectos de fuerzas hidrostáticas e hidrodinámicas generadas por un evento de amenaza simulado. Un evento de inundación ejerce varios tipos de fuerzas sobre una edificación como el suelo hidrostático saturado, las presiones de agua hidrostáticas e hidrodinámicas, el impacto de escombros y fuerzas erosivas bajo la cimentación [24]. La metodología propuesta considera la presión de agua hidrostática e hidrodinámica para determinar el estado de esfuerzos en las edificaciones. El impacto de escombros, presión de suelos saturados y efectos de erosión no se incluyen. Los cálculos de fuerzas son realizados para todo el rango de velocidades flujo y de tirante hídrico estimadas en el componente de amenaza. La dirección de las fuerzas hidrodinámicas se asume como perpendicular a la fachada de la edificación. Con estas fuerzas y con información de espesor de muros, cargas y áreas aferentes de cubierta y de fachada, se definen los estados de esfuerzos. Con esto y la capacidad del material estructural se determinan los estados de daño: sin daño, inundado, fisurado, y estado de rotura.
+
+Cada estado de daño tiene un costo de reparación que se expresa en proporción al costo de reemplazo del elemento. Estos costos de reparación se definen a partir de análisis de precios unitarios de las actividades requeridas para reestablecer las condiciones iniciales de la edificación. El porcentaje de daño en cada realización y para cada par tirante hídrico-velocidad media de flujo se define como la relación entre la sumatoria del costo de reparación y/o reemplazo de los elementos afectados y los costos de reemplazo de la totalidad de los elementos considerados. Para una realización j, el porcentaje de daño en la edificación afectada por un tirante hídrico TH, y una velocidad media de flujo V se define como:
+
+$$%Dañoj,th,V=R∙RER+F∙REF+IN∙REINN∙RER$$
+
+
+
+Donde;
+
+$%Dañoj,th,V$ 	= Porcentaje de daño en la realización *j*, evaluado para un TH particular
+
+$RER$ 		= Costo de reposición de un elemento en estado de rotura o elemento nuevo
+
+$REF$ 		= Costo de reparación de un elemento fisurado en proporción al costo de reposición de un elemento nuevo. 
+
+$REin$ 		= Costo de reparación de un elemento inundado en proporción al costo de reposición de un elemento nuevo. 
+
+*N*		= Número total de elementos considerados en la modelación
+
+*	R*		= Número de elementos en estado de rotura
+
+*	F*	*	= *Número de elementos fisurados
+
+*IN*		= Número de elementos inundados
+
+El resultado final del procedimiento es una función de vulnerabilidad (**Fig****.** **6**) de edificaciones que relaciona cada intensidad del tirante hídrico, y de velocidad media de flujo, con el valor esperado del daño y su correspondiente desviación estándar. Los detalles del desarrollo de estas funciones se encuentran en [8].
+
+
+
+**Figura ****6****.** Ejemplo de función de vulnerabilidad para el rubro de edificaciones. Fuente: [8]. 
+
+Los parámetros en orden de relevancia en la evaluación de vulnerabilidad de edificaciones y su relación con la vulnerabilidad se presentan en la **Tabla 2**.
+
+**Tabla ****2****. **Relación entre parámetros considerados y variación de la vulnerabilidad.
+
+
+| Parámetro | Relación con la vulnerabilidad de edificaciones ante inundación |
+| --- | --- |
+| Material de Construcción. | A mayor resistencia del material menor vulnerabilidad. |
+| Espesor de muros. | A mayor espesor de muros menor vulnerabilidad. |
+| Número de pisos. | A mayor número de pisos menor vulnerabilidad. |
+| Existencia de diafragma rígido. | La existencia de diafragma rígido reduce la vulnerabilidad. |
+| Cargas de placa y cubierta. | A mayor carga de cubierta y carga de placa menor vulnerabilidad. |
+
+
+| Caja 3. Glosario modelo de evaluación y análisis de vulnerabilidad Función de vulnerabilidad: relaciona cada intensidad del tirante hídrico con el valor esperado del daño y su correspondiente desviación estándar [25]. Realización: una realización de un experimento aleatorio es el resultado de una repetición de esa experiencia, condicionada por unos parámetros y funciones determinadas con anterioridad.   Relación Media de Daño (RMD): porcentaje de afectación expresado en términos de valor de reposición o reparación del daño causado a un elemento expuesto, normalizado con respecto al valor expuesto total del elemento [26]. Rubro: conjuga las posibles categorías constituyentes de un elemento expuesto particular. Para estos lineamientos, hace referencia a los componentes de dicho elemento, específicamente los contenidos y la edificación. Para la EPR por inundación se propone el análisis separado de los rubros de contenidos y edificación, generando una función de vulnerabilidad única para cada uno de ellos, para cada tipología estructural.  Tenencia: posesión de un enser o contenido individual (se define como tiene o no tiene) esta información se obtiene en las encuestas de campo para cada contenido en cada edificación. Tipología estructural: combinación de un conjunto de propiedades estructurales que describen a un edificio [27]. Tirante hídrico: magnitud también conocida como calado o altura o profundidad de inundación en una zona particular.  Velocidad media de flujo: magnitud que representa la velocidad promedio (usualmente al 40% de la profundidad del cauce) en un punto de análisis. |
+| --- |
+
+**2.4. Evaluación y análisis de la ****vulnerabilidad social**
+
+En los últimos años el país ha tenido notables avances en la evaluación del riesgo y específicamente en el análisis de la vulnerabilidad. La Ley 1523 de 2012 afirma que “La gestión del riesgo de desastres es un proceso social orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas, regulaciones, instrumentos, medidas y acciones permanentes para el conocimiento y la reducción del riesgo y para el manejo de desastres, con el propósito explícito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas y al desarrollo sostenible” [3]. En este contexto, se evidencia la necesidad de incorporar el análisis de la vulnerabilidad social a la evaluación de riesgo para construir un enfoque integral que considere elementos relacionados con la seguridad, el bienestar y la calidad de vida de la población.
+
+Para la evaluación de la vulnerabilidad existen varias aproximaciones [28–35], que tienen en cuenta aspectos tales como: el económico, institucional, físico, ambiental, ecológico, tecnológico, científico, material, cultural, sanitario y epidemiológico [36].
+
+Las orientaciones metodológicas surgen del documento elaborado por la UNGRD-IEMP en el año 2017 “Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres” [7]; así como de la experiencia y lecciones aprendidas generadas en proyectos con comunidades. Los detalles metodológicos están en la **Figura 7**. 
+
+
+
+**Figura ****7****. **Esquema metodológico para el análisis de la vulnerabilidad social. Fuente: adaptado y complementado de [7].
+
+Entre los aspectos clave de la metodología están: (i) realizar un acercamiento inicial a los actores e instituciones: elaboración de un mapeo de actores. (ii) Realizar la caracterización de los hogares y territorial: se recomienda incluir los componentes principales que se presentan en la **Figura 8**, y realizar un análisis de la percepción local del riesgo que son preguntas relacionadas no solamente con inundación, sino también con otras fuentes de peligro como sismos, tsunamis, volcanes, flujos de lodo, incendios urbanos, mala calidad sanitaria, entre otras. (iii) Realizar la caracterización de indicadores socioeconómicos: permiten medir la vulnerabilidad social en términos de los derechos básicos de las personas y de su acceso a los servicios del Estado [7].
+
+**Figura ****8****.** Elementos de análisis en las preguntas orientadoras del contexto hogares, individuos o comunidades. Fuente: adaptado y complementado de [7].
+
+Se identificaron otros indicadores para complementar el análisis de vulnerabilidad, relacionados con la salud, dado que en diferentes investigaciones se ha encontrado que es uno de los puntos críticos para el análisis de la vulnerabilidad social [37]. Además, durante talleres de vulnerabilidad social, se identificó que esta variable se asocia a los periodos de inundación [8]. (iv) Coproducción: Resulta clave la construcción colectiva de conocimiento para el cambio transformativo entre diferentes actores. Las herramientas usadas se presentan a continuación. En la **Figura 9** se presentan algunos resultados de la implementación de estos espacios de coproducción.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 9****.** Espacios de participación en el municipio de San Marcos (Sucre). 
+
+
+| Caja 4. Conceptos clave de la vulnerabilidad social Adaptación: comprende el ajuste de los sistemas naturales o humanos a los estímulos climáticos actuales o esperados o a sus efectos, con el fin de moderar perjuicios o explotar oportunidades beneficiosas. En el caso de los eventos hidrometeorológicos la adaptación al cambio climático corresponde a la gestión del riesgo de desastres en la medida en que está encaminada a la reducción de la vulnerabilidad o al mejoramiento de la resiliencia en respuesta a los cambios observados o esperados del clima y su variabilidad [3]. Construcción social del riesgo: se refiere a los procesos a través de los cuales la sociedad y los distintos agentes sociales contribuyen a la creación de contextos y entornos de riesgo. Esto ocurre o por la transformación de eventos naturales en amenazas debido a la inadecuada ubicación de edificaciones e infraestructuras, producción y satisfactores de la vida etc.; por la transformación de recursos naturales en amenazas a través de procesos de degradación ambiental; o por la creación y consolidación de condiciones diversas de vulnerabilidad, las cuales potencian la acción negativa de las amenazas y eventos peligrosos. Algunos autores también ven en el proceso de percepción y subjetivización del riesgo, un proceso de “construcción social” del riesgo [31]. Gobernanza del riesgo de desastres: sistema de instituciones, mecanismos, políticas y marcos legales y otros mecanismos diseñados para guiar, coordinar y supervisar la gestión del riesgo de desastres y áreas relacionadas con políticas públicas y privadas (a partir de UNGA (2016) [38]. Resiliencia: la capacidad de un sistema, comunidad o sociedad expuestos a una amenaza para resistir, absorber, adaptarse y recuperarse de sus efectos de manera oportuna y eficaz, lo que incluye la preservación y la restauración de sus estructuras y funciones básicas [39]. Vulnerabilidad: susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos [4]. Vulnerabilidad social: es una función de la capacidad de prever, enfrentar, y recuperarse de eventos críticos que implica la pérdida de activos materiales o inmateriales [40]. Una persona puede ser más o menos vulnerable ante la ocurrencia de eventos críticos externos dependiendo de cómo el individuo administre sus activos tangibles e intangibles, y cómo estos pueden verse afectados ante la ocurrencia de un desastre. La vulnerabilidad social entonces, va más allá de la afectación de estructuras físicas, e incluye las diferentes características y capacidades de los individuos [7]. |
+| --- |
+
+### 2.5. Evaluación y análisis del riesgo
+
+La EPR por inundación es gobernada por la incertidumbre [41,42]. Ese contexto, sumado a la baja o nula disponibilidad de información histórica con datos de consecuencias sobre la población y sus medios de subsistencia y a la posibilidad de la ocurrencia de eventos desastrosos, genera que las evaluaciones de riesgo deban enfocarse hacia metodologías probabilistas que involucren y propaguen las incertidumbres temporales y espaciales envueltas en el proceso [27].
+
+En consecuencia, esta sección presenta un procedimiento general para la EPR por inundaciones lentas a escalas de detalle (1:2,000) en zonas urbanas (**Fig****. ****10**), con el objetivo de responder dos preguntas primordiales: i) ¿qué tanto daño puede producirse sobre un conjunto de elementos expuestos?; ii) ¿con qué frecuencia? La respuesta a estas preguntas se plantea por medio de una metodología que involucra los componentes de amenaza por inundación y vulnerabilidad física a partir de un proceso matemático de convolución, para un conjunto de elementos expuestos de interés. 
+
+El método de EPR propuesto se presenta en la **Figura 1****0**. El procedimiento se inicia a partir del primer evento de amenaza (*k de N*), para un elemento expuesto en particular (*j de L*). Sobre dicho elemento se realiza un proceso de simulación de Montecarlo que genera (*n*) realizaciones de tirante hídrico considerando los dos primeros momentos estadísticos de la intensidad de amenaza (*E**th,V**, σ**th,V*) (tirante hídrico y velocidad media de flujo). Para cada una de las intensidades de amenaza simuladas, se realiza un segundo proceso de Montecarlo que genera (*m*) realizaciones de daño en los rubros de contenidos y de edificación, considerando los valores esperados –y su desviación estándar- del daño de cada rubro, definido en las funciones de vulnerabilidad correspondientes. Este proceso se realiza para todas las (*n*) realizaciones de amenaza del primer evento.
+
+A partir del cálculo de las (*m*) realizaciones de daño por cada rubro, se realiza la suma de daños generados en cada uno de ellos y se estima la bondad de ajuste a una Función de Distribución de Probabilidad (FDP) conocida y se caracteriza por medio de los dos primeros momentos estadísticos de la pérdida. Posteriormente, se repite el proceso para todos los elementos expuestos de análisis (*L*), para el primer evento de amenaza considerado (*k de N*).
+
+Para obtener el resultado de la pérdida del primer evento de análisis (*FDP**ev*), se efectúa la suma de los momentos estadísticos de daño estimados para todos los elementos expuestos (*L*), teniendo en cuenta la correlación de pérdidas inter-evento. Por último, el procedimiento mencionado se repite para todos los eventos de amenaza (*N*) que describen *todas* las posibles formas en las que se puede presentar una inundación en la zona de estudio, reportando la pérdida total para cada evento. A partir de esta información es posible calcular la Curva de Excedencia de Pérdidas (CEP) y los indicadores de riesgo que se derivan de ella: Pérdida Anual Esperada (PAE), Pérdida Máxima Probable (PML), Prima Pura de Riesgo (PPR), entre otras. Todos los detalles metodológicos del procedimiento se pueden consultar en [8].
+
+
+
+**Figura 1****0****. **Esquema metodológico general de EPR por inundación propuesto. Fuente: [8]. 
+
+
+| Caja 5. Glosario modelo de evaluación probabilista de riesgo por inundación Análisis y evaluación de riesgo: implica la consideración de las causas y fuentes del riesgo, sus consecuencias y la probabilidad de que dichas consecuencias puedan ocurrir. Es el modelo mediante el cual se relaciona la amenaza y la vulnerabilidad de los elementos expuestos, con el fin de determinar los posibles efectos sociales, económicos y ambientales y sus probabilidades. Se estima el valor de los daños y las pérdidas potenciales, y se compara con criterios de seguridad establecidos, con el propósito de definir tipos de intervención y alcance de la reducción del riesgo y preparación para la respuesta y recuperación [39]. Convolución: formalmente, es un operador matemático que se define como la integral del producto de dos funciones. En otros términos, se puede entender como un procedimiento que permite hallar la distribución de probabilidad de la operación entre dos funciones. Para el caso particular de la evaluación del riesgo, las dos funciones corresponden a las variables aleatorias que describen la amenaza y la vulnerabilidad de un elemento expuesto [43]. Curva de excedencia de pérdidas (CEP): curva que especifica las frecuencias, usualmente anuales, con que ocurrirán eventos en el futuro que excedan un valor determinado de pérdidas para un portafolio de elementos expuestos analizado [25]. Evaluación probabilista de riesgo (EPR): Valoración de las consecuencias negativas (usualmente pérdida de vidas, daños económicos, daños de infraestructura, entre otros) que pueden ocurrir producto de la ocurrencia de eventos de amenazas (de origen natural, tecnológico, antrópico, entre otros) sobre un conjunto de elementos expuestos (p. ej. Población, infraestructura vial, medios de sustento, etc.). La metodología de EPR evalúa las condiciones existentes de vulnerabilidad de los elementos expuestos ante los eventos de amenaza, involucrando la incertidumbre en el proceso de análisis.  Evento: formalmente se conoce como un subconjunto del espacio muestral. Específicamente, corresponde a cualquier subconjunto que contenga varios puntos de muestreo, los cuales hacen referencia a cada posible resultado presente en el espacio muestral. Función de Distribución de Probabilidad (FDP): función y expresión matemática que determina la probabilidad para cada uno de los valores que una determinada variable aleatoria puede tomar [26]. Pérdida: cantidad asociada a una gran incertidumbre, proveniente de diversas fuentes y de los componentes de análisis de amenaza y vulnerabilidad. Por tanto, es una cantidad de la cual no se puede conocer su valor con exactitud o certeza y, por ende, es tratada como una variable aleatoria descrita por una distribución de probabilidad, condicionada a la ocurrencia de un evento [26]. Pérdida Anual Esperada (PAE): corresponde al valor de pérdida esperado en un lapso anual para un portafolio de elementos expuestos específico [25]. Pérdida Máxima Probable (PML): hace referencia a un valor de pérdida que ocurre con muy baja frecuencia, es decir, que se encuentra asociada a un período de retorno muy largo, o alternativamente, a una tasa de excedencia muy baja [25]. Período de retorno: también conocido como el período o intervalo de recurrencia. Puede ser definido como la probabilidad temporal que se mide en años. Específicamente mide el tiempo medio que transcurre entre eventos independientes [26]. Prima Pura de Riesgo (PPR): indicador típico en el sector asegurador para caracterizar el riesgo de un portafolio de elementos expuestos. Es obtenido a partir de la relación entre la PAE y el valor físico expuesto total para un elemento, o grupo de elementos analizados [25]. |
+| --- |
+
+## 3. RESULTADOS ESTUDIO DE CASO: MONTELÍBANO (CÓRDOBA)
+
+### 3.1. Zona de estudio
+
+Como caso de estudio para la aplicación de la metodología propuesta se seleccionó la región de La Mojana. Esta región es un delta hídrico que comprende 11 municipios de 4 departamentos de Colombia, por la cual transitan los ríos Magdalena, Cauca y San Jorge hacia su desembocadura en el mar Caribe. Por su topografía plana, la región presenta las condiciones ideales para la ocurrencia de eventos de inundación lenta de diferentes tipologías como (i) por desbordamiento de ríos y/o canales, y (ii) inundación pluvial. Por estas dos condiciones, en conjunto con la disponibilidad de modelos digitales de terreno detallados (tecnología LiDAR), La Mojana fue seleccionada como zona de estudio. En particular, cuatro cabeceras municipales se priorizaron para los casos de estudio: Magangué y Mompox (Bolívar), San Marcos (Sucre) y Montelíbano (Córdoba). En este artículo, se presentan en detalle los resultados para la cabecera municipal de Montelíbano (Córdoba).
+
+El Municipio de Montelíbano se localiza al sur del departamento de Córdoba. Limita con los municipios de Buenavista, Planeta Rica, San José de Uré, La Apartada, y Tierralta (**Fig****. 11**). La cabecera municipal está localizada al nororiente del Municipio, ubicada entre los 40 y 50 m.s.n.m, en la ribera oriental del río San Jorge con temperaturas medias de 32ºC y una precipitación media anual de 2500 mm con un período de lluvias entre mayo y septiembre. Corresponde a un municipio de Categoría 6, con una población estimada a 2022 de 69,277 habitantes.
+
+
+
+**Figura**** 1****1****.** Localización general de la cabecera municipal de Montelíbano (Córdoba).
+
+**3.2. Evalu****ación de la amenaza Montelíbano**
+
+**Información gráfica de un evento histórico**
+
+Se obtuvo la imagen del satélite Landsat 8 del 29 de septiembre de 2017 (**Fig****.**** 12**) (resolución espacial de 15 m) e información georreferenciada en campo obtenida por el componente social del proyecto.
+
+
+
+**Figura 1****2****.** Imagen evento de inundación del 08 mayo de 2018. Fuente: [44]. 
+
+**Modelación hidrológica**
+
+Se realizó el análisis de frecuencias de caudales máximos instantáneos en la estación hidrológica Montelíbano (Cód. 25017010, **Fig****. ****13**) y un modelo hidrológico de precipitación-escorrentía para la microcuenca de la quebrada Muchajagua.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 1****3****. **Estación Montelíbano el 17 de abril de 2018 (izquierda) y su estado el 9 de mayo de 2018 (derecha).
+
+El periodo de datos seleccionados fue de 1974 a 2015, en donde el comportamiento de los caudales máximos demuestra la existencia de una tendencia positiva en los registros, según las pruebas T y Hotelling-Pabst (**Fig****. ****14**), se puede explicar a partir de fenómenos climáticos tipo El Niño Oscilación Sur (ENOS), cambio en la tecnología de medición o pérdida de capacidad hidráulica de la sección por acumulación de sedimentos en el punto de registro, entre otros. Por lo anterior, el análisis planteado correspondió al tratamiento de variables no estacionarias, en la que se debe demostrar aleatoriedad de los conjuntos estadísticos para el posterior ajuste de funciones teóricas usando la prueba de Kolmogorov (1931) [45].
+
+
+
+**Figura 1****4****.** Serie de caudales máximos instantáneos estación Montelíbano (25017010).
+
+A partir de la prueba de aleatoriedad de Rachas [46] se obtuvo que el conjunto de datos anual, así como los mensuales de enero, mayo, junio, agosto, y septiembre no corresponde a series aleatorias, por tal motivo no fue procedente su ajuste [47]. Por tanto, se seleccionó el mes de julio como el de mayor aporte de caudales en el año hidrológico, caracterizado como un subconjunto aleatorio. La FDP Gumbel_r (Gumbel con sesgo a la derecha), es la que mejor aproxima el universo completo de magnitudes con sus probabilidades para este mes. En la **Tabla 3** se presentan las magnitudes de caudal asociadas a los periodos de retorno de interés para el modelo de EPR.
+
+**Tabla ****3***.* Periodos de retorno estación Montelíbano conjunto estadístico de julio
+
+
+| Cab. Municipal | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] | Tr [años] / [Q m³/s] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cab. Municipal | 2.33 | 5 | 10 | 15 | 25 | 40 | 50 | 60 | 75 | 100 | 150 | 300 |
+| Montelíbano | 761.3 | 1007 | 1207 | 1319 | 1459.8 | 1587.2 | 1647.4 | 1691.2 | 1763.3 | 1833.6 | 1940.9 | 2130.2 |
+
+Modelo digital de elevación
+
+Se usó un MDE con resolución espacial de 1.0 m con el cual cuenta el IDEAM, producto del proyecto modelación hidrodinámica de la Mojana del Fondo de Adaptación [48]. 
+
+
+
+**Figura 15****.** Modelo Digital de Elevación (MDE) e imagen de alta resolución Municipio de Montelíbano.
+
+**Modelación hidráulica**
+
+Se empleó el modelo hidrodinámico bidimensional HEC RAS 5.0.3 del U.S Army Corp of Engineers (USACE) [49] calibrado a partir de las cotas de lámina de agua de la estación Montelíbano (Cód. 25017010) y validado con información de campo e imágenes satelitales de un evento histórico (Fig. 12). El dominio computacional cubre un área de 20 km2 (**Fig****.** **16**) abarcando 13.3 km del río San Jorge, conformado por 8106 celdas con un espaciamiento de DX= 50 m y DY= 50 m (**Fig****. ****16**). 
+
+La condición de frontera de entrada al modelo hidrodinámico son los caudales registrados en la estación Montelíbano para el escenario de calibración, y los caudales pico para cada período de retorno calculados en el análisis hidrológico (**Tabla ****3**). La condición de frontera de salida se definió como la pendiente media de la lámina de agua, determinada a partir del análisis de las cotas de tirante hídrico de las estaciones Montelíbano y Pto. Córdoba.
+
+
+
+**Figura 1****6****.** Dominio computacional y condiciones de frontera del modelo.
+
+A partir de los aforos líquidos de la estación Montelíbano elaborados por el IDEAM entre 1973 y 2011 y la pendiente hidráulica media del tramo Montelíbano – Pto Córdoba, se hizo una estimación inicial del n de Manning con un valor medio de 0.0315, un mínimo de 0.0208 y un máximo de 0.051 con una desviación estándar de 0.004 para caudales entre 20.9 m3/s y 841.2 m3/s (**Fig****. ****1****7**). La calibración se realizó con las cotas de lámina de agua del año 2009, obteniendo un n de 0.03 para el cauce principal y de 0.08 para la llanura de inundación.
+
+
+
+**Figura 1****7****.** Estimación inicial del n de Manning a partir del resumen de aforos líquidos (arriba). Calibración hidrométrica del modelo hidráulico (abajo).
+
+La validación de la extensión de la inundación se realizó a partir de la información de eventos históricos levantados en campo (**Fig****. ****1****8**).
+
+
+
+**Figura ****1****8****.** Validación del modelo hidráulico a partir de la información levantada en campo. 
+
+Partiendo del modelo calibrado, se realizaron las modelaciones para cada uno de los períodos de retorno de interés, en donde se determinó que la profundidad en el cauce principal fue de 6.9 m para el período de retorno de 2.33 años y de 8.1 m para el período de retorno de 100 años, mientras que en las zonas del casco urbano donde se presentan las inundaciones, las profundidades oscilan entre 0.2 y 0.5 m para el período de retorno de 2.33 años y profundidades entre 0.5 y 1.5 m para el período de retorno de 100 años (**Fi****g****. ****19**).
+
+
+
+**Figura 19****.** Profundidad [m], extensión y velocidades [m/s] de la inundación para el período de retorno de 100 años. 
+
+### 3.3. Modelo de exposición Montelíbano
+
+3.3.1. Tipologías constructivas
+
+A cada construcción identificada en la base de datos catastral se le asignaron tipologías estructurales siguiendo la metodología propuesta (**Fig****. **** 2**). Para la identificación de tipologías constructivas se realizaron 765 inspecciones. La **Tabla ****4** presenta el porcentaje de participación de las principales tipologías identificadas en las inspecciones. Entre las tipologías más frecuentes se observan edificios de mampostería confinada de una planta (cubierta liviana) y edificios de pórticos de concreto reforzado, de una y dos plantas de cubierta liviana.
+
+**Tabla 4****. **Principales tipologías identificadas en el municipio.
+
+
+
+Los resultados de la clasificación de edificios según tipologías se consolidaron a nivel de manzanas. Como ejemplo, la **Figura 2****0** presenta el porcentaje de participación de construcciones de madera respecto al total de construcciones de cada manzana. Se observa que esta tipología es más frecuente hacia el occidente y sur del municipio. En estos sectores los porcentajes de participación varían entre el 7% y el 9%. 
+
+3.3.2. Valor expuesto
+
+El valor total de las construcciones se estimó en 395,818 millones de pesos. A su vez, el valor total de contenidos se estimó en 88,261 millones de pesos. La **Figura 2****0** (der.) presenta el valor de las construcciones urbanas de Montelíbano. De esta figura se observa que las construcciones de mayor valor (superiores a 200 Millones) se ubican en la ribera del río San Jorge, así como hacia el nororiente del municipio. Al comparar estos resultados con la **Figura 2****0** (izq.), se observa que las tipologías de madera son más frecuentes en sectores de menor valor de las construcciones.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 20.** Porcentaje de edificaciones de madera respecto al total de edificaciones en cada manzana (izquierda). Valor catastral de las construcciones (derecha).
+
+La **Tabla ****5** presenta el valor de construcciones y contenidos según usos relevantes, así como el conteo de las construcciones en todo el municipio. Se observa que la mayoría del avalúo se concentra en las construcciones de viviendas de hasta tres pisos. En cuanto al valor de los contenidos, se encuentra que son relevantes tanto los edificios de viviendas, como los de comercio.
+
+**Tabla 6****.** Valores expuestos totales según usos relevantes
+
+
+| Uso | Valor construcciones (millones de pesos) | Valor de contenidos (millones de pesos) | % del valor total de construcciones | % del valor total de contenidos | Construcciones | Construcciones |
+| --- | --- | --- | --- | --- | --- | --- |
+| Uso | Valor construcciones (millones de pesos) | Valor de contenidos (millones de pesos) | % del valor total de construcciones | % del valor total de contenidos | Número | % |
+| Vivienda hasta 3 pisos | 296,914 | 56,646 | 75.0% | 64.2% | 14,558 | 91.5% |
+| Colegios | 18,441 | 5,839 | 4.7% | 6.6% | 118 | 0.7% |
+| Hospitales / Clínicas | 2,133 | 2,232 | 0.5% | 2.5% | 9 | 0.1% |
+| Comercio | 33,306 | 13,507 | 8.4% | 15.3% | 615 | 3.9% |
+| Oficinas / consultorios | 12,593 | 4,078 | 3.2% | 4.6% | 149 | 0.9% |
+
+Para tener una referencia de los elementos que están expuestos a inundaciones, se consolidaron los valores de las edificaciones localizadas en zonas en las que se estiman profundidades de inundación superiores a 0.5 m para un periodo de retorno de 100 años (evento con 1% de probabilidad de excedencia). A pesar de que la selección del periodo de retorno y de la profundidad de inundación es arbitraria, corresponde a eventos poco frecuentes en los cuales se esperan daños en contenidos y limitaciones en el acceso y uso de edificaciones. La **Figura ****2****1** presenta un resumen de los resultados. 
+
+
+
+**Figura 2****1****.** Resumen de elementos expuestos para mapa de amenaza de periodo de retorno de 100 años. Altura mayor a 0.5 m.
+
+Cerca del 6 % de la población del municipio y alrededor del 3% de las construcciones de vivienda hasta 3 pisos se exponen en zonas en las cuales la profundidad de la inundación puede ser hasta de 0.5 m para eventos de periodo de retorno de 100 años. Mayores detalles tanto de la metodología como de los resultados de la evaluación del riesgo en los municipios de Montelíbano, Mompox, Magangué y San Marcos se pueden encontrar en el documento *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)* [50].
+
+**3.4. Evaluación y análisis de la vulnerabilidad física**** Montelíbano**
+
+Esta sección presenta los resultados de funciones de vulnerabilidad para las tipologías de edificaciones identificadas en Montelíbano para los rubros de contenidos y edificaciones. Las funciones desarrolladas para contenidos relacionan el tirante hídrico con el valor esperado de la pérdida, expresada como un porcentaje de los costos de reposición. Se consideran dos condiciones de distribución de contenidos dentro de la edificación. La primera, llamada condición no adaptada, la cual representa la distribución cotidiana de contenidos, y la segunda, llamada condición adaptada, considera una distribución de contenidos en la cual los habitantes modifican su localización con el fin de proteger sus enseres del evento de inundación.
+
+Se generan funciones de vulnerabilidad para contenidos en edificaciones de 1 a 3 pisos de usos residenciales de los estratos socioeconómicos 1 a 3, y para edificaciones de salud, educación, institucional y comercial de estrato socioeconómico único. 
+
+En el caso de las edificaciones, las funciones de vulnerabilidad relacionan un tirante hídrico y una velocidad media de flujo con la perdida esperada en la edificación, también expresada como un porcentaje de los costos de reposición del elemento expuesto. Para el rubro de edificaciones se generan funciones de vulnerabilidad para edificaciones de mampostería de concreto de 1 piso, pórticos de concreto de 1 y 2 pisos, y de madera con cubierta liviana. 
+
+3.4.1. Funciones de daño para rubro de contenidos en edificaciones de uso residencial y comercial
+
+Las **Figura****s 2****2** y **2****3** presentan dos ejemplos de las funciones de vulnerabilidad calculadas para edificaciones de uso residencial y comercial. En general, para edificaciones de 1 piso se alcanza el daño total de contenidos para profundidades de inundación cercanas a 2 metros. Para el caso de edificaciones residenciales de 1 piso, el 50% del daño se alcanza en 0.5 metros de profundidad de inundación. Para el caso de edificaciones comerciales de 1 piso, el 50% del daño se alcanza en 0.8 m, aproximadamente.
+
+
+
+
+
+**Figura 2****2****. **Residencial-estrato 1-1 piso.
+
+
+
+
+
+**Figura 2****3****. **Uso comercial.
+
+3.4.2. Funciones de daño para rubro de contenidos en edificaciones de uso educativo, institucional y de salud
+
+Para usos educativo, institucional y salud, la información recopilada clasifica los contenidos en grupos. Para cada uno de ellos se definió el porcentaje del valor de sus contenidos en relación con los contenidos totales, el porcentaje localizado en cada uno de los pisos y la función de daño. Adicionalmente, la altura libre de entrepiso está involucrada en la generación de edificaciones aleatorias. Las **Figura****s** **2****4** a **2****6** presentan las funciones de vulnerabilidad desarrolladas para edificaciones de uso educativo, salud e institucional.
+
+
+
+
+
+**Figura 2****4****. **Uso salud-estrato único.
+
+
+
+
+
+**Figura 2****5****. **Uso educativo-estrato único.
+
+
+
+
+
+**Figura 2****6****.** Uso institucional-estrato único.
+
+**3.4.3. Funciones de daño para ****rubro de edificaciones**
+
+La metodología plantea la generación de un número de edificaciones hipotéticas sobre las cuales se evalúa el daño de elementos estructurales y no estructurales. La **Tabla ****7** presenta una ficha de vulnerabilidad de edificaciones de la tipología de mampostería de concreto de 1 piso y cubierta liviana. El parámetro más relevante en la evaluación de vulnerabilidad por contenidos es el uso de la edificación y el número de pisos. Los datos recopilados en el trabajo de campo no permitieron concluir que existe una variación clara de la vulnerabilidad en relación con los estratos socioeconómicos en términos de elementos estructurales. Según los resultados, y considerando las bajas velocidades de flujo en los eventos de inundación típicos de la zona, se espera que las pérdidas se concentren en los contenidos. Para niveles bajos de velocidad no se espera daño estructural considerable en las edificaciones. En general, los daños esperados en las edificaciones se reducen a afectaciones de pinturas y acabados fácilmente reparables. 
+
+La totalidad de resultados de la evaluación de vulnerabilidad física se encuentran en el documento [50].
+
+**Tabla 7****.** Ficha de vulnerabilidad de edificaciones (mampostería de concreto 1 piso cubierta liviana).
+
+
+
+## 3.5. Evaluación y análisis de la vulnerabilidad social 
+
+Esta sección incluye algunos de los resultados del análisis de la vulnerabilidad social, relacionados con el contexto de los hogares e individuos. Para esto, se llevaron a cabo encuestas a 160 hogares ubicados en zonas de amenaza alta por inundación y encuestas de percepción local del riesgo a 22 personas, donde se incluyeron minorías étnicas, personas con capacidades diferentes, personas de la tercera edad, entre otras. Para cada uno de los numerales, se presentan algunos de los resultados obtenidos acorde a la metodología utilizada [7].
+
+### 3.5.1. Dinámicas de vulnerabilidad social
+
+Se presenta un análisis de la situación actual de los activos físicos (vivienda y tierra), financieros (trabajo-fuentes de ingreso formales e informales) y sociales (redes de apoyo) (estos son indagados por las preguntas orientadores en este aparte). 
+
+Se observa (**Fig****. ****2****7**, izq.) que un 96% de las personas encuestadas residentes de las zonas de mayor riesgo de inundación perciben que sus viviendas no son seguras, y el 67% de los mismos consideran que están ubicados en un área susceptible de amenaza (**Fig****. ****2****7**, der.). Las fuentes de peligro identificadas por la población encuestada se encuentran en la **Figura 28**.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 27. **Pregunta 2 Contexto Hogar Montelíbano (Izquierda). Pregunta 4 Percepción del riesgo Montelíbano (Derecha).
+
+**Figura 28****. **Pregunta 1 percepción local del riesgo Montelíbano. (A) Sismos, (B) Tsunamis, (C) Volcanes, (D) Flujos de lodo, (E) Movimientos en masa, (F) Hundimientos y agrietamientos, (G) Ciclones tropicales, (H) Inundaciones pluviales y fluviales, (I) Granizadas, nevadas y heladas, (J) Lluvias torrenciales, (K) Tormentas eléctricas, (L) Vientos fuertes, (M) Temperaturas extremas, (N) Erosión, (O) Sequías, (P) Incendios forestales, (Q) Incendios urbanos explosiones, (R) Fugas y derrames de sustancias peligrosas, (S) Fuentes móviles, (T) Mala calidad sanitaria, (U) Ausencia del sistema de acueducto, (V) Precaria calidad de las aguas marinas, costeras o fluviales de la zona, (W) ausencia del alcantarillado para agua-lluvia.
+
+## 3.5.2. Gestión del riesgo de desastres
+
+Las familias residentes en los sectores más deprimidos son vulnerables debido a factores ambientales como la erosión, las inundaciones y la falta de cobertura de calidad de algunos de los servicios públicos básicos. Los sectores más expuestos al riesgo son los barrios Mucha Jagua, la Pesquera, Villa Clemen, Campo alegre, algunas edificaciones viejas y la clínica Regional. Se observa en la **Tabla 8** cómo los miembros de la comunidad establecen diferentes medidas para la prevención del desastre o eventos de riesgo.
+
+**Tabla 8****.** Trabajo de campo sobre medidas de prevención del riesgo.
+
+
+| IDENTIFICACIÓN DE LAS ZONAS DE AFECTACIÓN. Tener un plan de respuesta rápida ante una emergencia.  Medida: a corto plazo.  Responsables: Consejo Municipal de Gestión del Riesgo de Desastres. | ALCANTARILLADO PLUVIAL.  Previene la inundación por el agua lluvia en los barrios, en los puntos más críticos y bajos. Medida: largo plazo.  Responsables: Gobierno y Municipio. | CAPACITACIONES A LA COMUNIDAD ANTE LAS EMERGENCIAS.  Previene las pérdidas humanas.  Medida: corto Plazo  Responsables: Consejo Municipal de Gestión del Riesgo de Desastres y las organizaciones de socorro |
+| --- | --- | --- |
+| REFORESTACIÓN DE LAS FUENTES HÍDRICAS. Previene la erosión y con ellos los aludes de tierra. Medida: mediano y largo plazo. Responsables: CAR CVS y Municipios. | PLAN DE RESPUESTA RÁPIDA ANTE EMERGENCIAS:  Evita calamidades debido a que las personas están capacitadas ante la emergencia. Medida: corto plazo Responsables: Consejo Municipal de Gestión del Riesgo de Desastres. | DOTAR A LOS ORGANISMOS DE SOCORRO Previene ineficiencia a respuestas ante una emergencia. Medida: corto y mediano plazo. Responsables: Municipio. |
+| DRAGADO DE LAS FUENTES HÍDRICAS. (Ríos y Caños) Previene el rebosamiento y el fluir de las cuencas hídricas – Arrastre de la flora. Medida: corto y mediano plazo. Responsables: CAR, CVS, Municipios y Gobierno. | REUBICACIÓN Y PREVENCIÓN DE CONSTRUCCIONES EN ZONA DE ALTO RIESGO. Personal afectado y emergencias. Medida: corto y largo plazo. Responsables: Consejo Municipal de Gestión del Riesgo de Desastres, Planeación, Gobierno Nacional, Min. Vivienda, Fondo de adaptación. | ADAPTACIÓN Y DOTACIÓN DE SITIOS PÚBLICOS PARA ALBERGUES. Previene problemas de salud pública y sanitarios. Medida: Mediano y largo Plazo. Responsables: Municipio. |
+
+**3.5.3. ****Percepción del riesgo**
+
+Se evidencia gran desconocimiento en factores importantes de la GRD en los habitantes de los diferentes barrios del municipio, siendo esto un factor que aumenta la vulnerabilidad de las familias. El 64% de los habitantes del municipio encuestados desconocen la ubicación y las funciones de la oficina de gestión del riesgo del municipio (**F****ig****.**** 29**).
+
+
+|  |  |
+| --- | --- |
+
+**Figura 29. **Pregunta 20 percepción del riesgo Montelíbano (Izquierda). Pregunta 22 Encuesta percepción del riesgo Montelíbano (Derecha).
+
+## 3.5.4. Desarrollo de capacidades
+
+Con relación a la percepción, el 94% de la población afirma que no posee suficientes conocimientos y habilidades para la prevención de desastres. Además, 92% considera que no se han implementado acciones educativas para la GRD como se observa en la **Figura ****30**.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 30. **Pregunta 18 contexto hogar Montelíbano (Izquierda). Pregunta 19 Contexto hogar Montelíbano.
+
+## 3.5.5. Causas de la vulnerabilidad social
+
+En esta sección se hace una descripción de la situación actual de los activos naturales, sociales y una mirada general a cómo se desarrollan las relaciones al interior de los hogares. En el componente de enfoque diferencial y equidad de género, el 94% de la población encuestada afirma que si existe equidad entre hombres y mujeres. 
+
+
+|  |  |
+| --- | --- |
+
+**Figura 31. **Pregunta 24 contexto hogar Montelíbano (Izquierda). Pregunta 25 Contexto hogar Montelíbano (Derecha).
+
+3.5.6. Grado de vulnerabilidad en el municipio
+
+Respecto a la condición de propensión a la vulnerabilidad social para el municipio, después de analizar los indicadores presentados en la **Tabla 9**, se obtiene la categoría media. Se puede observar una diferencia en la percepción del riesgo a nivel regional y local, dado que la comunidad percibe la condición de vulnerabilidad como alta y el Consejo Municipal de Gestión del Riesgo como baja. Entre los indicadores que inciden en el diagnóstico de la vulnerabilidad, se observa la tasa de desempleo, la cobertura de alcantarillado y acueducto.
+
+**Tabla 9****.** Grado de vulnerabilidad social del municipio de Montelíbano.
+
+
+| Variables | Condición de propensión a la vulnerabilidad social |
+| --- | --- |
+| Calificación Indicadores de contexto |  |
+| Puntaje contexto nacional, regional y municipal | Baja |
+| Puntaje contexto hogar | Alta |
+| Calificación percepción local del riesgo | Media |
+| Clasificación indicadores socioeconómicos | Media |
+| Vulnerabilidad Social ante Desastres del Municipio (VSDM) | Media |
+
+*Promedio de indicadores socioeconómicos.
+
+Respecto al mapeo de las condiciones de vulnerabilidad en la zona de alto riesgo por inundación, en la **Figura 3****2** (Izq.) se observa que la condición de vulnerabilidad se encuentra entre alta (color rojo) y media (color amarillo) y estas áreas corresponden a las zonas de inundación modeladas por el IDEAM que se presentan en la **Figura 3****2** (Der.). Los niveles de inundación acorde a las encuestas de percepción del riesgo, por parte de la comunidad, se encuentran del orden de 0.5 y 1.5 m.
+
+
+|  |  |
+| --- | --- |
+
+**Figura 32. **Zonificación de la vulnerabilidad social en el contexto hogar y comunidad en Montelíbano (Izquierdo). Zonificación del área de inundación y niveles de agua en Montelíbano
+
+**3.6. Evaluación y ****análisis del riesgo**** por inundación**** en**** Montelíbano**
+
+Siguiendo la metodología de EPR por inundación propuesta (**Fig****. ****10**) [8], se calculan las pérdidas potenciales para edificaciones localizadas en la cabecera municipal de Montelíbano por efecto de inundaciones lentas. Los resultados del cálculo de riesgo se presentan en términos de CEP, PAE por rubros, PML, mapa de riesgo de PAE relativa, y mapa de clasificación de riesgo en niveles alto, medio y bajo. 
+
+La Figura 33 presenta la CEP por eventos de inundación en edificaciones y contenidos. En esta figura se representan las frecuencias anuales con que ocurrirán eventos que igualan o exceden un valor específico de pérdida del conjunto de elementos expuestos analizado [26]. Esto comprende todas las edificaciones localizadas exclusivamente en la cabecera municipal de Montelíbano, en conjunto con los contenidos muebles de dichas edificaciones. La **Tabla 1****0** presenta la PAE discretizada por rubros de análisis y de manera general para toda la cabecera.
+
+
+
+**Figura 3****3****.** Curva de excedencia de pérdidas (CEP) para la cabecera municipal de Montelíbano (Córdoba).
+
+**Tabla 10** Pérdida anual esperada (PAE) discretizados por rubro: contenidos y edificación.
+
+
+| Rubro | Montelíbano - Córdoba | Montelíbano - Córdoba | Montelíbano - Córdoba | Montelíbano - Córdoba |
+| --- | --- | --- | --- | --- |
+| Rubro | Valor expuesto | Pérdida anual esperada | Pérdida anual esperada | Participación valor expuesto (%) |
+| Rubro | [millones] | [millones] | [‰]* | Participación valor expuesto (%) |
+| Contenidos | 88,261.19 | 259.14 | 2.94 | 18.23 |
+| Edificación | 395,817.90 | 16.10 | 0.04 | 81.77 |
+| TOTAL | 484,079.09 | 275.24 | 0.569 | 100 |
+
+Se observa que la PAE para la cabecera municipal se estima en $275,242,283 pesos (0.6‰). Esta cantidad se obtiene a partir de calcular el área bajo la curva de la CEP (Fig. 40) y representa el valor promedio de la pérdida que al acumularla año tras año durante un periodo de observación lo suficientemente largo, es semejante al valor acumulado de las pérdidas que pueden ocurrir de manera aleatoria en el mismo periodo. La PAE debe entenderse como un “promedio a largo plazo”. Es decir, en un período de observación lo suficientemente grande (1000 años, por ejemplo) se espera que, en promedio, la pérdida sea de $275,242,283 pesos al año en las edificaciones y contenidos de la cabecera de Montelíbano. Si se divide esta cantidad entre el valor expuesto total calculado ($484,079 millones de pesos), se obtiene la prima de riesgo igual a 0.6‰.
+
+La **Figura 34** presenta los valores de PML para la cabecera municipal de Montelíbano, considerando períodos de retorno entre 100 y 1500 años. Estos valores indican pérdidas que no ocurren con frecuencia o en otras palabras, que se espera que ocurra en periodos de tiempo muy largos. En esta figura se evidencia que, para un período de retorno muy grande, se espera que la pérdida económica sea de $2,825 millones de pesos, o más. Lo anterior corresponde al 0.58% del valor expuesto total en la cabecera municipal.
+
+
+
+**Figura ****34****.** Pérdida máxima probable (PML, por sus siglas en inglés) para la cabecera municipal de Montelíbano (Córdoba).
+
+A partir de la PAE es posible construir mapas de riesgo que ilustran el riesgo de manera espacial. La **Figura 35** (Izq.) representa el riesgo para cada elemento expuesto en términos de la PAE en pesos colombianos [COP]. Si cada valor de pérdida reportado en la **Figura ****35** (Izq.) se divide entre el valor expuesto total de cada elemento, se obtiene la **Figura ****35** (Der.), la cual representa la PAE relativa y es adimensional debido a que es una proporción de dinero, que usualmente se representa en uno por cada mil (al millar) [‰].
+
+
+|  |  |
+| --- | --- |
+
+**Figura 35****. **Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) en pesos colombianos [COP] para edificaciones- Montelíbano (Izquierda). Mapa de riesgo físico por inundación: Pérdida Anual Esperada (PAE) relativa al millar [‰] para edificaciones- Montelíbano (Derecha). 
+
+
+
+**Figura 36****.** Mapa de categorización de riesgo físico por inundación – Montelíbano.
+
+El mapa de PAE relativa representa la distribución espacial del indicador de riesgo físico que se propone sea tomado en cuenta como criterio para establecer las categorías de riesgo alto, medio y bajo. Para ello, se realiza un análisis de deciles de los valores de PAE relativa con el fin de segmentar los valores de pérdida en rangos equitativos que permitan clasificar el riesgo. Para este caso se obtiene un nivel de riesgo bajo para los decíles menores a 6, medio para los decíles 7 a 9 y alto para el decíl 10 (**Fig****. ****36**). Lo anterior, para la cabecera municipal de Montelíbano, arrojó que un total de 318 edificaciones (10% del total) se catalogan en zonas de riesgo alto por inundación, particularmente en los barrios de: Muchajagua, y predios localizados en la ribera del río San Jorge, particularmente entre calles 12 y 19 y entre carreras 4 y 8.
+
+Con el fin de tener una referencia respecto al monto de la pérdida, la **Tabla 1****1** presenta los ingresos totales y tributarios del municipio, así como los montos del Sistema General de Participaciones y sus destinaciones a los sectores de educación, salud, agua potable y gestión del riesgo de desastre. Estos valores se expresan normalizados según el valor de la PAE del municipio.
+
+**Tabla 11****. **PAE en comparación con rubros del presupuesto anual para la vigencia 2018 del Municipio de Montelíbano.
+
+
+| PAE [COP millones] | 275.24 | 275.24 |
+| --- | --- | --- |
+| Rubro | [COP millones] | PAE/Rubro [%] |
+| Ingresos totales | 67,596.29 | 0.41 |
+| Tributarios | 15,732.00 | 1.75 |
+| Sistema General de Participaciones - SGP | 29,918.06 | 0.92 |
+| Educación | 3,570.10 | 7.71 |
+| Salud | 19,010.24 | 1.45 |
+| Agua potable y saneamiento básico | 4,118.75 | 6.68 |
+| Gastos Prevención y Atención de Desastres | 650.52 | 42.31 |
+
+Considerando los resultados de PAE en comparación con diferentes rubros del presupuesto anual para la vigencia fiscal de 2017 del Municipio de Montelíbano [51], se concluye que la PAE corresponde a (**Tabla 1****1**):
+
+El 0.41% de los ingresos totales anuales del Municipio, de los cuales corresponde al 1.75% de los ingresos tributarios sin considerar los rubros de sobretasa a la gasolina, estampillas, impuesto predial, entre otros.
+
+El 0.92% del rubro total del Sistema General de Participaciones (SGP) del Municipio, entre los cuales se destaca que representa el 7.71% del rubro de educación.
+
+El 42.31% de la inversión del año 2017 en el rubro de prevención y atención de desastres, lo cual significa que la PAE del Municipio estaría cubierta por lo invertido en este rubro en un 42%.
+
+**4. ****IMPORTANCIA Y USOS DE LA EVALUACIÓN INTEGRAL DEL RIESGO PARA LA CONSOLIDACIÓN DE COMUNIDADES RESILIENTES**
+
+En este capítulo se presentan los objetivos, alcances y recomendaciones para la EPR por inundación lenta con enfoque integral a escala 1:2.000. El modelo propuesto es producto de las metodologías existentes en el estado del arte para la GRD por inundaciones a nivel nacional e internacional. Entre los aportes destacables está la evaluación diferenciada de los rubros de contenidos y edificaciones, una propuesta metodológica para la estimación de la correlación de pérdidas entre localizaciones, la propuesta analítica de generación de funciones de vulnerabilidad física a partir de trabajo de campo, la evaluación de vulnerabilidad social de comunidades y el detalle del modelo de exposición como insumo de EPR por inundación.
+
+Por un lado, se propone un enfoque probabilista basado en la generación de pérdidas por ocurrencia de eventos de inundación, involucrando las incertidumbres asociadas a los componentes de amenaza y vulnerabilidad física. Se selecciona este enfoque porque si bien es factible y es una práctica común la toma de decisiones con mapas de susceptibilidad, mapas de amenaza y/o evaluaciones de riesgo determinista, estos procedimientos no consideran la incertidumbre asociada al fenómeno y a la vulnerabilidad de los elementos expuestos. Por ende, es usual que no se describa el riesgo en términos de la frecuencia de las posibles pérdidas que se pueden generar a futuro. Una consecuencia de esto es que no se proporciona una medida del rango de pérdidas posibles que ofrezca garantías de conocimiento del riesgo para la seguridad fiscal de los entes gubernamentales por eventos desastrosos.
+
+En contraste, las metodologías probabilistas permiten contar con la información más completa posible respecto de todos los componentes involucrados en el riesgo para la toma de decisiones en un ambiente de incertidumbre. Con esta información es posible hacer GRD a través de medidas de intervención producto de análisis de beneficio-costo, así como también plantear estrategias de aseguramiento colectivo. Mayor detalle sobre estas estrategias de reducción y protección a partir de metodologías probabilistas de evaluación del riesgo se pueden consultar en la experiencia del esquema de aseguramiento colectivo para la ciudad de Manizales [52], y en la iniciativa del Ministerio de Hacienda y Crédito Público para la generación de la Estrategia de Financiamiento del Riesgo de Desastres, particularmente en lo relacionado con el aseguramiento de activos públicos frente al riesgo catastrófico por sismos, en 2018.
+
+Por otro lado, se propone un enfoque integral de la metodología que garantiza la incorporación de vulnerabilidad social, a partir de los espacios de validación de los resultados con las comunidades que permiten no solo fortalecer los modelos de amenaza por inundación, sino también analizar con la población las condiciones y causas de las inundaciones. A continuación, se describen dos ejemplos del impacto de la vulnerabilidad social en el proyecto: 
+
+Caso Montelíbano: Gracias al trabajo con la comunidad y su relación con los eventos de inundación que se presentan por desbordamiento del río San Jorge, se evidenció la necesidad de generar una modelación de amenaza más exhaustiva que incluyera el aporte de la quebrada Muchajagua a la amenaza por inundación total en el cálculo del riesgo. Debido a la baja resolución del MDE, no fue posible registrar el efecto del aporte de esta quebrada al inicio del proyecto. Gracias al trabajo con la comunidad se estableció la necesidad de su integración en el análisis. 
+
+Análisis “adaptado - no adaptado”: Al inicio del proyecto se consideró únicamente un escenario de análisis para la generación de pérdidas por eventos de inundación. Este escenario correspondía al de “no adaptado”. Es decir, el escenario asumía que, dada la ocurrencia de un evento de inundación, una vez la lámina de agua alcanzaba cierta cota, los contenidos (p. ej., nevera, lavadora, etc.) sufrían daño parcial o total. El trabajo de vulnerabilidad social permitió entender la relación de las comunidades con un fenómeno que para ellos es natural, y que lo entienden a partir de su experiencia de vida y de sus ancestros como una condición de su hábitat que no solo conlleva (en casos extremos) posibles daños a sus modos de vida, sino que atrae oportunidades de diversa índole. Dado el entendimiento de la cronología e intensidad del fenómeno, las comunidades han generado mecanismos de adaptación para proteger sus bienes materiales mediante el uso de “tambos” en los cuales ubican sus bienes. En consecuencia, se creó el escenario de análisis “adaptado” en el cual, como es de esperarse, las pérdidas materiales por daño en contenidos se reducen de forma sustancial. Esto permitió el enriquecimiento del modelo de EPR y lo convierte en un método con enfoque integral que se enriquece a partir de las experiencias reales de la comunidad. Por todo lo anterior se considera que el modelo y enfoque propuestos presentan insumos valiosos para enriquecer el proceso de GRD por inundaciones, impactando de forma directa en el incremento de la resiliencia de comunidades en sus distintas dimensiones a partir del conocimiento de sus condiciones de riesgo.
+
+Las comunidades viven y comprenden las inundaciones desde su espacio territorial que generalmente se observa a nivel de barrio; pero este tipo de abordajes, les muestran los efectos regionales en un dominio más amplio. Este conocimiento no solo permite generar consciencia en la forma como se relacionan con su entorno, sino también en las decisiones que toman sobre sus formas de habitar. Este conocimiento puede soportar acciones del plan de GRD del municipio para construir comunidades menos vulnerables y más resilientes.
+
+## 5. CONCLUSIONES
+
+El modelo de EPR por inundación con enfoque integral es un insumo técnico para la construcción de conocimiento del riesgo tanto a nivel de comunidades y actores locales, como de personal técnico en entidades privadas y públicas, y tomadores de decisión a escalas locales y regionales. A su vez, es un instrumento metodológico y práctico que pretende generar aportes en la integración de la GRD por inundación en los instrumentos de planificación territorial, impactando así en la construcción de comunidades más resilientes a los efectos de eventos de inundación e incrementando su conocimiento y capacidad de acción en los actores ya mencionados.
+
+Se destaca que, dada la escala de detalle para la cual fue propuesto el modelo y el fuerte componente de trabajo de campo propuesto, se genera una serie de ventajas, entre las que sobresalen:
+
+El análisis separado de los rubros de contenidos y edificación para el cálculo del riesgo.
+
+La estimación de la correlación de pérdidas entre localizaciones para un evento de análisis a partir de información recopilada en campo y procesada en el modelo de exposición.
+
+Involucrar a los actores e instituciones que tienen relación directa con las condiciones de riesgo en los municipios y esta situación hace que los resultados que se van obteniendo en los demás componentes, se encuentren en un contexto real.
+
+La EPR permite la comparación cuantitativa y estandarizada entre localizaciones, zonas homogéneas, municipios, cuencas hidrográficas, departamentos, etc.
+
+La metodología se plantea para hacer uso de los insumos comúnmente conocidos y producidos para caracterizar la amenaza por inundación, estos son; mallas de resultados para tirantes hídricos asociados a períodos de retorno.
+
+La EPR permite identificar, categorizar y priorizar población y bienes expuestos en zonas de riesgo alto, medio y bajo, a partir de medidas cuantitativas, estandarizadas y reproducibles.
+
+El enfoque integral impacta el entendimiento y conceptualización de los demás módulos del método. Permitió la generación de escenarios de análisis para condiciones adaptadas en el proceso de generación de daño en el rubro de contenidos. Para el caso del modelo de amenaza, permitió la validación de mapas de amenaza por inundación.
+
+
+| PUNTOS CLAVE Debido a la escala de detalle para la cual se plantea la metodología, para todos los componentes (amenaza, vulnerabilidad física y social, exposición y riesgo) es ineludible efectuar tareas de trabajo de campo acordes a la información de entrada que plantea el método.  Para la modelación de amenaza por inundación lo suficientemente detallada y que permita realizar análisis sobre eventos posibles, se hace necesaria la obtención de un modelo digital de terreno de buena resolución, la cual para el caso de cartografía 1:2.000 es recomendable una resolución espacial mínima de 1.0 m. Si bien es posible definir la ubicación de los elementos a nivel de construcciones, esto no implica que se deban presentar los resultados de pérdidas esperadas a este nivel de detalle. Dado que los edificios se clasifican en tipologías estructurales, los daños estimados (bajo un conjunto de supuestos) reflejan las pérdidas esperadas para un tipo de edificio, más no las pérdidas de una estructura en particular. La metodología de evaluación de vulnerabilidad física es aplicable a obras de infraestructura similares a edificaciones. Otras obras de infraestructura (p. ej., postes de luz, torres de energía, puentes, etc.) pueden ser estudiadas con estos procedimientos, aplicando variaciones en el cálculo de las fuerzas y posibles mecanismos de colapso involucrados. El análisis de otras obras de infraestructura no se incluye en el análisis y casos de estudio debido a que exceden el alcance planteado para la planificación del ordenamiento territorial de los municipios.  Los resultados no deben ser interpretados como la evaluación de la vulnerabilidad individual de un elemento expuesto, sino como un indicador general de la vulnerabilidad de múltiples elementos expuestos que comparten las características de la tipología dentro de la cual son clasificados.  La metodología presenta avances en el análisis de la vulnerabilidad social y uno de los principales retos que surgen es la forma cómo incluir este componente en los estudios probabilistas de riesgo. Durante el caso piloto se identificó que el componente de salud podría ser el punto de partida para incluir la incertidumbre de este componente al modelo de riesgo.  A partir de análisis posteriores al cálculo de riesgo para el estado actual la metodología representa una herramienta valiosa para la selección de medidas de intervención para la reducción del riesgo más convenientes a partir de análisis beneficio-costo, cuantificando la pérdida comparativamente con las medidas adoptadas respecto de su costo de implementación. |
+| --- |
+
+
+| RECOMENDACIONES Y NECESIDADES FUTURAS Para la información topobatimétrica, el Fondo Adaptación dispone de información de alta resolución para la totalidad de la región de La Mojana para 1,100,000 hectáreas. Dicha información debe poder solicitarse y utilizarse por los municipios localizados en esta región para la elaboración de sus estudios de riesgo.  El trabajo de inspecciones en campo requiere la destinación de un presupuesto para la contratación de personal que debe recopilar la información de campo necesaria. Para reducir estos costos se propone: Realizar inspecciones en campo en zonas prioritarias debido a su cercanía a cuerpos de agua o por la importancia de los valores expuestos. Utilizar el criterio de experto para la definición de los porcentajes de participación de las tipologías en cada zona homogénea. Complementar las inspecciones utilizando imágenes disponibles en Google Street View. La metodología propuesta se basa en métodos analíticos. Sin embargo, recolección de datos de pérdidas en contenidos y edificaciones post-evento permitirían calibrar las funciones de vulnerabilidad propuestas considerando daños y pérdidas ciertas. El país deberá avanzar en criterios para el análisis de la vulnerabilidad social. Esto contribuye al conocimiento de la percepción local del riesgo, los mecanismos de adaptación y las medidas adoptadas por los hogares para que las comunidades conozcan los riesgos a los que se enfrentan y puedan reaccionar efectivamente, y las relaciones entre la sociedad civil y las entidades, a la hora de enfrentar un evento extremo. |
+| --- |
+
+## MATERIAL SUPLEMENTARIO
+
+Las plantillas propuestas para trabajo de campo, datos, y detalles completos de la metodología propuesta se encuentran en el documento *Lineamientos técnicos para el desarrollo de estudios de riesgo por inundación lenta* [8]. 
+
+La totalidad de resultados obtenidos para los casos de estudio seleccionados están en el documento *Evaluación Probabilista del Riesgto por inundación lenta en cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)* [50].
+
+## CONFLICTO DE INTERESES
+
+Los autores no declaran conflicto de intereses.
+
+**CONTRIBUCIÓN DE AUTORÍA ****CRediT**
+
+Conceptualización: JCO, PAV, JAV, JDA. Metodología: JCO, PAV, JAV, JDA. Redacción de primera versión: JCO, PAV, JAV, JDA. Escritura. Revisión y edición de segunda versión: JCO, PAV, JAV. Figuras y tablas: JCO, PAV, JAV, JDA. Administración de proyecto: JCO. Búsqueda de evidencia: JCO, PAV, JAV, JDA.
+
+## AGRADECIMIENTOS
+
+Los autores agradecen en primer lugar a la Subdirección para el Conocimiento del Riesgo de la UNGRD por servir como un gestor, patrocinador y garante de la ejecución del proyecto. A su directora Lina Dorado González, y a todo el equipo de trabajo que hizo posible la ejecución de todos los componentes del proyecto. Adicionalmente, los autores agradecen a las siguientes entidades y actores que prestaron un apoyo valioso al desarrollo del proyecto: Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), Instituto Geográfico Agustín Codazzi (IGAC), Departamento Administrativo Nacional de Estadística (DANE), Universidad de Cartagena, Comités Departamentales y Municipales de Gestión del Riesgo y Líderes de Juntas de Acción Comunal. 
+
+## IDENTIFICACIÓN DE AUTORES
+
+Juan Camilo Olaya González		
+
+Paula Andrea Villegas González  	 
+
+Jairo Andrés Valcárcel Torres	 
+
+Julián Darío Arbeláez Salazar	 
+
+Fabian Mauricio Caicedo Carrascal	 
+
+José Ville Triana García		
+
+Lina Dorado González		 
+
+Juan Pablo Forero Acevedo		 
+
+## BIBLIOGRAFÍA
+
+PreventionWeb. (2021). *Resilience*. 
+
+Parsons, M., Reeve, I., McGregor, J., Morley, P., Marshall, G., Stayner, R., McNeil, J., Glavac, S. & Hastings, P. (2020*). The Australian Natural Disaster Resilience Index: Volume II – Index Design and Computation*. Melbourne: Bushfire and Natural Hazards CRC. 
+
+Ley 1523 de 2012. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema Nacional de Gestión del Riesgo de Desastres y se dictan otras disposiciones. Abril 24 de 2012. 
+
+Decreto Ley 19 de 2012. Por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública. Enero 19 de 2012. 
+
+Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto-ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Septiembre 19 de 2014. 
+
+Decreto 1077 de 2015. Esta versión incorpora las modificaciones introducidas al Decreto Único Reglamentario del Sector Vivienda, Ciudad y Territorio a partir de la fecha de su expedición. Mayo 26 de 2015. 
+
+UNGRD-IEMP (Unidad Nacional para la Gestión del Riesgo de Desastres-Instituto de Estudios del Ministerio Público). (2017). *Lineamientos para el análisis de la vulnerabilidad social en los estudios de la gestión municipal del riesgo de desastres*. Bogotá. D.C.
+
+UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Lineamientos técnicos para el desarrollo de estudios de riesgo por inundación lenta*. Subdirección para el conocimiento del riesgo. Bogotá, D.C., UNGRD.
+
+IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2017). *Guía Metodológica de elaboración de mapas de inundación*. Bogotá. IDEAM.
+
+OMM (Organización Meteorológica Mundial). Hadeen, K., Guttman, N. (1994). *Homogeneity of data and the climate record. Papers presented at the WMO Technical Conference on Instruments and Methods of Observation (TECO-94)*. Instruments and Observing Methods Report No. 57 (WMO/TD-No. 588). Ginebra. 
+
+Decreto 1807 de 2014. Por el cual se reglamenta el artículo 189 del Decreto Ley 019 de 2012 en lo relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento territorial y se dictan otras disposiciones. Ministerio de Vivienda Ciudad y Territorio. República de Colombia. 19 de septiembre de 2014. 
+
+Chow, V., Maidment, D., & Mays, l. (1994), *Hidrología aplicada* (1st ed; M. Suarez, ed.). Bogotá, Colombia: McGraw-Hill.
+
+IPCC (Panel Intergubernamental de Cambio Climático). (2012). Glossary of terms. *Managing the Risks of Extrem**e Events and Disasters to Advance Climate Change Adaptation* En C.B. Field, V. Barros, T.F. Stocker, D. Qin, D.J. Dokken, K.L. Ebi, M.D. Mastrandrea, K.J. Mach, G.-K. Plattner, S.K. Allen, M. Tignor, and P.M. Midgley (Eds.). A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC). Cambridge University Press, Cambridge, UK, and New York, NY, USA, pp. 555-564. 
+
+Figueiredo, R., Martina, M. (2016). Using open building data in the development of exposure data sets for catastrophe risk modelling. *Natural Hazards and Earth System Sciences, 16*, 417-429.  
+
+IGAC (Instituto Geográfico Agustín Codazzi). (2022, 19 de enero). *Geoportal. **Datos Abiertos. Subdirección de Catastro*.  
+
+De Risi, R., Jalayer, F., De Paola, F., Iervolino, I., Giugni, M., Topa, M.E., Mbuya, E., Kyessi, A., Manfredi, G., Gasparini, P. (2013). Flood risk assessment for informal settlements. *Natural Hazards, 69*, 1003-1032.  
+
+Figueiredo, R., Schröter, K., Alexander Weiss-Motz, A., Martina1, M., Kreibich, H. (2017). Improving accuracy and quantifying uncertainty in flood loss estimations through the use of multi-model ensembles. *Natural Hazards and Earth System Sciences*.  
+
+Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017) Investigating Uncertainty in Developing Regional Building Inventories for Flood Damage Prediction. *Natural Hazards Review, 18*(3): 04016013. 
+
+Gutenson, J.L. Oubeidillah, A.A., Ernest, A.N.S., Zhu, L., Zhang, X., Sadeghi, S.T. (2017). Rapid flood damage prediction and forecasting using public domain cadastral and address point data with fuzzy logic algorithms. *Journal of the American Water Resources Association**, 54*(1), 104-123.  
+
+Rodríguez Gavíria, E.M (2016). *Diseño metodológico para la evaluación del riesgo por inundación a nivel local con información escasa*. Tesis de Doctorado, Universidad Nacional de Colombia - Sede Medellín.
+
+DANE (Departamento Administrativo Nacional de Estadística). (2018, 17 de abril). *Sistema de consulta de información censal: Censo Básico. Ver: Sistema de consulta de información censal: Censo Básico*. http://systema59.dane.gov.co/cgibin/RpWebEngine.exe/PortalAction?&MODE=MAIN&BASE=CG2005BASICO&MAIN=WebServerMain.inl  
+
+Huerta-Garnica, B., Vega-Serratos, B., & Avelar-Frausto, C. E. (2006). *Caracterización del daño causado a estructuras y contenidos por inundaciones fluviales y costeras*. En XV Congreso Nacional de Ingeniería Estructural. Puerto Vallarta, México.
+
+Metropolis Nicholas, S. U. (1949). The Montecarlo Metod. *Journal of the American Statistical Association*, *44*. 
+
+FEMA (Agencia Federal para el Manejo de Emergencias) (2012). *Engineering: Principles and Practices for Retrofitting Flood-Prone Residential Structures*. 
+
+Yamin, L. E., Ghesquiere, F., Cardona, O.-D., & Ordaz, M. G. (2013). *Modelación probabilista para la gestión del riesgo de desastre: El caso de Bogotá, Colombia*. (Banco Mundial & Universidad de Los Andes (Eds.). Banco Mundial.
+
+Ordaz, M., Torres, M. A., & Domínguez, R. (2013). *Vulnerabilidad **y** Riesgo Por Inundaciones*. Instituto de Ingeniería - UNAM. 
+
+Torres, M., Jaimes, M., Reinoso, E., & Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. *International Journal of River Basin Management, 12*(4), 377–389. 
+
+Cardona, O. D. (2006). *Midiendo lo inmedible. Indicadores de Vulnerabilidad y Riesgo*. 
+
+Wilches-Chaux, G. (1989). *Vulnerabilidad Global y Pobreza*.  .
+
+Gobierno regional Cusco. (2011). *Herramienta para integrar la reducción del riesgo de desastres en proyectos de agua y saneamiento rural*.
+
+Lavell, A. (1997). *Viviendo en riesgo: Comunidades vulnerables y prevención de desastres en América Latina*. .
+
+Banco Interamericano de Desarrollo. (2010). *Riesgos ante desastres naturales para Latinoamérica y El **C**aribe*. 
+
+Botero, V. (2009). *Geo-information for measuring vulnerability to earthquakes: a fitness for use approach*. 
+
+INDECI. (2006). *Manual básico para estimar el riesgo*. Lima, Perú.
+
+Cannon, T. (1991). *A hazard need not a disaster make: rural vulnerability and the causes of natural disasters*. Institute of Social Studies. La Haya. 
+
+Suárez-Méndez, C., Agudelo, O., Vargas, C., Cuesta, J., & Reyes, J. (2014). *Gestión del Riesgo de Desastres en la sede Tumaco de la Universidad Nacional de Colombia. *Informe final de la ODS 17. Universidad Nacional de Colombia – Sede Bogotá. 
+
+Villegas González, P. A. Obregón, Nelson (2018). Tesis doctoral en Ingeniería*: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.
+
+Uniter Nations General Assembly – UNGA. (2016). *Reccommendations of the Open-ended Intergovernmental Expert Working Group on Indicators and Terminology relating to Disaster Risk Reduction*. Ginebra, Suiza. 
+
+UNISDR. (2009). *Terminología sobre Reducción del Riesgo de Desastres. Estrategia Internacional para la Reducción de Desastres de las Naciones Unidas. * 
+
+Lampis, A. (2007). *Vulnerabilidad y Protección Social en Colombia: Estudios de Caso en Bogotá, Cali y Manizales.* En Zorro, C. (Comp.), El Desarrollo: Perspectivas y Dimensiones – Aportes Interdisciplinarios. Bogotá: CIDER, Embajada de los Países Bajos en Colombia. 
+
+Merz, B., Elmer, F., & Thieken, A. H. (2009). Significance of “high probability/low damage” versus “low probability/high damage” flood events. *Natural Hazards and Earth System Science, 10*(1), 1–14. 
+
+Merz, B., & Thieken, A. H. (2005). Separating natural and epistemic uncertainty in flood frequency analysis. *Journal of Hydrology, 309*(1–4), 114–132. 
+
+Mejía, C. E. (2019). Una convolución muy útil y unas derivadas ilustres. *Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales**, **43*, 168. 
+
+Planet Explorer. Planet (2018, febrero). https://www.planet.com/explorer
+
+Kolmogorov, A. (1931). Über die analytischen Methoden in der Wahrscheinlichkeitsrechnung. *Mathematische Annalen*, *104*(1), 415–458. Recuperado de https://doi.org/10.1007/BF01457949
+
+Bendot, J. S., & Piersol, A. G. (2010). Random data: Analysis and Measurement Procedures. In *Wiley Series in Probabillity and Statistics*. Recuperado de https://doi.org/10.1002/9781118032428
+
+Haan, C. (2002). *Statistical methods in hydrology* (2nd ed.; Wiley-Blackwell, ed.). Ames, Iowa.
+
+Fondo Adaptación. (2015). *Modelación hidrodinámica de La Mojana*. Bogotá, Colombia. 
+
+US Army Corp of Engineers – USACE. (2015). HEC-RAS V.5.0.3 software. Davis, California. 
+
+UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018a). *Evaluación Probabilista del Riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolivar)*. Subdirección para el Conocimiento del Riesgo (Ed.). Bogotá, D.C. http://hdl.handle.net/20.500.11762/27249
+
+Alcaldía Municipal de Montelíbano. (2017). *Decreto No. 0861 del 18 de Diciembre de 2017. *Montelíbano, Córdoba. 
+
+ERN-AL. (2005). *Diseño de esquemas de transferencia de riesgo para la protección financiera de edificaciones públicas y privadas en Manizales en el caso de desastres por eentos naturales*. DNP, Banco Mundial. Disponible en: 
+

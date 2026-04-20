@@ -1,0 +1,6 @@
+/* CSS para tablas y estilos generales */
+table {
+  display: block !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
+}

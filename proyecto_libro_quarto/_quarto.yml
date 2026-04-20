@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Investigaciones en Gestión del Riesgo"
+  chapters:
+    - index.qmd
+    - 01-3-presentacion-del-libro.qmd
+    - 02-4-prologo-del-libro-grd-2022.qmd
+    - 03-7-lista-pares-revisores-lgrd-2022.qmd
+    - 04-al-final-indice-tematico.qmd
+    - 05-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd
+    - 06-c02-lgrd-16-evaluacion-amenaza-tsunami_vf-202.qmd
+    - 07-c3-lgrd-27-multiamenaza-corredores-vialesvf20.qmd
+    - 08-c04-lgrd-15-avenidas-torrenciales-antioquia_v.qmd
+    - 09-c5-lgrd-12-incendios-orinoquiavf-2022-09-26.qmd
+    - 10-c06-lgrd-23-riesgo-inundacion-mojana-vf-2022-.qmd
+    - 11-c07-lgrd-07-desastres-armero-mocoavf-2022-09-.qmd
+    - 12-c08-lgrd-20-percepcion-del-riesgovf-2-2022-08.qmd
+    - 13-c9-lgrd-18-mirada-diferencial-comunidad-vf-20.qmd
+    - 14-c10-lgrd-19-sistema-control-riesgo-sismico-vf.qmd
+    - 15-c11-lgrd-06-gestion-integral-biodiversidadv6-.qmd
+    - 16-c12-lgrd-21-retos-eco-drr-y-sbn-vf-2022-18-08.qmd
+    - 17-c13-lgrd-10-biotratamiento-suelo-quema-19-09-.qmd
+    - 18-c14-lgrd-03-gestion-del-riesgo-en-salud-vf-v4.qmd
+    - 19-c-15-lgrd-11-preparacion-de-respondedores-vf3.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    html-math-method: mathjax

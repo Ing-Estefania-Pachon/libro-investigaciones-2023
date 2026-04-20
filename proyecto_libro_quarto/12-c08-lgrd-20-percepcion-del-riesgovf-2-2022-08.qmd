@@ -1,0 +1,246 @@
+**8**
+
+**Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia**
+
+**Luz Adriana Muñoz-Duque****1********* &**** Óscar E. Navarro Carrascal****2**
+
+# Capítulo 12: C08-LGRD-20-PERCEPCION-DEL-RIESGO.VF-2-2022-08-17 
+
+1 Grupo de Investigación en Psicología Sociedad y Subjetividades, Facultad de Ciencias Sociales y Humanas, y Grupo de Investigación Salud y Ambiente, Facultad Nacional de Salud Pública, Universidad de Antioquia, Medellín, Colombia.
+
+2 Profesor de Psicología Social y Ambiental, Universidad de Nîmes, Francia. Presidente de la Asociación Francesa de Psicología Ambiental, ARPEnv. 
+
+*Autor de contacto: Luz Adriana Muñoz-Duque. Correo-e: luza.munoz@udea.edu.co
+
+**Resumen**
+
+La evaluación que las personas hacen de un riesgo obedece a la confluencia de diversos elementos conducentes a la construcción de juicios sobre la peligrosidad de una actividad, situación u objeto. Las percepciones del riesgo pueden impactar las decisiones de las personas, así como su preparación para hacer frente a las amenazas. El fenómeno de la percepción del riesgo comporta múltiples dimensiones y elementos constitutivos que han sido explorados por diversos autores, los cuales continuarán como objeto de estudio y discusión. En este capítulo nos proponemos recoger algunas reflexiones derivadas de experiencias investigativas acerca de la percepción del riesgo de desastres en Colombia. Realizamos una reflexión que incorpora consideraciones de algunos estudios sobre el tema, en los que hemos participado en los últimos años, a propósito de los riesgos colectivos de inundación, deslizamiento, sequía e inundación costera. Sostenemos que existe la necesidad de considerar los aspectos que pueden tener influjo en la percepción del riesgo, condicionando sus dinámicas: unos asociados a las características de las situaciones riesgosas en sí mismas, y otros, psicosociales, propios de las personas y de su interacción entre ellas y con el ambiente. Concluimos que la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos. Recomendamos, para ampliar la comprensión de la respuesta social a los riesgos de desastre, considerar la necesaria integración de los niveles cultural, espacial y psicosocial que intervienen en su construcción.
+
+**Palabras clave:** percepción del riesgo, características del riesgo, aspectos psicosociales, apego al lugar, confianza en las instituciones
+
+**Cultural, spatial and psychosocial imbrication in disaster risk perception. Reflections on case studies in Colombia**
+
+**Abstract**
+
+In people's risk evaluation various elements converge, which leads to establishing judgments about the dangerousness of activities, situations, or objects. Risk perceptions can impact people's decisions and their preparedness to deal with threats. The risk perception phenomenon involves multiple dimensions and constitutive elements by various authors, which must continue being a subject of study and discussion. In this chapter, we intend to collect some reflections derived from research experiences about disaster risk perception in Colombia. We did a reflection that incorporates considerations of some studies on the subject, in which we have participated in recent years, regarding the collective risks of flooding, landslides, drought, and coastal flooding. We maintain that there is a need to consider the aspects that influence the risk perception, conditioning its dynamics: some associated with characteristics of the risky situations themselves, and others, psychosocial, specific to people and their interaction with each other and the environment. We conclude that the risk perception differs according to the type of risk involved; this issue is imbricated with sociocultural elements, with the people's affective bond with their places, and with the trust in the competent institutions regarding the management of these risks. We suggest improving the understanding of the disaster risks social response, considering the required integration of the cultural, spatial, and psychosocial levels, which comprise its construction.
+
+**Keywords:** Risk perception, risk features, psychosocial aspects, place attachment, trust management
+
+## INTRODUCCIÓN
+
+Un acontecimiento deviene amenaza en función de sus características, como también de la forma en que se percibe por los individuos. En este orden de ideas, la peligrosidad de un evento es susceptible de evaluarse cuando el individuo o la población están realmente expuestos a este, y tal exposición, que depende de las condiciones sociales y ecológicas de existencia, se asocia con la variabilidad de la percepción del riesgo. Un riesgo puede considerarse como tal a partir de la evaluación que los individuos hacen de él, la cual involucra las características físicas del fenómeno de referencia y elementos disposicionales de las personas, tanto como aspectos sociales y culturales. En este sentido, se trata de una evaluación que obedece a una confluencia de condiciones e informaciones disponibles, conducente a juicios sobre la peligrosidad del evento.
+
+El estudio de la percepción del riesgo se ha centrado en los juicios de las personas acerca de los riesgos relacionados con su valoración de la peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías [1]. Estas percepciones pueden impactar significativamente las decisiones que las personas toman, y determinar su nivel de preparación para hacer frente a los peligros de manera efectiva y, en consecuencia, las respuestas que puedan dar ante un problema ambiental real [2,3]. En este sentido, la percepción del riesgo no está influenciada únicamente por factores de naturaleza técnica (estimaciones de probabilidad y magnitud del riesgo), sino por otros aspectos, como si se percibe justo o no que ciertos grupos estén sujetos al riesgo, si este es o no voluntario, si es visto por las personas como artificial o natural, como predecible, controlable, familiar [1,4]. 
+
+Los conocimientos sociales respecto de las amenazas y la percepción del riesgo han sido objeto de interés de la psicología, ámbito desde el que varias teorías han sido útiles para estudiar y entender la manera como las personas evalúan (cogniciones), sienten (afectos) y experimentan las situaciones riesgosas, así como su comportamiento frente a estas. El paradigma psicométrico de la percepción del riesgo ha sido considerado como un enfoque dominante al respeto, el cual asume que el riesgo se define subjetivamente por los individuos a partir de un amplio conjunto de factores psicológicos, sociales, institucionales y culturales, y que por medio de estudios adecuadamente diseñados estos factores y sus relaciones pueden medirse en función de comprender las respuestas de los individuos y sus sociedades a los riesgos a los que se enfrentan [3]. Desde esta lógica se han intentado identificar y formalizar los factores que explican la variabilidad interindividual de la percepción del riesgo, esto es, los aspectos y mecanismos que subyacen a la aversión, la indiferencia, la aceptación de ciertos individuos hacia ciertos riesgos. Esta perspectiva también se ha interesado por las diferencias entre las opiniones expertas y no expertas respecto de una misma situación peligrosa, esto es, por la influencia de las características y la forma de los conocimientos en la percepción del riesgo. 
+
+Por su parte, el enfoque psicosocial del riesgo sugiere que la valoración de la peligrosidad de un suceso y de sus posibles efectos no solo está determinada por las condiciones objetivas de exposición. Estas percepciones están fundamentalmente influenciadas por el conocimiento social desarrollado en los intercambios sociales, a través de los medios de comunicación y la comunicación interpersonal [5]. La noción de percepción remite al orden de lo sensible, es un modo de conocimiento que define una relación fenomenológica con lo real, con lo que el sujeto experimenta a través de sus sentidos [6], pero lo real activado por la experiencia del sujeto también está determinado por las representaciones socialmente construidas, ya que la experiencia de lo real es el producto tanto de la actividad sensible del sujeto como de la actividad social. Holahan [7] sostiene que en la percepción sensorial influye parcialmente el conocimiento que las personas tienen sobre los riesgos, ya que lo que él llama “experiencia indirecta”; es decir, las creencias populares, la información de los medios de comunicación y las opiniones socialmente compartidas, influyen fuertemente en la construcción de este conocimiento. En este sentido, el riesgo es inseparable de su contexto social y de su elaboración como objeto social a través de la cultura, la comunicación y la memoria colectiva [8].
+
+En este capítulo nos proponemos recoger algunas reflexiones derivadas de procesos investigativos acerca de la percepción del riesgo de desastres en Colombia, incorporando consideraciones de algunos estudios sobre el tema, en los que hemos participado en los últimos años, a propósito de los riesgos colectivos de inundación, deslizamiento, sequía e inundación costera. Si bien se han publicado resultados previamente, pretendemos ocuparnos de reunir algunas comprensiones suscitadas por estas experiencias de pesquisa. Para estos efectos, tomamos en cuenta dos estudios realizados en el departamento de Antioquia, uno en un corregimiento del municipio de Venecia, particularmente con una población que habita cerca de la rivera del río Cauca y quienes han experimentado, de manera directa o indirecta, eventos de ocupación de aguas; este estudio empírico-analítico, llevado a cabo entre los años 2012 y 2013, hizo uso de instrumentos para la evaluación de la percepción del riesgo de inundación y otras variables como el apego al lugar y las estrategias de afrontamiento [9–11]. El otro, realizado en la ciudad de Bello en el año 2015 [12,13], se aproximó a 250 personas y también utilizó instrumentos para la evaluación, entre otros aspectos, de la percepción del riesgo de deslizamiento, el apego al lugar y el afrontamiento.
+
+Otra investigación que tomamos en consideración es una llevada a cabo en Cartagena, con una perspectiva comprensiva, basada en el interaccionismo simbólico y cuyo objetivo fue identificar fenómenos asociados con la percepción de riesgo de inundación costera, integrando los niveles cultural, espacial y psicosocial; este estudio fue desarrollado entre los años 2016-2019 y recogió los relatos de 33 habitantes de la ciudad [14]. Allí también, y en el mismo lapso, se realizó una aproximación empírico-analítica, con la aplicación de instrumentos para la evaluación tanto de la percepción del riesgo como de otras variables (apego al lugar y afrontamiento) [13,15].
+
+Finalmente, recogemos consideraciones de una investigación llevada a cabo en 2018 en la ciudad de Santa Marta [16], territorio que sufre regularmente el impacto de violentas inundaciones y también se enfrenta a problemas de escasez de agua (sequías y crisis del agua). Este estudio, realizado a propósito de estos riesgos de inundación (asociada a precipitaciones) y sequía, centró su interés en el abordaje de la percepción del riesgo, el apego al lugar y los comportamientos adaptativos de la población. Un total de 626 personas participaron, 317 de las cuales respondieron a un cuestionario específico sobre las inundaciones y 309 a uno sobre las sequías, quienes residían en el centro y en barrios expuestos a crisis por escasez del agua, respectivamente.
+
+En esta pretensión de recoger algunas reflexiones suscitadas a partir de tales experiencias investigativas, sostenemos que existe la necesidad de considerar los aspectos que pueden tener influjo en la percepción del riesgo, condicionando sus dinámicas: unos asociados a las características de las situaciones riesgosas en sí mismas y, otros, psicosociales, propios de las personas y de su interacción entre ellas y con el ambiente. Se trata de un tejido entre estas dimensiones, asunto que desarrollamos a continuación.
+
+
+| Caja 1. ¿Qué es la percepción del riesgo? La percepción del riesgo hace referencia a los juicios de las personas respecto del grado de peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías [2]. Se trata de una construcción social, basada en la interacción entre individuos y grupos [1,8]. Las percepciones del riesgo impactan de manera significativa las decisiones que las personas toman frente a tales situaciones consideradas amenazantes [3]. Así, en términos generales, podríamos decir que la percepción del riesgo alude a la valoración que individuos y grupos hacen de la peligrosidad de un fenómeno o evento, así como de la posibilidad de correspondencia entre ese riesgo percibido y la acción, lo cual deriva en la toma de decisiones [17]. |
+| --- |
+
+## ASPECTOS INFLUYENTES EN LA PERCEPCIÓN DEL RIESGO
+
+La revisión de antecedentes investigativos, tanto como los estudios realizados en nuestro país, a propósito de la percepción del riesgo de desastres, nos permiten resaltar algunos aspectos psicosociales que, en interacción con diversos fenómenos riesgosos, posibilitan ampliar la comprensión de la manera como las personas nos relacionamos con los riesgos ambientales. Así, la percepción del riesgo difiere de acuerdo con el tipo de riesgo del que se trate; asunto imbricado con elementos socioculturales, con la vinculación afectiva positiva de las personas con sus lugares y con la confianza de estas en las instituciones competentes respecto de la gestión de estos riesgos (Figura 1).
+
+
+
+**Figura 1.** Aspectos influyentes en la percepción del riesgo.
+
+**Características del evento riesgoso y percepción del riesgo**
+
+Diversos estudios han señalado la importancia, para la comprensión de la percepción del riesgo, de considerar las características del riesgo del que se trate. Así, la naturaleza de los eventos de desastre ha resultado ser un relevante predictor de los juicios de las personas frente a las amenazas de su entorno. Aspectos como la temporalidad, referida a la velocidad de aparición de la situación de desastre y de sus consecuencias, o la duración del evento; la predictibilidad o percepción de un cierto “anuncio” de la posibilidad de ocurrencia del evento; la magnitud de los daños percibidos asociados al mismo, sus impactos o consecuencias, y la frecuencia de aparición de estos sucesos, bien pueden interactuar con aspectos psicosociales y derivar en una cierta forma de valorar el riesgo. 
+
+**Inundaciones****. **Para el caso de las inundaciones, que constituyen riesgos colectivos al afectar núcleos poblacionales, estas se manifiestan por una elevación progresiva del nivel de agua, producto de lluvias fuertes o continuas, que sobrepasan la capacidad de absorción de los suelos, y de los represamientos por una insuficiente posibilidad de descarga de las fuentes hídricas. Las inundaciones se producen en tiempos más largos que las crecidas repentinas, por lo que dan tiempo para que las personas habitantes en las riberas de ríos, quebradas, lagos, se trasladen a lugares más seguros cuando van subiendo los niveles de agua; no obstante, este tipo de fenómeno hidrológico, que se presenta con frecuencia, causa daños en la infraestructura de las viviendas y en las pertenencias de los pobladores [18,19]. Cabe anotar que, comparativamente con otros fenómenos naturales, las inundaciones tienen características particulares, ya que usualmente implican grandes áreas afectadas, lo cual deriva en importantes pérdidas materiales y financieras, aunque menos pérdidas humanas que con otros eventos [1]. 
+
+La posibilidad de anticipación de las inundaciones se encuentra asociada con la percepción de oportunidad de control del riesgo, en la medida en que permite desplegar acciones para la mitigación de sus impactos; igualmente, la frecuencia de aparición de este fenómeno, puede estar asociada a mayores prácticas adaptativas en las poblaciones [1]. Así, una mayor experiencia con el riesgo de inundación ha correlacionado positivamente con un mayor temor frente al riesgo; igualmente, se han evidenciado niveles más altos de percepción del mismo, mayor implicación con el problema y una evocación más frecuente de estrategias de afrontamiento activo, comparativamente con personas no expuestas a las inundaciones [9–11].
+
+**Deslizamientos****. **Por su parte, las avenidas torrenciales hacen referencia a movimientos de masa con un flujo rápido de sólidos y agua que, mezclados, pueden desplazarse a grandes velocidades [20]. Actualmente este fenómeno, que se presenta fundamentalmente en cuencas de montaña, se ha asociado con la modificación de regímenes de lluvia y sequía; esto es, cambios en la duración y las cantidades de lluvia, hoy producto del cambio climático [20,21]. Los deslizamientos, si bien pueden afectar áreas más pequeñas que las inundaciones y ser menos frecuentes, originan tanto grandes pérdidas materiales y financieras como humanas [1]. Generalmente, se trata de un evento de ocurrencia súbita, con gran magnitud en los daños, y cuyas características dificultan la anticipación de su advenimiento y, consecuentemente, derivan en un sentimiento de vulnerabilidad, ante la percepción de imposibilidad de control y para protegerse; asunto este que está asociado a la emergencia de estrategias de afrontamiento pasivas, las cuales hacen referencia a la evitación de emociones negativas que genera el pensar en la situación [12]. 
+
+**Las ****sequía****s****. **El fenómeno de las sequías obedece a una ausencia prolongada de precipitaciones que, en conjunto con altas temperaturas y evaporaciones, genera grandes impactos en el suelo y, consecuentemente, marcados efectos en la vida de las personas, dados sus impactos en la producción y acceso a alimentos, en la obtención de agua para el consumo y de energía, y en la generación de incendios; en general, se trata de eventos que cubren mayores áreas geográficas, son más frecuentes y de mayor duración que otros fenómenos, por lo cual están asociados a importantes afectaciones en materia socioeconómica [23]. De acuerdo con algunos autores, mientras que las inundaciones pueden considerarse una amenaza puntual, las sequías, aunque con diversos niveles de gravedad, pueden ser constantes en algunos territorios y, en este sentido, ser concebidas como amenazas permanentes [24], parte de la cotidianidad de los individuos durante determinados períodos, por cuanto puede tratarse de un fenómeno conocido por las personas y visto como inherente a las condiciones de su entorno. Para el caso de las sequías se ha hallado que la adaptación de las personas está asociada a la sensación de exposición y al miedo que generan este tipo de eventos [16].
+
+**Inundaciones costeras****.** Pueden ser definidas como una ocupación temporal de las áreas costeras por las aguas del mar. De acuerdo con autores como Cutter et al. [25], la vulnerabilidad a este fenómeno está asociada a las desigualdades espaciales, a las características del entorno construido, al nivel de urbanización y al crecimiento económico de los territorios. Los eventos de invasión temporal marina son frecuentes en ciertas geografías y han incrementado en el mundo con los procesos de cambio climático. Dada su la dificultad para predecirlos y el hecho de que no están relacionados con aspectos meteorológicos locales sino más globales, estos eventos pueden ser percibidos como incontrolables y frente a los cuales no hay posibilidades de acción percibida por los sujetos; no obstante, su alta frecuencia y sus impactos principalmente materiales, llevan a las personas a una cierta familiarización con el riesgo [14].
+
+Sobre la base de estas consideraciones, la comprensión de la percepción del riesgo no solo involucra aspectos psicológicos, sino también situacionales, contextuales y asociados a las características del peligro y a la naturaleza del fenómeno riesgoso. En esta medida, la comunicación del riesgo debe incluir esta multiplicidad de aspectos, y tener presente que cada fenómeno natural supone experiencias, sensaciones y comportamientos diferenciados.
+
+**Dimensión sociocultural**** y percepción del riesgo**
+
+La percepción del riesgo se encuentra atravesada por elementos socioculturales; de hecho, algunos autores han planteado que los factores culturales pueden tener una importante influencia en esta percepción [26]. Siguiendo a Douglas [27,28], los riesgos son construidos por cada sociedad de manera diferencial; consecuentemente, la definición de riesgos y la percepción pública de los mismos están teñidas por valores sociales particulares. 
+
+En la literatura se hallan estudios interesados por las diferencias entre grupos poblacionales (con diversas características culturales) alrededor de aspectos psicosociales relacionados con la percepción del riesgo, sobre el supuesto de su determinación sociocultural. Así, por ejemplo, Gierlach et al. [26] encontraron diferencias significativas en los niveles de percepción del riesgo (para amenazas naturales y antrópicas) entre grupos de trabajadores de la salud de tres países, aunque en ninguno de los casos estos niveles se correspondían con las tasas de exposición real; hallaron también que la creencia en que uno es más inmune a los riesgos que las demás personas, puede ser un fenómeno transcultural, en tanto los tres grupos percibieron menores riesgos para sí mismos que para los otros. Igualmente, ha habido interés por las creencias religiosas y las concepciones de lo ancestral, la reverencia a la naturaleza o la idea de dominarla, la creencia en el destino o en planes divinos, en relación con las formas en que, individuos y grupos, construyen una comprensión de lo riesgoso [29–31].
+
+También hay literatura centrada en cuestiones relativas a las desigualdades sociales y al análisis de la exposición de las poblaciones socialmente más vulnerables, a los principales riesgos ambientales. En esta vía, se ha planteado que estas disparidades no sólo responden a una exposición desigual de ciertos grupos a unas determinadas amenazas, causada por inequidades sociales estructurales, históricamente arraigadas; sino también al acceso desigual a recursos medioambientales y sociales, lo cual se relaciona con una capacidad, también diferencial, de los individuos y grupos para juzgar las situaciones como riesgosas y responder a ellas [8,32].
+
+A propósito de la dimensión sociocultural, para el caso de los estudios en que hemos participado llama la atención, particularmente en la investigación llevada a cabo en el corregimiento antioqueño, el lugar que tiene el río en la cotidianidad de la vida de los habitantes. La sensación de proximidad a esta fuente hídrica es vista como constitutiva y diferenciadora del lugar, como un referente territorial, soporte de las formas de identidad con asiento allí; consecuentemente, la posibilidad de inundación es leída como un atributo territorial [11]. Así también, otro elemento destacable es la interpretación de los cartageneros entrevistados, alrededor de las desigualdades en la gestión del riesgo de inundación costera en distintas zonas de la ciudad, gestión vista como excluyente e injusta. 
+
+Pese a que estos asuntos dan luces sobre aspectos socioculturales relevantes, hace falta avanzar en estudios orientados a dilucidar la dimensión sociocultural en relación con la percepción del riesgo de desastre en Colombia. Un aspecto importante tiene que ver con la diversidad sociocultural del territorio, lo cual podría dar lugar a formas diferenciadas de relacionamientos con los riesgos en distintas regiones y poblaciones del país, para las cuales, desde un punto de vista experto, también se han valorado riesgos diferentes [14].
+
+**Apego al lugar**** y percepción del riesgo**
+
+Aunque la literatura no es concluyente respecto del tipo de relación que hay entre estos dos fenómenos, la cual parece depender de los contextos [33], algunos autores han señalado asociaciones entre la forma en la que son percibidos los riesgos del entorno y el apego al lugar. Este último hace referencia al vínculo afectivo positivo hacia determinados lugares, en los que las personas prefieren permanecer y se encuentran confortables y seguras; en este sentido, su característica más destacada es la tendencia a mantener proximidad hacia el lugar de apego. Así, tiene que ver con el sentir el espacio como algo propio, lo cual se traduce en gusto y preferencia por estar allí [34–36].  
+
+Estudios han planteado que el riesgo (antrópico o natural) al cual han sido expuestas algunas personas, ha contribuido a incrementar su vinculación emocional con el lugar de residencia, a fortalecer su apego hacia este y a buscar permanecer en él [29,30]; otros han evidenciado la preferencia de algunas personas por enfrentarse al riesgo, antes que salir del lugar querido [37], o el desencadenamiento de comportamientos preventivos o preparatorios de las personas para hacer frente a un evento calamitoso [31]; así también, se ha hallado relación entre un alto nivel de apego al lugar y una alta percepción de control del riesgo [33].
+
+En el estudio llevado a cabo en Santa Marta [16], por su parte, el apego al lugar se asoció directamente con la forma de evaluar el riesgo de inundación; un fuerte apego al propio barrio fue asociado con un mayor temor y sentimiento de exposición frente a este riesgo. Paralelamente, hubo una relación directa del apego al lugar con el comportamiento proambiental y con conductas adaptativas (de prevención y protección) respecto del riesgo; asuntos que se asemejan a los hallazgos de otros estudios con habitantes de zonas expuestas a inundaciones, los cuales dan cuenta de relaciones positivas entre el apego al lugar y el compromiso conductual [38,39]. Por otro lado, en este estudio también se evidenció que el apego al lugar se asocia con un mayor conocimiento general sobre las sequías; así, el apego al propio barrio parece conducir a un mayor interés de las personas por los riesgos de su entorno, a una mejor percepción de este riesgo y a un comportamiento más adaptativo frente al mismo [16]. 
+
+Los habitantes del corregimiento antioqueño, por su parte, mostraron un fuerte vínculo con su lugar, aun cuando las condiciones del mismo representan un permanente riesgo de inundación y, en consecuencia, de pérdidas, y pese a los altos montos de temor que esta situación les significa. Sin embargo, los niveles de apego al lugar se presentaron con independencia del nivel de percepción del riesgo; lo cual explicamos desde la cercanía de la población a la fuente hídrica y, consecuentemente, al riesgo de inundación, asunto interpretado por los habitantes como inherente a su entorno de vida, como un atributo del lugar [11]. 
+
+En otros estudios se confirmó la correlación entre el apego al lugar y la percepción del riesgo, tanto de deslizamiento como de inundación costera [12,13]. Cabe señalar que para el caso de los deslizamientos el riesgo percibido está determinado, entre otros aspectos, por la antigüedad residencial (elemento importante del apego al lugar); asunto que no ocurre en el caso de las inundaciones costeras [13]. En Cartagena, los hallazgos del estudio desarrollado destacan un importante papel de la experiencia previa con el riesgo de inundación costera, de la habituación al mismo (familiarización con el riesgo) y del vínculo afectivo con el lugar como condicionantes de la percepción del riesgo [14]. 
+
+
+| Caja 2. Para pensar el riesgo percibido: ¿Es relevante preguntarnos por las relaciones de las personas con sus lugares? Pensar los vínculos afectivos de las personas con sus lugares resulta ser un punto clave para entender la manera como ellas se relacionan con los riesgos propios de su entorno. Aunque la investigación en la materia no ha sido concluyente, sí nos muestra la importancia de considerar las interacciones entre personas, procesos psicosociales y características de los lugares, en función de alcanzar mayores comprensiones respecto de la forma como experimentamos los riesgos con asiento en estos. |
+| --- |
+
+**Confianza en las instituciones**** y percepción del riesgo**
+
+En la literatura se ha incluido la confianza en las instituciones como un fenómeno asociado a la percepción y aceptación del riesgo [40–43]; no obstante, hay preguntas sobre su rol respecto de estas. También se ha señalado que puede ser importante en ciertos casos de toma de decisión frente al riesgo, pero no necesariamente en otras situaciones [41] y que factores contextuales, físicos y sociales del evento amenazante pueden determinar tal confianza o las emociones negativas movilizadas [42]. Igualmente, se ha mostrado que la relación entre confianza y percepción del riesgo varía según el tipo de riesgo, las condiciones sociales y las políticas de gestión, y está condicionada por los conocimientos sobre los riesgos y la importancia que se les atribuya [44,45], siendo más significativa la confianza en los casos en los que las personas carecen de información para decidir, puesto que, para esto, requieren apoyarse en una evaluación indirecta del riesgo, aquella realizada por las instituciones [40]. 
+
+Siguiendo a algunos autores, el nivel de confianza o desconfianza en las autoridades responsables de la gestión del riesgo puede ser determinante de la manera como los ciudadanos tratan la información sobre los riesgos y de su adherencia o no a las recomendaciones y orientaciones de protección o prevención [42,46]. En este sentido, el abordaje de la confianza en las instituciones se torna relevante para alcanzar mayores comprensiones sobre la percepción del riesgo de desastres; considerando, además, que en la comunicación del riesgo no solo juega un papel fundamental la calidad del mensaje, sino también la legitimación social de la fuente.
+
+En el estudio realizado en Santa Marta [16], se halló una tendencia de los participantes a confiar en los expertos y en las autoridades competentes en lo que respecta a la gestión del riesgo de inundación. Además, los hallazgos sugieren que cuanto más los individuos perciben conocimiento de los expertos y expresan su temor a las inundaciones, tienden más a aceptar las medidas institucionales propuestas para su gestión. En cuanto al riesgo de sequía, la adaptación individual se encontró asociada, entre otros aspectos, a la percepción del conocimiento experto; así, la aceptación de las medidas institucionales es aún más importante cuando los individuos perciben este conocimiento y se sienten fuertemente expuestos a las sequías, al ser conscientes de los impactos y las consecuencias de este riesgo.
+
+En lo que respecta al estudio llevado a cabo en Cartagena, a propósito del riesgo de inundación costera, en los relatos de los participantes emergió la idea de las instituciones gubernamentales como las principales responsables de la generación de acciones estructurales para la protección ciudadana; de la formulación, implementación y fortalecimiento de políticas públicas para hacer frente a este riesgo, y de la materialización de intervenciones dirigidas a la comunicación del riesgo y a la prevención y mitigación de impactos. No obstante, este ideal de participación institucional dista de la presencia y eficacia institucional percibidas; en este sentido, sobresale la desconfianza en estas instituciones respecto de su lugar en la gestión de este riesgo, resaltando situaciones de abandono, ineficacia, cooptación, negligencia y corrupción; así como la distribución socialmente desigual de recursos para hacer frente al riesgo de inundación costera en diferentes sectores de la ciudad. Esta desconfianza parece incrementar los sentimientos de desesperanza e impotencia para afrontarlo, así como el sentimiento de vulnerabilidad de los habitantes [14]. 
+
+Cabe señalar que las desigualdades sociales y la precariedad de la presencia del Estado constituyen aspectos estructurales que intensifican los sentimientos de vulnerabilidad de las personas [8]. En este contexto, la gestión de los riesgos requiere de un mínimo de confianza para la reducción de tal sentimiento y para la disposición de mecanismos para el manejo de las situaciones riesgosas; como ya lo señalaba Slovic [43], reconocer la importancia de la confianza y comprender las razones de su destrucción, tendrá efectos sobre el abordaje de riesgos en el futuro.
+
+## CONSIDERACIONES FINALES
+
+La percepción del riesgo varía en función de la evaluación que las personas hacen de la posibilidad de impacto sobre su bienestar [47]; así también, las capacidades para protegerse de un riesgo difieren entre las sociedades, y el uso y efectividad de las estrategias individuales y colectivas de protección no dependen tanto de la decisión de personas y grupos, como de otros aspectos psicosociales y de las condiciones socialmente desiguales en las sociedades [8]. Incluso los autores del enfoque psicométrico de la percepción del riesgo han planteado la idea de la construcción social de la percepción, acercándose a perspectivas sociológicas y culturales. La percepción del riesgo, los juicios sobre la peligrosidad de un fenómeno y su control, son también el resultado de creencias, conocimientos y actitudes de los grupos sociales, de su relación histórica y material con el fenómeno del que se trate, considerado como un riesgo por grupos como las autoridades. En esta vía, planteamos la necesidad de un análisis de la evaluación del riesgo ambiental que integre varios niveles y enfoques teórico-metodológicos, que permitan aprehender la complejidad del fenómeno.
+
+La literatura sobre el tema, complementada con aproximaciones investigativas propias, nos ha permitido identificar aspectos que probablemente estén asociados a las acciones cotidianas de gestión del riesgo. Estos elementos son de distinta naturaleza y nivel: sociales, culturales, individuales y contextuales-situacionales, y nos permiten comprender mejor la relación de las personas con un riesgo ambiental. De esta forma, aspectos socioculturales, tales como los arreglos sociales que llevan a una distribución desigual de los riesgos y de los recursos para hacerles frente, así como las relaciones con las instituciones encargadas de su gestión, determinan las características de la vulnerabilidad de las personas y grupos. Estos asuntos remiten a las condiciones sociohistóricas de exposición y relación con los riesgos, su definición, evaluación y gestión. 
+
+No se trata de desestimar los aspectos individuales, psicológicos o disposicionales, referidos a la experiencia de las personas en relación con los riesgos, y ampliamente abordados en la literatura. Más bien, planteamos la relevancia de pensar estos elementos en interacción o vinculación dinámica con las características del fenómeno riesgoso y con la dimensión sociocultural a la que hemos hecho referencia. Concurso de elementos que dan lugar a unas determinadas formas de evaluar las situaciones y a unas ciertas respuestas individuales y colectivas frente al riesgo.
+
+
+| PUNTOS CLAVE El trabajo que presentamos, siguiendo las pistas de la literatura y de los estudios realizados, presume diferencias en la percepción del riesgo según el tipo de evento del que se trate, particularmente de su carácter catastrófico. Consecuentemente, planteamos que la comunicación del riesgo debe tener presente que cada fenómeno natural entraña experiencias, sensaciones, afectos y comportamientos diferenciados en las personas. Sentirse personalmente implicado en una situación riesgosa y estar apegado al lugar en el que se vive podría ayudar a entender por qué es más probable que una persona tome medidas para resolver el problema. Así, se hace necesario, para ampliar la comprensión de la percepción del riesgo y de la respuesta de las comunidades a este, aproximarnos a conocer qué tanto las personas se sienten parte de los eventos riesgosos y cómo es su relación con el lugar del que se trate. Estudiar la percepción del riesgo aisladamente de otros fenómenos psicosociales no permite comprender los comportamientos de las personas respecto de los riesgos de desastre. Dimensiones psicológicas, situacionales, contextuales e incluso socioeconómicas y políticas, son fundamentales para entender la respuesta social a una amenaza determinada. En última instancia, se hace fundamental la integración de los niveles cultural, espacial y psicosocial que intervienen en su construcción. |
+| --- |
+
+
+| NECESIDADES FUTURAS En la investigación sobre la materia en contextos colombianos, sería relevante abordar dimensiones socioculturales asociadas a la percepción del riesgo, en relación con las vinculaciones afectivas de las personas con sus lugares, así como relativas a la (des)confianza en las instituciones competentes en la gestión del riesgo. Dada la diversidad sociocultural del país, se torna relevante plantear estudios que aborden las diferencias regionales y poblacionales en la percepción del riesgo. Considerando que la percepción del riesgo es más que un proceso intrapsíquico, es relevante avanzar en estudios orientados a la integración de la dimensión sociohistórica en la formación del pensamiento social alrededor del riesgo, y su dependencia de las formas de socialización y comunicación social. Se torna relevante complementar el abordaje de la percepción del riesgo con enfoques cualitativos, que permitan ampliar la comprensión del fenómeno. |
+| --- |
+
+## AGRADECIMIENTOS
+
+A todos los participantes de nuestras investigaciones, habitantes de zonas de riesgo, que dedicaron su tiempo a responder a nuestras cuestiones. 
+
+**CONTRIBUCIÓN DE AUTORÍA ****CRediT**
+
+Conceptualización: LAMD, OENC. Redacción de primera versión: LAMD, OENC. Escritura, revisión y edición de segunda versión: LAMD, OENC. Búsqueda de literatura: LAMD, OENC.
+
+**IDENTIFICACIÓN DE AUTOR****ES** 
+
+Luz Adriana Muñoz Duque	
+
+Óscar E. Navarro Carrascal	
+
+## CONFLICTO DE INTERESES
+
+Los autores no declaran conflicto de intereses
+
+## BIBLIOGRAFÍA
+
+Weber, J. M., Hair, J. F., & Fowler, C. R. (2000). Developing a measure of perceived environmental risk. *Journal** of **Environmental* *Education*, *32*(1), 28–35. 
+
+Corral V., V., Frías A., M., & González L., D. (2003). Percepción de riesgos, conducta proambiental y variables demográficas en una comunidad de Sonora, México. *Región y Sociedad*, *XV*(26), 50–72. 
+
+Slovic, P. (2000). *The perception of risk*. Washington: Earthscan.
+
+Wester-Herber, M. (2004). Underlying concerns in land-use conflicts - The role of place-identity in risk perception. *Environmental* *Science** and **Policy*, *7*, 109–116. 
+
+Joffe, H. (2003). Risk: from perception to social representation. *The** British **Journal** of Social **Psychology*, *42*, 55–73. 
+
+Doise, W. (1986). *Levels of explanation in social psychology.* Cambridge: Cambridge University Press.
+
+Holahan, C. (2004). *Psicología ambiental: un enfoque general*. México: Limusa editores.
+
+Navarro, O. (2017). Social inequality and environmental risk perception. En G. Fleury-Bahi, E. Pol, & O. Navarro (Eds.), *Handbook of environmental psychology and QOL research*. Springer International Publishing. 
+
+Muñoz-Duque, L.A., & Navarro, O. (2020). Percepción del riesgo y estrategias de afrontamiento en población expuesta a inundación en Antioquia, Colombia. En P. Olivos J., O. Navarro, & A. Loureiro (Eds.), *Cómo afrontar una catástrofe. Percepción de riesgo y factores psicosociales de la **adaptaciónón* (pp. 61–90). Cuenca: Ediciones de la Universidad de Castilla-La Macha.
+
+Navarro, O., Chavez, L., Piñeres, J., & Noreña, M. (2016). Percepción del riesgo y estrategias de afrontamiento en población expuesta y no expuesta al riesgo de inundación. *Interaméricain* *Journal** of **Psychology*, *50*(3), 331–346.
+
+Muñoz-Duque, L.A., & Arroyave, O. (2017). Percepción del riesgo y apego al lugar en población expuesta a inundación: un estudio comparativo. *Pensamiento Psicológico*, *15*(2), 79–92. 
+
+Zapa-Pérez, K., Navarro, O., & Rendón-Rivera, A. (2017). Modelo de análisis de la vulnerabilidad psicosocial en la gestión del riesgo de desastres. *Ista** de **Gestão** Social e Ambiental*, *11*(2), 91–110. 
+
+Navarro, Oscar, Restrepo-Ochoa, D., Muñoz-Duque, L.A., Zapa-Perez, K., Ameline, A., Mercier, D., & Fleury-Bahi, G. (2020). Determinants of coping strategies in two types of natural hazards: Flash floods and costal flooding. *International Journal of Disaster Risk Reduction*, *46*(January). 
+
+Muñoz-Duque, L.A., Navarro, O., Restrepo-Ochoa, D., & Fleury-Bahi, G. (2021). Risk perception and trust management in inhabitants exposed to coastal flooding: The case of Cartagena, Colombia. *International Journal of Disaster Risk Reduction*, *60*(April), 102261. 
+
+Lemée, C., Navarro, O., Restrepo-Ochoa, D., Mercier, D., & Fleury-Bahi, G. (2020). Protective behaviors regarding coastal flooding risk in a context of climate change. *Advances in Climate Change Research*, *11*(4), 310–316. 
+
+Guillard, M., Navarro, O., Cortes, S., & Fleury-Bahi, G. (2021). How do we adapt when we are faced with the effects of climate change? *International Journal of Disaster Risk Reduction*, *65*. 
+
+Navarro, O. (2022). *Psychologie* *environnementale**. **Enjeux* *environnementaux**, risques et **qualité** de vie*. De Boeck supérieur.
+
+UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2020, 12 de agosto). Boletín de prensa 091. *¿Cuál es el riesg**o por inundaciones en Colombia?*
+
+https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/29910/Boletin_de_prensa_N_091.pdf? 
+
+COSUDE (Agencia Suiza para el Desarrollo y Cooperación) / ALARN (Apoyo Local para el Análisis y Manejo de los Riesgos Naturales). (2002). *Instrumentos de apoyo para el análisis y la gestión de los riesgos naturales. Guía para el especialista*. Managua.
+
+Caballero, J. (2011). Las avenidas torrenciales: una amenaza potencial en el Valle de Aburra. *Gestion** y Ambiente*, *14*(3), 45–50.
+
+Alvioli, M., Melillo, M., Guzzetti, F., Rossi, M., Palazzi, E., von Hardenberg, J., … Peruccacci, S. (2018). Implications of climate change on landslide hazard in Central Italy. *Science of the Total Environment*, *630*, 1528–1543. 
+
+Spizzichino, D., Capriolo, A., & F., D. G. (2015). Climate change, flash flood risk assessment and adaptation policies: the urban area of Ancona municipality. *Engineering* *Geology* *for* *Society** and **Territory*, *5*, 1–7. 
+
+UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (s.f.). *Sequías*. http://gestiondelriesgo.gov.co/snigrd/pagina.aspx?id=148
+
+Reser, J., & Swim, J. (2011). Adaptating to and coping with the threat and impacts of climate change. *The** American **Psychologist*, *66*(4), 277–289. 
+
+Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. *Social **Science* *Quarterly**,* *84*(2), 242–261. 
+
+Gierlach, E., Belsher, B. ., & Beutler, L. . (2010). Cross-cultural differences in risk perceptions of disasters. *Risk* *Analysis*, *30*(10), 1539–1549. 
+
+Douglas, M. (1996). *La aceptabilidad del riesgo según las ciencias sociales*. Barcelona: Paidós.
+
+Douglas, M. (2001). Los riesgos a los que se enfrenta un técnico de prevención de riesgos. *Revista Empresa y Humanismo*, *IV*(2/01), 267–290.
+
+Røislien, H. E. (2007). Living with Contradiction : Examining the Worldview of the Jewish Settlers in Hebron. *International **Journal** of **Conflict** and **Violence*, *1*(2), 169–184. 
+
+Billig, M. (2006). Is my home my castle? Place attachment, risk perception, and religious faith. *Environment** and **Behavior*, *38*(2), 248.  
+
+Mishra, S., Mazumdar, S., & Suar, D. (2010). Place attachment and flood preparedness. *Journal** of **Environmental* *Psychology*, *30*(2), 187–197. 
+
+Roussel, I., Gailhard-Rocher, I., Lelievre, F., Lefranc, A., Tallec, A., Menard, C., & Beck, F. (2009). Diversité des perceptions de la pollution de l’air extérieur, disparités sociales et territoriales. Comment construire une politique égalitaire ? *Air **Pur*, *76*, 30–35.
+
+Bernardo, F. (2013). Impact of place attachment on risk perception: Exploring the multidimensionality of risk and its magnitude. *Estudios de Psicología*, *34*(3), 323–329. 
+
+Hidalgo, M. del C., & Hernández, B. (2001). Place attachment: conceptual and empirical questions. *Journal** of **Environmental* *Psychology*, *21*(3), 273–281. 
+
+Jorgensen, B. S., & Stedman, R. C. (2001). Sense of place as an attitude: Lakeshore owners attitudes toward their properties. *Journal** of **Environmental* *Psychology*, *21*(3), 233–248. 
+
+Vidal, T., Pol, E., Guàrdia, J., & Peró, M. (2004). Un modelo de apropiación del espacio mediante ecuaciones estructurales. *Medio Ambiente y Comportamiento Humano*, *5*(1 y 2), 27–52.
+
+Urcan, I. (2012). Flood hazards perception. The result of an opinion survey made in the little towns from lower Aries Corridor. *Riscuri* *Şi* *Catastrofe*, *11*(2), 202–210.
+
+Bonaiuto, M., Alves, S., De Dominicis, S., & Petruccelli, I. (2016). Place attachment and natural hazard risk: Research review and agenda. *Journal** of **Environmental* *Psychology*, *48*, 33–53. 
+
+De Dominicis, S., Fornara, F., Ganucci C., U., Twigger-Ross, C., & Bonaiuto, M. (2015). We are at risk, and so what? Place attachment, environmental risk perceptions and preventive coping behaviours. *Journal** of **Environmental* *Psychology*, *43*, 66–78. 
+
+Siegrist, M., & Cvetkovich, G. (2000). Perception of hazards: The role of social trust and knowledge. *Risk* *Analysis*, *20*(5), 713–719. 
+
+Siegrist, M. (2019). Trust and risk perception: a critical review of the literature. *Risk* *Analisys*, *27*. 
+
+Siegrist, M., & Zingg, A. (2014). The role of public trust during pandemics: Implications for crisis communication. *European* *Psychologist*, *19*(1), 23–32. 
+
+Slovic, P. (1993). Perceived risk, trust, and democracy. *Risk Analysis*, *13*, 675–682. 
+
+Earle, T. C. (2010). Trust in risk management: A model-based review of empirical research. *Risk* *Analysis*, *30*, 541–574. 
+
+Earle, T. C., Siegrist, M., & Gutscher, H. (2007). Trust, risk perception, and the TCC model of cooperation. In M. Siegrist, T. C. Earle, & H. Gutscher (Eds.), *Trust in cooperative risk management: Uncertainty and **scepticism** in the public mind* (pp. 1–49). London: Earthscan.
+
+Frewer, L. J. (2003). Trust, transparency, and social context: Implications for social amplification of risk. En N. F. Pidgeon, R. E. Kasperson, & P. Slovic (Eds.), *The social amplification of risk* (pp. 123–137). Cambridge: Cambridge University Press. 
+
+Fleury-Bahi, G., Marcouyeux, A., Préau, M., & Annabi-Attia, T. (2013). Development and validation of an environmental quality of life scale: study of a French sample. *Social **Indicators* *Research*, *113*(3), 903–913. 
+
