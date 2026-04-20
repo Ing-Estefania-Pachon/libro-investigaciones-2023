@@ -4,6 +4,8 @@ project:
 
 book:
   title: "Investigaciones en Gestión del Riesgo"
+  sidebar:
+    logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
     - index.qmd
     - 01-3-presentacion-del-libro.qmd
@@ -28,10 +30,15 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - lumen
+      - theme.scss
     css: styles.css
     toc: true
     toc-depth: 4
     toc-expand: true
     number-sections: true
     html-math-method: mathjax
+    reader-mode: true
+    page-navigation: true
+    back-to-top-navigation: true

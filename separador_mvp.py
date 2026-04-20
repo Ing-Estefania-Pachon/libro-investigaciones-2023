@@ -58,31 +58,61 @@ def extraer_imagenes_del_parrafo(parrafo, doc_part, dir_media):
 
 def extraer_texto_integrado(parrafo):
     """
-    Lee el párrafo de izquierda a derecha. Si encuentra texto normal, le aplica negritas/cursivas.
-    Si encuentra una ecuación, la extrae en la misma línea para que no quede 'vertical' ni desordenada.
+    Lee el párrafo de izquierda a derecha agrupando fragmentos con el mismo formato.
+    Si encuentra texto normal, le aplica negritas/cursivas al final del grupo.
+    Si encuentra una ecuación, la extrae en la misma línea.
     """
     texto_md = ""
+    current_text = ""
+    current_bold = False
+    current_italic = False
+
+    def flush_run():
+        nonlocal texto_md, current_text
+        if not current_text:
+            return
+            
+        txt = current_text
+        if not txt.strip():
+            texto_md += txt
+        else:
+            lspace = len(txt) - len(txt.lstrip(' \t\n\r'))
+            rspace = len(txt) - len(txt.rstrip(' \t\n\r'))
+            
+            l_str = txt[:lspace] if lspace else ""
+            r_str = txt[-rspace:] if rspace else ""
+            clean_txt = txt.strip()
+            
+            if current_bold and current_italic:
+                clean_txt = f"***{clean_txt}***"
+            elif current_bold:
+                clean_txt = f"**{clean_txt}**"
+            elif current_italic:
+                clean_txt = f"*{clean_txt}*"
+            
+            texto_md += l_str + clean_txt + r_str
+            
+        current_text = ""
+
     for child in parrafo._element:
         # 1. Si es un bloque de texto normal (w:r)
         if child.tag.endswith('r'):
             run = docx.text.run.Run(child, parrafo)
-            
-            # Si run.text es nulo, le asignamos un string vacío
             txt = run.text if run.text is not None else ""
             
-            if not txt.strip(): 
-                texto_md += txt
+            if not txt:
                 continue
-            
-            # Aplicar estilos básicos
-            if run.bold and run.italic: txt = f"***{txt}***"
-            elif run.bold: txt = f"**{txt}**"
-            elif run.italic: txt = f"*{txt}*"
-            
-            texto_md += txt
+                
+            if (bool(run.bold) != current_bold) or (bool(run.italic) != current_italic):
+                flush_run()
+                current_bold = bool(run.bold)
+                current_italic = bool(run.italic)
+                
+            current_text += txt
             
         # 2. Si es una ecuación matemática de Word (m:oMath)
         elif child.tag.endswith('oMath') or child.tag.endswith('oMathPara'):
+            flush_run()
             textos = child.xpath('.//*[local-name()="t"]')
             eq_text = "".join([t.text for t in textos if t.text]).replace('\n', ' ').strip()
             
@@ -92,6 +122,7 @@ def extraer_texto_integrado(parrafo):
                 else:
                     texto_md += f" ${eq_text}$ "
                     
+    flush_run()
     return texto_md
 
 def tabla_a_markdown(tabla):
@@ -117,9 +148,9 @@ def generar_yaml(dir_salida, lista_archivos):
     ruta_yaml = os.path.join(dir_salida, '_quarto.yml')
     with open(ruta_yaml, 'w', encoding='utf-8') as f:
         f.write("project:\n  type: book\n  output-dir: _book\n\n")
-        f.write("book:\n  title: \"Investigaciones en Gestión del Riesgo\"\n  chapters:\n    - index.qmd\n")
+        f.write("book:\n  title: \"Investigaciones en Gestión del Riesgo\"\n  sidebar:\n    logo: media/Logo-UNGRD-Horizontal-removebg-preview.png\n  chapters:\n    - index.qmd\n")
         for archivo in lista_archivos: f.write(f"    - {archivo}\n")
-        f.write("\nformat:\n  html:\n    theme: cosmo\n    css: styles.css\n    toc: true\n    toc-depth: 4\n    toc-expand: true\n    number-sections: true\n    html-math-method: mathjax\n")
+        f.write("\nformat:\n  html:\n    theme: \n      - lumen\n      - theme.scss\n    css: styles.css\n    toc: true\n    toc-depth: 4\n    toc-expand: true\n    number-sections: true\n    html-math-method: mathjax\n    reader-mode: true\n    page-navigation: true\n    back-to-top-navigation: true\n")
 
     ruta_css = os.path.join(dir_salida, 'styles.css')
     with open(ruta_css, 'w', encoding='utf-8') as f:

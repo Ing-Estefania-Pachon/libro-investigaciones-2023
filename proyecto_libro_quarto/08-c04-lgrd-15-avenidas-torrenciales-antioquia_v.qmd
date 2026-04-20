@@ -2,7 +2,7 @@
 
 **Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca**
 
-**Edier Aristizábal ****1****, Federico Gómez Cardona****1*****, María Isabel Arango Carmona****1**
+**Edier Aristizábal 1, Federico Gómez Cardona1*, María Isabel Arango Carmona1**
 
 # Capítulo 8: C04-LGRD-15-AVENIDAS-TORRENCIALES-ANTIOQUIA_VF-2022-09-20
 
@@ -16,7 +16,7 @@ Las avenidas torrenciales son eventos altamente destructivos y frecuentes en amb
 
 **Palabras clave:** amenazas naturales, avenidas torrenciales, susceptibilidad, amenaza, ordenamiento territorial       
 
-**Hazard Assessment from debris ****flow in the department of Antioquia at the basin scale**
+**Hazard Assessment from debris flow in the department of Antioquia at the basin scale**
 
 **Abstract**
 
@@ -28,7 +28,7 @@ Debris-flow processes are deadly and highly destructive events, frequent in trop
 
 Las avenidas torrenciales son fenómenos altamente destructivos y súbitos que representan una amenaza para la vida y la infraestructura localizada en zonas de abanicos aluviales, donde torrentes de montaña depositan su material transportado . La ocurrencia de avenidas torrenciales se asocia con lluvias intensas de corta duración, en cuencas de áreas pequeñas y relieve montañoso , que dan como resultado un reducido tiempo de evacuación que impide la toma de acciones para reducir las pérdidas de vidas humanas e infraestructura .
 
-En general, los flujos torrenciales se consideran como fenómenos de transporte de sedimentos compuestos por una mezcla de agua, materiales finos y gruesos, donde las fuerzas e interacciones sólidas y líquidas influyen en el movimiento . Sin embargo, dependiendo de criterios como la concentración de sedimentos, la densidad y comportamiento del flujo y las características ambientales de la cuenca, estos eventos pueden variar de procesos gravitacionales a hidrológicos, con numerosas formas intermedias, incluso dentro del mismo evento. Si bien las avenidas torrenciales son un fenómeno global, no existe en la literatura un término en inglés directamente equivalente a este evento. Por el contrario, se han definido diferentes fenómenos en el continuo entre eventos hidrológicos y de ladera, incluyendo los términos *flash flood, debris flood, debris torrent *y* debris flow*. Para efectos de practicidad, se puede traducir las avenidas torrenciales como *debris flow processes, *para aclarar que se deben entender como un rango de procesos a nivel de cuenca, más que como un tipo de eventos específico. 
+En general, los flujos torrenciales se consideran como fenómenos de transporte de sedimentos compuestos por una mezcla de agua, materiales finos y gruesos, donde las fuerzas e interacciones sólidas y líquidas influyen en el movimiento . Sin embargo, dependiendo de criterios como la concentración de sedimentos, la densidad y comportamiento del flujo y las características ambientales de la cuenca, estos eventos pueden variar de procesos gravitacionales a hidrológicos, con numerosas formas intermedias, incluso dentro del mismo evento. Si bien las avenidas torrenciales son un fenómeno global, no existe en la literatura un término en inglés directamente equivalente a este evento. Por el contrario, se han definido diferentes fenómenos en el continuo entre eventos hidrológicos y de ladera, incluyendo los términos *flash flood, debris flood, debris torrent* y *debris flow*. Para efectos de practicidad, se puede traducir las avenidas torrenciales como *debris flow processes,* para aclarar que se deben entender como un rango de procesos a nivel de cuenca, más que como un tipo de eventos específico. 
 
 Para el caso de Colombia, Aristizábal, Carmona y López  llevaron a cabo una recopilación y revisión de los fenómenos relacionados con las avenidas torrenciales. Allí, los autores exponen que el término avenidas torrenciales, más que referirse a un fenómeno concreto, engloba un rango de procesos de tipo gravitacional e hidrológico a escala de cuenca, y proponen clasificarlas en tres tipos.  
 
@@ -47,8 +47,10 @@ La metodología propuesta hace uso de Sistemas de Información Geográfica y bas
 Este análisis corresponde al resultado del primer estudio a nivel departamental de susceptibilidad y amenaza ante avenidas torrenciales en Colombia a nivel de cuenca con una mirada multi-amenaza. Siguiendo este mismo enfoque, el Servicio Geológico Colombiano lanzó en el año 2022 la Guía metodológica para la zonificación de amenaza por avenidas torrenciales  . Esta guía proporciona unos lineamientos generales para la elaboración de estudios de amenaza para su incorporación en los Planes de Ordenamiento Territorial a escala básica (1:25,000), y detallada (1:2,000). La guía representa el primer documento metodológico oficial que propone analizar las avenidas torrenciales como eventos concatenados, es decir, que combinan análisis de estabilidad de laderas, aporte de sedimentos e inundaciones. 
 
 
-| Caja 1. Glosario* Avenida torrencial: flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo.  Creciente súbita: flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas.  Inundación de escombros: flujo torrencial de dos fases generado por un evento de lluvia intenso que aumenta el caudal de la cuenca súbitamente y poder de erosión. Esto genera que el flujo remueva los sedimentos del lecho del canal, además de crear pequeños colapsos de sus orillas capaz de movilizar bloques de roca.  Flujo de escombros canalizado: flujo torrencial con altas concentraciones de sedimentos que se comporta como un fluido no newtoniano de una sola fase. Se generan con eventos de precipitación particularmente intensos que detonan enjambres de deslizamientos en las laderas, los cuales aumentan considerablemente la concentración de sedimentos y el poder erosivo y destructivo del flujo.  *Definiciones de acuerdo con Aristizábal, Carmona y López [6]. |
-| --- |
+::: {.caja-box}
+**Caja 1.** Glosario* Avenida torrencial: flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo.  Creciente súbita: flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas.  Inundación de escombros: flujo torrencial de dos fases generado por un evento de lluvia intenso que aumenta el caudal de la cuenca súbitamente y poder de erosión. Esto genera que el flujo remueva los sedimentos del lecho del canal, además de crear pequeños colapsos de sus orillas capaz de movilizar bloques de roca.  Flujo de escombros canalizado: flujo torrencial con altas concentraciones de sedimentos que se comporta como un fluido no newtoniano de una sola fase. Se generan con eventos de precipitación particularmente intensos que detonan enjambres de deslizamientos en las laderas, los cuales aumentan considerablemente la concentración de sedimentos y el poder erosivo y destructivo del flujo.  *Definiciones de acuerdo con Aristizábal, Carmona y López [6].
+
+:::
 
 ## ÁREA DE ESTUDIO
 
@@ -56,11 +58,11 @@ Colombia se encuentra en el norte de la cordillera de los Andes en una región t
 
 El ciclo de precipitación anual sobre la región andina presenta un carácter bimodal, con estaciones húmedas de marzo a mayo y de septiembre a noviembre; y estaciones secas de diciembre a febrero y de junio a agosto . La variabilidad anual de las precipitaciones está dada principalmente por el desplazamiento de la Zona de Convergencia Intertropical (ITCZ) , mientras que su variabilidad interanual está controlada por los efectos de las fases de El Niño-Oscilación del Sur (ENOS): El Niño, la fase cálida y La Niña, la fase fría . A escala local, los Andes influyen en la dinámica climática y de precipitaciones en la región. Las fuertes características topográficas inducen la circulación atmosférica local, la cual aumenta la convección profunda, creando tormentas intensas y localizadas, que desencadenan movimientos en masa y avenidas torrenciales .
 
-El estudio se implementó en el departamento de Antioquia, ubicado al noroccidente de la zona andina colombiana, entre las cordilleras Central y Occidental. La región cuenta con una extensión de 63.612 km2 y relieve variado, desde llanuras aluviales hasta zonas montañosas (**Fig****. ****1**). Su población supera los 6,6 millones de habitantes para 2020, de los cuales 4 millones se encuentran en el Área Metropolitana del Valle de Aburrá, que incluye a Medellín y nueve municipios aledaños, constituyendo el segundo mayor asentamiento de Colombia . 
+El estudio se implementó en el departamento de Antioquia, ubicado al noroccidente de la zona andina colombiana, entre las cordilleras Central y Occidental. La región cuenta con una extensión de 63.612 km2 y relieve variado, desde llanuras aluviales hasta zonas montañosas (**Fig. 1**). Su población supera los 6,6 millones de habitantes para 2020, de los cuales 4 millones se encuentran en el Área Metropolitana del Valle de Aburrá, que incluye a Medellín y nueve municipios aledaños, constituyendo el segundo mayor asentamiento de Colombia . 
 
 
 
-**Figura ****1****.** Mapa topográfico y ubicación del departamento de Antioquia, y del Área Metropolitana del Valle de Aburrá.   
+**Figura 1.** Mapa topográfico y ubicación del departamento de Antioquia, y del Área Metropolitana del Valle de Aburrá.   
 
 ## DATOS Y METODOLOGÍA
 
@@ -68,19 +70,21 @@ El análisis se realiza en tres pasos principales: el primero es el análisis de
 
 
 
-**Figura ****2*****.*** Diagrama de la metodología empleada en el estudio.
+**Figura 2*****.*** Diagrama de la metodología empleada en el estudio.
 
 ## Susceptibilidad
 
-**Caja 2. ****Susceptibilidad a avenida torrencial** 
+::: {.caja-box}
+**Caja 2.** Susceptibilidad a avenida torrencial
+:::
 
 La susceptibilidad a avenida torrencial pretende contestar dos preguntas:
 
-**¿En cuáles cuencas se puede esperar la ocurrencia de eventos torrenciales? **
+**¿En cuáles cuencas se puede esperar la ocurrencia de eventos torrenciales?** 
 
 Las avenidas torrenciales se presentan en cuencas pequeñas con relieves montañosos y fuertes pendientes, bajo la presencia de intensos eventos de lluvia, y el aporte de sedimentos provenientes de las laderas o su propio cauce. 
 
-**En aquellas cuencas que son torrenciales, ¿cuál es el tipo de evento más crítico que se podría suceder? **
+**En aquellas cuencas que son torrenciales, ¿cuál es el tipo de evento más crítico que se podría suceder?** 
 
 De acuerdo con el análisis de los registros históricos de avenidas torrenciales en el país, los flujos de escombros canalizados, que son los más críticos y destructivos, se relacionan con la presencia de rocas graníticas en la zona alta de la cuenca y con enjambres de movimientos en masa. La geología de las cuencas torrenciales se analiza para detectar la presencia de cuerpos graníticos. Todas las cuencas torrenciales son propensas a generar crecientes súbitas. Sin embargo, en cuencas torrenciales con cuerpos graníticos, se considera que el evento más crítico posible son los flujos de escombros canalizados. En cuencas torrenciales sin cuerpos graníticos, se consideran que son las inundaciones de escombros. 
 
@@ -102,7 +106,9 @@ Cuencas con regímenes torrenciales y presencia de regolitos grueso granulares s
 
 ## Amenaza: magnitud y probabilidad temporal
 
-**Caja 3. ****Amenaza por avenida torrencial** 
+::: {.caja-box}
+**Caja 3.** Amenaza por avenida torrencial
+:::
 
 La amenaza por avenida torrencial en una cuenca está dada por la magnitud de un posible evento, y por la probabilidad temporal de un evento de lluvia que lo desencadene. 
 
@@ -116,7 +122,7 @@ En base a una recopilación de eventos de avenidas torrenciales y a un registro 
 
 Varnes  define la amenaza como la probabilidad de ocurrencia de un fenómeno potencialmente destructivo dada un área y un tiempo determinados. Estudios recientes consideran que una evaluación completa de la amenaza debe incluir tanto un análisis espaciotemporal como un análisis de magnitud . Por consiguiente, el diagnóstico de la amenaza tiene tres componentes principales: el primero es el mapeo de la susceptibilidad —descrita anteriormente—, el segundo es la determinación de la probabilidad temporal de ocurrencia de un evento detonante específico —en este caso la lluvia— y el tercero la evaluación de la magnitud del evento.
 
-**Probabilidad temporal****. **La probabilidad temporal ( $PT$ ) se define como la probabilidad de ocurrencia de un evento detonante específico, en este caso un evento de lluvia de alta intensidad que desencadene la ocurrencia de una avenida torrencial en un periodo de tiempo específico. Inicialmente, es necesario conocer las probabilidades de excedencia de un evento de precipitación. Para esto, se utiliza la base de datos de libre acceso Climate Hazard Group Infrared Precipitation with Stations (CHIRPS), la cual tiene formato ráster con resolución espacial de aproximadamente 5 km, y contiene información diaria desde 1981. A partir de esta base de datos, se obtiene para cada una de las celdas ráster de 5 km la probabilidad de excedencia del evento de precipitación definido, calculado así: 
+**Probabilidad temporal.** La probabilidad temporal ( $PT$ ) se define como la probabilidad de ocurrencia de un evento detonante específico, en este caso un evento de lluvia de alta intensidad que desencadene la ocurrencia de una avenida torrencial en un periodo de tiempo específico. Inicialmente, es necesario conocer las probabilidades de excedencia de un evento de precipitación. Para esto, se utiliza la base de datos de libre acceso Climate Hazard Group Infrared Precipitation with Stations (CHIRPS), la cual tiene formato ráster con resolución espacial de aproximadamente 5 km, y contiene información diaria desde 1981. A partir de esta base de datos, se obtiene para cada una de las celdas ráster de 5 km la probabilidad de excedencia del evento de precipitación definido, calculado así: 
 
 $Pp=Días excedidosTotal de días$ 	(1)
 
@@ -130,15 +136,15 @@ $PTFEC=Pp(Pat|Pp)(Pmm|Pp)$ 		(3)
 
 Teniendo los valores de  $Pat$ ,  $Pmm$  y  $Pp$ , se calcula la distribución espacial de las probabilidades temporales de ocurrencia de los eventos de inundación de escombros ( $PTIE)$  y flujos de escombros canalizados ( $PTFEC)$ . A cada cuenca se le asigna la máxima probabilidad de los píxeles que se encuentran dentro de ella. 
 
-Dado que los valores de probabilidades de avenida torrencial y movimientos en masa están relacionados con un evento de precipitación, se requiere primero conocer aquellos valores de precipitación que se considere generadores de estos eventos. Para esto, se construyó un inventario de 504 avenidas torrenciales y 8046 movimientos en masa en Antioquia, a partir de la recopilación y filtrado de las bases de datos de libre acceso DESINVENTAR () y SIMMA (). Para cada uno de los eventos recopilados, se conoce su ubicación y fecha, necesarias para su correlación con un evento de lluvia. Esta correlación utilizó los datos de precipitación de 249 estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), también de acceso libre. A estas estaciones pluviométricas se les asigna un área de influencia a partir de los polígonos de Thiessen y un rango de máximo 5 km y se correlacionan los eventos que se encuentren dentro de estas dos áreas. Los eventos que se encuentren a una distancia mayor a 5 km de una estación pluviométrica son descartados con el fin de reducir el error por la variabilidad espacial de la lluvia. También son descartados aquellos eventos en los cuales la estación más cercana no haya registrado ningún evento de lluvia, ya que se considera como necesaria la ocurrencia de un evento de precipitación para la generar una avenida torrencial. Para el caso de los movimientos en masa, se asume que aquellos ocurridos un día de no-lluvia son detonados por precipitaciones acumuladas los días antecedentes al evento. Finalmente, considerando estos filtros, quedan para el análisis 269 avenidas torrenciales y 4930 movimientos en masa. La **Figura ****3** muestra la ubicación de los deslizamientos, avenidas torrenciales y estaciones pluviométricas utilizadas. 
+Dado que los valores de probabilidades de avenida torrencial y movimientos en masa están relacionados con un evento de precipitación, se requiere primero conocer aquellos valores de precipitación que se considere generadores de estos eventos. Para esto, se construyó un inventario de 504 avenidas torrenciales y 8046 movimientos en masa en Antioquia, a partir de la recopilación y filtrado de las bases de datos de libre acceso DESINVENTAR () y SIMMA (). Para cada uno de los eventos recopilados, se conoce su ubicación y fecha, necesarias para su correlación con un evento de lluvia. Esta correlación utilizó los datos de precipitación de 249 estaciones del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), también de acceso libre. A estas estaciones pluviométricas se les asigna un área de influencia a partir de los polígonos de Thiessen y un rango de máximo 5 km y se correlacionan los eventos que se encuentren dentro de estas dos áreas. Los eventos que se encuentren a una distancia mayor a 5 km de una estación pluviométrica son descartados con el fin de reducir el error por la variabilidad espacial de la lluvia. También son descartados aquellos eventos en los cuales la estación más cercana no haya registrado ningún evento de lluvia, ya que se considera como necesaria la ocurrencia de un evento de precipitación para la generar una avenida torrencial. Para el caso de los movimientos en masa, se asume que aquellos ocurridos un día de no-lluvia son detonados por precipitaciones acumuladas los días antecedentes al evento. Finalmente, considerando estos filtros, quedan para el análisis 269 avenidas torrenciales y 4930 movimientos en masa. La **Figura 3** muestra la ubicación de los deslizamientos, avenidas torrenciales y estaciones pluviométricas utilizadas. 
 
 
 
-**Figura ****3*****.*** Inventario de avenidas torrenciales, movimientos en masa y estaciones pluviométricas utilizadas para el análisis de probabilidad temporal. 
+**Figura 3*****.*** Inventario de avenidas torrenciales, movimientos en masa y estaciones pluviométricas utilizadas para el análisis de probabilidad temporal. 
 
 Utilizando esta base de datos de eventos y precipitaciones asociadas, se realiza un análisis de correlación lluvia-evento usando el método estadístico multivariado de regresión logística. Este método estima la relación entre una variable dependiente —en este caso la ocurrencia de avenidas torrenciales o movimientos en masa—, con variables independientes, en este caso la precipitación. El método tiene la ventaja de que las variables independientes no deben seguir una distribución normal, como es el caso de la lluvia. A partir de los resultados de la regresión logística, se construye una ecuación de probabilidad de ocurrencia de un movimiento en masa o una avenida torrencial, en función de un valor dado de precipitación.
 
-**Magnitud****. **La magnitud de las avenidas torrenciales es función de la cantidad de sedimentos de las laderas que pueden ser incorporados a la avenida torrencial. Para los flujos de escombros canalizados, la magnitud depende del volumen de sedimentos que han sido transportados desde las laderas de la cuenca hasta el canal, mientras que los eventos de inundación de escombros tienen magnitudes menores, considerando que los sedimentos que llevan provienen de la remoción de material del lecho y las márgenes en el cauce del drenaje.
+**Magnitud.** La magnitud de las avenidas torrenciales es función de la cantidad de sedimentos de las laderas que pueden ser incorporados a la avenida torrencial. Para los flujos de escombros canalizados, la magnitud depende del volumen de sedimentos que han sido transportados desde las laderas de la cuenca hasta el canal, mientras que los eventos de inundación de escombros tienen magnitudes menores, considerando que los sedimentos que llevan provienen de la remoción de material del lecho y las márgenes en el cauce del drenaje.
 
 Para determinar el volumen de sedimentos incorporables al flujo en cada cuenca, es necesario estimar las zonas que son inestables ante episodios de precipitación, y conocer el volumen de suelo que se llegaría a movilizar. La zonificación de la estabilidad de laderas se obtuvo a partir del modelo con base física SHALSTAB (SHAllow Landslide STABility), un modelo acoplado hidrológico-geotécnico propuesto por Montgomery y Dietrich  que utiliza la precipitación en estado estacionario para generar patrones espaciales de humedad y estimar el potencial de falla a través de un análisis de talud infinito según la ley de Mohr-Coulomb, como se observa en la siguiente ecuación:
 
@@ -156,13 +162,13 @@ Donde,  $θi$  es la pendiente local (°),  $θmax$  y  $θmin$  la pendiente m�
 
 De esta forma, para cada cuenca analizada, el modelo SHALSTAB estima las celdas que fallarían ante diferentes valores de lluvia detonante. Esta información, junto con la distribución espacial del espesor del suelo, permite calcular el volumen de sedimentos que serán desplazados. Se asume que todo el material que falla ante este evento es conducido hasta el cauce y alimenta la avenida torrencial. En la realidad esto no es así, ya que muchos movimientos en masa no se alcanzan a propagar hasta los drenajes; sin embargo, al considerar el volumen total se simplifica el análisis y se evalúa el escenario más crítico. Para hacer posible la comparación entre cuencas, el valor estimado de volumen de sedimentos inestables se normaliza con el área de la cuenca.  
 
-**2.3.4 C****á****lculo de la ****a****menaza** 
+## 2.3.4 Cálculo de la amenaza
 
 Para la estimación de la amenaza se utiliza un análisis de matrices categóricas. Para esto, los valores de probabilidad temporal y magnitud son divididos en categorías y su cruce da como resultado un nivel de amenaza. El nombre de las categorías (p. ej. muy baja, baja, media, alta, muy alta, etc.), y los valores límites entre ellas es un criterio que se debe adaptar a las necesidades del análisis, su audiencia, y los niveles de aceptación de la amenaza y el riesgo propios de cada zona. Dado que el objetivo para la zona de Antioquia era conocer zonas de amenaza relativa alta, la separación entre las categorías se realizó en base a los quiebres naturales del histograma de distribución de cada variable. De esta forma, el análisis muestra el nivel de probabilidad temporal, magnitud y amenaza de cada cuenca, en relación con las demás del departamento. También, para la zona de estudio, se evitó utilizar la categoría baja, para no brindar una falsa sensación de seguridad ante un fenómeno de capacidad destructiva tan alta como las avenidas torrenciales. 
 
 Finalmente, la probabilidad temporal y la magnitud son cruzadas categóricamente a partir de la matriz de decisión presentada en la **Tabla 1**. Este análisis solo se realiza para las cuencas definidas como susceptibles a avenidas torrenciales. Se podría decir, por tanto, que la categoría de amenaza baja por avenidas torrenciales la tendrían las cuencas clasificadas como no torrenciales.
 
-**Tabla ****1****.** Matriz de cálculo de amenaza.
+**Tabla 1.** Matriz de cálculo de amenaza.
 
 
 |  |  | Magnitud | Magnitud | Magnitud |
@@ -176,9 +182,9 @@ Finalmente, la probabilidad temporal y la magnitud son cruzadas categóricamente
 
 El departamento fue primero subdividido en cuencas siguiendo el criterio de áreas entre 8 y 40 km2, resultando en 3039 cuencas objeto de estudio. 
 
-**Susceptibilidad****. **Según los resultados del análisis llevado a cabo por Arango, Aristizábal y Gómez , las variables más importantes para describir la torrencialidad de las cuencas de la zona andina colombiana son: el número de drenajes, la tasa de meandricidad, la constante de mantenimiento del canal, el relieve y el índice de Melton. La **Tabla 2** muestra las fórmulas y autores de dichos parámetros.  
+**Susceptibilidad.** Según los resultados del análisis llevado a cabo por Arango, Aristizábal y Gómez , las variables más importantes para describir la torrencialidad de las cuencas de la zona andina colombiana son: el número de drenajes, la tasa de meandricidad, la constante de mantenimiento del canal, el relieve y el índice de Melton. La **Tabla 2** muestra las fórmulas y autores de dichos parámetros.  
 
-**Tabla ****2****.** Parámetros morfométricos relevantes para definir la torrencialidad de cuencas en los Andes Colombianos.
+**Tabla 2.** Parámetros morfométricos relevantes para definir la torrencialidad de cuencas en los Andes Colombianos.
 
 
 | Parámetro | Ecuación | Ecuación | Fuente |
@@ -197,23 +203,23 @@ $T=0.140Nu+510.863Rw+71.341C+30.161H+291.057M-287.070$ 	(7)
 
 Si se desea conocer el carácter de una nueva cuenca, basta con extraer los valores de los cinco parámetros morfométricos y calcular el valor de ambas funciones discriminantes. La cuenca es susceptible a torrencialidad si  $T>A$ , y no susceptible en el caso contrario. 
 
-Los valores de los cinco índices morfométricos seleccionados fueron extraídos para cada una de las cuencas de Antioquia, y su susceptibilidad por avenida torrencial calculada aplicando las funciones discriminantes. La **Figura ****4** muestra los resultados de la clasificación de las cuencas en comportamiento torrencial o no torrencial.  Las cuencas clasificadas como torrenciales se ubican principalmente en zonas montañosas con altas pendientes del centro de Antioquia. Las llanuras aluviales de los ríos Cauca, al occidente, y Magdalena, al oriente del departamento, tienen una topografía suave y bajas pendientes, donde predominan las cuencas no torrenciales. 
+Los valores de los cinco índices morfométricos seleccionados fueron extraídos para cada una de las cuencas de Antioquia, y su susceptibilidad por avenida torrencial calculada aplicando las funciones discriminantes. La **Figura 4** muestra los resultados de la clasificación de las cuencas en comportamiento torrencial o no torrencial.  Las cuencas clasificadas como torrenciales se ubican principalmente en zonas montañosas con altas pendientes del centro de Antioquia. Las llanuras aluviales de los ríos Cauca, al occidente, y Magdalena, al oriente del departamento, tienen una topografía suave y bajas pendientes, donde predominan las cuencas no torrenciales. 
 
 
 
-**Figura ****4****. **Resultados de clasificación de las cuencas en carácter torrencial y no torrencial.
+**Figura 4.** Resultados de clasificación de las cuencas en carácter torrencial y no torrencial.
 
-La **Figura ****4** muestra los resultados de la clasificación de las unidades geológicas del departamento en base a su composición mineralógica y granulometría de suelos residuales. Dentro de las unidades de regolitos grueso granulares, se destacan los cuerpos plutónicos de la Cordillera Central en el Oriente Antioqueño, mientras que en la zona central y occidental del departamento predominan las rocas sedimentarias y vulcano-sedimentarias de la Cordillera Occidental. 
+La **Figura 4** muestra los resultados de la clasificación de las unidades geológicas del departamento en base a su composición mineralógica y granulometría de suelos residuales. Dentro de las unidades de regolitos grueso granulares, se destacan los cuerpos plutónicos de la Cordillera Central en el Oriente Antioqueño, mientras que en la zona central y occidental del departamento predominan las rocas sedimentarias y vulcano-sedimentarias de la Cordillera Occidental. 
 
 
 
-**Figura ****5*****.*** Tipo de regolito de las unidades geológicas.
+**Figura 5*****.*** Tipo de regolito de las unidades geológicas.
 
 Para obtener el tipo de evento torrencial al que es susceptible cada cuenca, se realiza el cruce categórico entre el carácter o respuesta hidrológica de las cuencas producto de su morfometría con el tipo de suelo presente en la cuenca. Los resultados se presentan en la **Figura 6**, donde las cuencas con regímenes torrenciales y presencia de regolitos grueso granulares son clasificadas como tipo flujo de escombros canalizado, mientras aquellas con regolito fino-granular son clasificadas como susceptibles a inundación de escombros. Cuencas clasificadas como no torrenciales en el análisis morfométrico no continúan en el análisis.
 
 
 
-**Figura ****6****. **Susceptibilidad ante flujos de escombros canalizados e inundación de escombros para las cuencas torrenciales.
+**Figura 6.** Susceptibilidad ante flujos de escombros canalizados e inundación de escombros para las cuencas torrenciales.
 
 **Probabilidad Temporal**. Al procesar la base de datos de avenidas torrenciales y su correlación con la intensidad diaria asociada, se encuentra que estos fenómenos en el departamento de Antioquia se dan al superar intensidades de 50 mm/día. Este valor no corresponde a un evento demasiado intenso, pero se considera apropiado por ser conservador. 
 
@@ -221,7 +227,7 @@ A partir del escenario de lluvia escogido se calcula la probabilidad de excedenc
 
 
 
-**Figura ****7*****.*** Probabilidad de excedencia de una lluvia diaria de 50 mm/día.
+**Figura 7*****.*** Probabilidad de excedencia de una lluvia diaria de 50 mm/día.
 
 A continuación, se realiza el análisis de correlación entre los eventos de movimientos en masa y avenidas torrenciales con la precipitación, a través de la regresión logística. El resultado de la regresión es una fórmula que estima la probabilidad de ocurrencia de un evento, ya sea movimiento en masa o avenida torrencial, en base a un valor de precipitación, como se muestra en las ecuaciones 8 y 9:
 
@@ -231,23 +237,23 @@ Donde  $Pat$  y  $Pmm$  son las probabilidades de ocurrencia de avenidas torrenc
 
 Para el evento de precipitación escogido de 50 mm diarios,   $Pat$  es igual a  $9.59e-5$ y  $Pmm$  es igual a  $1.45e-4$ . La probabilidad de los movimientos en masa es, naturalmente, mayor a la de ocurrencia de avenidas torrenciales ya que estos son más frecuentes en la base de datos.
 
-Finalmente, se puede calcular la probabilidad temporal de ocurrencia para cada fenómeno, teniendo en cuenta las probabilidades conjuntas. El cálculo de las probabilidades conjuntas se hace para cada uno de los pixeles de 5 km del mapa de probabilidad de precipitación de la **Figura 7**, y a cada cuenca se le asigna el valor del pixel con valor máximo dentro de ella, dependiendo de su susceptibilidad. Los valores resultantes de probabilidad temporal son categorizados en tres niveles según los quiebres naturales del histograma de los valores regionales, como se presenta en la **Figura ****8**. Los resultados muestran a la mayor parte de las cuencas en categoría media, con focos de alta probabilidad en las regiones más lluviosas, o con mayor frecuencia de deslizamientos y avenidas torrenciales, en la zona occidental del departamento. 
+Finalmente, se puede calcular la probabilidad temporal de ocurrencia para cada fenómeno, teniendo en cuenta las probabilidades conjuntas. El cálculo de las probabilidades conjuntas se hace para cada uno de los pixeles de 5 km del mapa de probabilidad de precipitación de la **Figura 7**, y a cada cuenca se le asigna el valor del pixel con valor máximo dentro de ella, dependiendo de su susceptibilidad. Los valores resultantes de probabilidad temporal son categorizados en tres niveles según los quiebres naturales del histograma de los valores regionales, como se presenta en la **Figura 8**. Los resultados muestran a la mayor parte de las cuencas en categoría media, con focos de alta probabilidad en las regiones más lluviosas, o con mayor frecuencia de deslizamientos y avenidas torrenciales, en la zona occidental del departamento. 
 
 
 
-**Figura ****8*****.*** Probabilidad temporal de ocurrencia de avenidas torrenciales.
+**Figura 8*****.*** Probabilidad temporal de ocurrencia de avenidas torrenciales.
 
-**Magnitud****.**  Utilizando el modelo SHALSTAB se calculan las celdas que fallan con la lluvia detonante de 50 mm/día, y aquellas que fallan incondicionalmente, es decir, aquellas que, por sus características geotécnicas y geomorfológicas, pueden fallar aún sin lluvia detonante. Cruzando estos resultados con el mapa de espesores de suelos calculado a partir de la ecuación  $hi=hmax[1-tanθi-tanθmintanθmax-tanθmin(1-hminhmax)]$ 	(5), se calcula la distribución espacial del volumen de suelo susceptible a fallar ante el evento de precipitación para las cuencas susceptibles a flujos de escombros canalizados. Los valores de volumen son clasificados en categoría media, alta y muy alta usando como límites entre categorías los quiebres naturales del histograma. Los resultados se presentan en la **Figura ****9**. Los valores de magnitud, o volumen potencial por  $m2$ , varían entre 0 y 2.15  $m3m2$ , encontrándose los mayores valores en suelos grueso-granulares del centro y sur del departamento, mientras que el norte y occidente se encuentran dominados por la categoría media. A las cuencas susceptibles a inundaciones de escombros, se les asigna la categoría de magnitud Media.  
-
-
-
-**Figura ****9*****.*** Volumen potencial normalizado de sedimentos disponibles.
-
-**Cálculo de amenaza****. **Finalmente, a partir del cruce categórico de los resultados obtenidos de probabilidad temporal y magnitud de las cuencas usando la **Tabla ****1**, se obtiene la amenaza por avenidas torrenciales en categorías media, alta y muy alta, como se presenta en la **Figura ****10**. Resaltan en amenaza muy alta algunas cuencas del valle del río Cauca, especialmente al norte de Medellín, donde su cauce se hace más estrecho. Otras zonas de amenaza muy alta son el suroeste y sureste antioqueño.  
+**Magnitud.**  Utilizando el modelo SHALSTAB se calculan las celdas que fallan con la lluvia detonante de 50 mm/día, y aquellas que fallan incondicionalmente, es decir, aquellas que, por sus características geotécnicas y geomorfológicas, pueden fallar aún sin lluvia detonante. Cruzando estos resultados con el mapa de espesores de suelos calculado a partir de la ecuación  $hi=hmax[1-tanθi-tanθmintanθmax-tanθmin(1-hminhmax)]$ 	(5), se calcula la distribución espacial del volumen de suelo susceptible a fallar ante el evento de precipitación para las cuencas susceptibles a flujos de escombros canalizados. Los valores de volumen son clasificados en categoría media, alta y muy alta usando como límites entre categorías los quiebres naturales del histograma. Los resultados se presentan en la **Figura 9**. Los valores de magnitud, o volumen potencial por  $m2$ , varían entre 0 y 2.15  $m3m2$ , encontrándose los mayores valores en suelos grueso-granulares del centro y sur del departamento, mientras que el norte y occidente se encuentran dominados por la categoría media. A las cuencas susceptibles a inundaciones de escombros, se les asigna la categoría de magnitud Media.  
 
 
 
-**Figura ****10*****.*** Amenaza por avenidas torrenciales en el departamento de Antioquia.
+**Figura 9*****.*** Volumen potencial normalizado de sedimentos disponibles.
+
+**Cálculo de amenaza.** Finalmente, a partir del cruce categórico de los resultados obtenidos de probabilidad temporal y magnitud de las cuencas usando la **Tabla 1**, se obtiene la amenaza por avenidas torrenciales en categorías media, alta y muy alta, como se presenta en la **Figura 10**. Resaltan en amenaza muy alta algunas cuencas del valle del río Cauca, especialmente al norte de Medellín, donde su cauce se hace más estrecho. Otras zonas de amenaza muy alta son el suroeste y sureste antioqueño.  
+
+
+
+**Figura 10*****.*** Amenaza por avenidas torrenciales en el departamento de Antioquia.
 
 ## DISCUSIÓN Y CONCLUSIONES
 
@@ -319,7 +325,7 @@ Bradley, J.B. (1986). *Hydraulics and bed material transport at high fine suspen
 
 French, J.G, & Holt, K.W. (1989). *The Public Health Consequences of Disasters*. Atlanta, Georgia: US Department of Health and Human Services. Public Health Service, CDC. 
 
-Rozalis, S., Morin, E., Yair, Y. & Price, C. (2010). Flash flood prediction using an uncalibrated hydrological model and radar rainfall data in a Mediterranean watershed under changing hydrological conditions. *J**ournal of** Hydrol**ogy, **394*(1–2), 245–55. 
+Rozalis, S., Morin, E., Yair, Y. & Price, C. (2010). Flash flood prediction using an uncalibrated hydrological model and radar rainfall data in a Mediterranean watershed under changing hydrological conditions. *Journal of Hydrology, 394*(1–2), 245–55. 
 
 IAHS-UNESCO-WMO. (1974). *Flash floods*. Proceeding of the Paris symposium. 112. 
 
@@ -331,83 +337,83 @@ Hungr, O., Evans, S.G., Bovis, M.J. & Hutchinson, J.N. (2001). A review of the c
 
 Crozier, M.J. (2005). Multiple-occurrence regional landslide events in New Zealand: Hazard management issues. *Landslides*, *2*(4), 247–56. 
 
-O’Brien, J. & Julien, P. (1985) Physical properties and mechanics of hyperconcentrated sediment flows*. **Proceedings of the** ASCE HD Delineation of landslides, flash flood and debris flow hazards*. 
+O’Brien, J. & Julien, P. (1985) Physical properties and mechanics of hyperconcentrated sediment flows*. Proceedings of the ASCE HD Delineation of landslides, flash flood and debris flow hazards*. 
 
-Hungr, O., Leroueil, S. & Picarelli, L. (2014). The Varnes classification of landslide types, an update. *Landslides**,* *11*(2), 167–94. 
+Hungr, O., Leroueil, S. & Picarelli, L. (2014). The Varnes classification of landslide types, an update. *Landslides, 11*(2), 167–94. 
 
 Jakob, M., Holm, K., Lange, O. & Schwab, J.W. (2006) Hydrometeorological thresholds for landslide initiation and forest operation shutdowns on the north coast of British Columbia. *Landslides*, *3*(3), 228–38. 
 
 Aristizábal, E., Carmona, M.I.A. & López, I.K.G. (2020). Definición y clasificación de las avenidas torrenciales y su impacto en los Andes colombianos. *Cuadernos de Geografia: Revista Colombiana de Geografia*, *29*(1). 
 
-Cañón, A.M.R., Merchán, A.A.R., Peña, M.A.M., Peña, G.L.R., Castellanos, S.V.M., Flórez, M.S.R, et al. (2021*). **Guía metodológica para zonificación de amenaza por avenidas torrenciales*. Libros del Servicio Geológico Colombiano.  
+Cañón, A.M.R., Merchán, A.A.R., Peña, M.A.M., Peña, G.L.R., Castellanos, S.V.M., Flórez, M.S.R, et al. (2021*). Guía metodológica para zonificación de amenaza por avenidas torrenciales*. Libros del Servicio Geológico Colombiano.  
 
 DANE (Departamento Administrativo Nacional de Estadística). (2018). Reloj de población. 
 
-Poveda, G. La hidroclimatología de Colombia: una síntesis desde la escala inter-decadal hasta la escala diurna. (2004). *Revista de la Academia Colombiana de Ciencias**, **XXVIII*(107), 201–22. 
+Poveda, G. La hidroclimatología de Colombia: una síntesis desde la escala inter-decadal hasta la escala diurna. (2004). *Revista de la Academia Colombiana de Ciencias, XXVIII*(107), 201–22. 
 
 Poveda, G., Salazar, L.F. (2004). Annual and interannual (ENSO) variability of spatial scaling properties of a vegetation index (NDVI) in Amazonia. *Remote Sensing of Environment, 93*(3), 391–401. 
 
-Poveda, G. & Mesa, O.J. (1997). Feedbacks between hydrological processes in tropical South America and large-scale ocean-atmospheric phenomena. *J**ournal of** Clim**ate,**10*(10), 2690–702. 
+Poveda, G. & Mesa, O.J. (1997). Feedbacks between hydrological processes in tropical South America and large-scale ocean-atmospheric phenomena. *Journal of Climate,10*(10), 2690–702. 
 
-Poveda, G., Waylen, P.R., Pulwarty, R.S. (2006). Annual and inter-annual variability of the present climate in northern South America and southern Mesoamerica. *Palaeogeography, Palaeoclimatology, Palaeoecology,**234*(1), 3–27. 
+Poveda, G., Waylen, P.R., Pulwarty, R.S. (2006). Annual and inter-annual variability of the present climate in northern South America and southern Mesoamerica. *Palaeogeography, Palaeoclimatology, Palaeoecology,234*(1), 3–27. 
 
-Eslava, J. (1993). Climatología y Diversidad Climatica de Colombia.* Rev**ista de la** Acad**emia** Colomb**iana de** Cienc**ias, 1**8*(71), 507–38. 
+Eslava, J. (1993). Climatología y Diversidad Climatica de Colombia. *Revista de la Academia Colombiana de Ciencias, 18*(71), 507–38. 
 
-Poveda, G., Vélez, J.I., Mesa, O.J., Cuartas, A., Barco, J., Mantilla, R.I., et al. (2007). Linking long-term water balances and statistical scaling to estimate river flows along the drainage network of Colombia. *Journal of Hydrologic Engineering,**12*(1), 4–13. 
+Poveda, G., Vélez, J.I., Mesa, O.J., Cuartas, A., Barco, J., Mantilla, R.I., et al. (2007). Linking long-term water balances and statistical scaling to estimate river flows along the drainage network of Colombia. *Journal of Hydrologic Engineering,12*(1), 4–13. 
 
 Pabón-Caicedo, J.D. & Eslava-Ramírez, J.A. (2001). Generalidades de la distribución espacial y temporal de temperatura del aire y de la precipitación en Colombia*. Meteorología Colombiana*, 4, 47–59. 
 
 Mesa, O., Poveda, G., Vélez, J.I., Mejía, J.F., Hoyos, C.D., Mantilla, R., et al. (2000) *Distribución espacial y ciclos anual y semianual de la precipitación en Colombia.* XIV Seminario de Hidráulica e Hidrología, Villa de Leyva, Boyacá. 
 
-Álvarez-Villa, O.D., Vélez, J.I. & Poveda, G. (2011). Improved long-term mean annual rainfall fields for Colombia.* International Journal of Climatology**, **31*(14), 2194–212. 
+Álvarez-Villa, O.D., Vélez, J.I. & Poveda, G. (2011). Improved long-term mean annual rainfall fields for Colombia. *International Journal of Climatology, 31*(14), 2194–212. 
 
-Poveda. G., Alvarez, D.M. & Rueda, O.A. (2011). Hydro-climatic variability over the Andes of Colombia associated with ENSO: A review of climatic processes and their impact on one of the Earth’s most important biodiversity hotspots. *Climate Dynamics**, 36, *2233–49. 
+Poveda. G., Alvarez, D.M. & Rueda, O.A. (2011). Hydro-climatic variability over the Andes of Colombia associated with ENSO: A review of climatic processes and their impact on one of the Earth’s most important biodiversity hotspots. *Climate Dynamics, 36,* 2233–49. 
 
-Departamento Administrativo de Planeación de Antioquia. (2018). *Anuario Estadís**tico de Antioquia 2018*. 
+Departamento Administrativo de Planeación de Antioquia. (2018). *Anuario Estadístico de Antioquia 2018*. 
 
-Marchi, L., Borga, M., Preciso, E. & Gaume, E. (2010). Characterisation of selected extreme flash floods in Europe and implications for flood risk management. *J**ournal of** Hydrol**ogy, 3**94*(1–2), 118–33. 
+Marchi, L., Borga, M., Preciso, E. & Gaume, E. (2010). Characterisation of selected extreme flash floods in Europe and implications for flood risk management. *Journal of Hydrology, 394*(1–2), 118–33. 
 
-Arango, M.I., Aristizábal, E. & Gómez, F. (2021). Morphometrical analysis of torrential flows-prone catchments in tropical and mountainous terrain of the Colombian Andes by machine learning techniques. *Natural Hazards**,*105(1), 983–1012. 
+Arango, M.I., Aristizábal, E. & Gómez, F. (2021). Morphometrical analysis of torrential flows-prone catchments in tropical and mountainous terrain of the Colombian Andes by machine learning techniques. *Natural Hazards,*105(1), 983–1012. 
 
-El Bastawesy, M., White, K. & Nasr, A. (2009). Integration of remote sensing and GIS for modelling flash floods in Wadi Hudain catchment, Egypt.* Hydrol**ogical** Process*,*23*(9), 359–368. 
+El Bastawesy, M., White, K. & Nasr, A. (2009). Integration of remote sensing and GIS for modelling flash floods in Wadi Hudain catchment, Egypt. *Hydrological Process*,*23*(9), 359–368. 
 
-Biswas, A., das Majumdar, D. & Banerjee, S. (2014) Morphometry Governs the Dynamics of a Drainage Basin: Analysis and Implications. *Geography Journal**,* 927176. 
+Biswas, A., das Majumdar, D. & Banerjee, S. (2014) Morphometry Governs the Dynamics of a Drainage Basin: Analysis and Implications. *Geography Journal,* 927176. 
 
-Kostaschuk, R.A., MacDonald, G.M, Jackson Jr, L.E.J. (1987) Rocky Mountain Alluvial Fans. *The Canadian Geographer/Le Géographe canadien**,**31*(4), 366–368. 
+Kostaschuk, R.A., MacDonald, G.M, Jackson Jr, L.E.J. (1987) Rocky Mountain Alluvial Fans. *The Canadian Geographer/Le Géographe canadien,31*(4), 366–368. 
 
 Melton, M.A. (1957). *An Analysis of the Relations Among Elements of Climate, Surface Properties, and Geomorphology* Office of Naval Research Technical Report No. 11. Office of Naval Research, technical report.  
 
 Fisher, R.A. (1940). The Precision of Discriminant Functions. Annals of Eugenics,*10*(1), 422–429. 
 
-Bertrand, M., Liébault, F. & Piégay, H. (2013). Debris-flow susceptibility of upland catchments.* Natural Hazards **6**7*(2), 497–511. 
+Bertrand, M., Liébault, F. & Piégay, H. (2013). Debris-flow susceptibility of upland catchments. *Natural Hazards 67*(2), 497–511. 
 
-Rahimi, A., Rahardjo, H. & Leong, E.C. (2010). Effect of hydraulic properties of soil on rainfall-induced slope failure. *Engineering Geology, **114*(3–4), 135–43.  
+Rahimi, A., Rahardjo, H. & Leong, E.C. (2010). Effect of hydraulic properties of soil on rainfall-induced slope failure. *Engineering Geology, 114*(3–4), 135–43.  
 
-Tsaparas, I., Rahardjo, H., Toll, D.G., & Leong, E.C. (2002). Controlling parameters for rainfall-induced landslides. *Computers and Geotechnics, **29*(1), 1–27. 
+Tsaparas, I., Rahardjo, H., Toll, D.G., & Leong, E.C. (2002). Controlling parameters for rainfall-induced landslides. *Computers and Geotechnics, 29*(1), 1–27. 
 
-Aristizábal, E., Garcia, E.F., Marin, R.J., Gómez, F., Guzmán-Martínez, J., Aristizábal, E., et al. (2020). Rainfall-intensity effect on landslide hazard assessment due to climate change in north-western Colombian Andes. *Revista Facultad de Ingeniería Universidad de Antioquia**, 1*6,(103): 51–66. 
+Aristizábal, E., Garcia, E.F., Marin, R.J., Gómez, F., Guzmán-Martínez, J., Aristizábal, E., et al. (2020). Rainfall-intensity effect on landslide hazard assessment due to climate change in north-western Colombian Andes. *Revista Facultad de Ingeniería Universidad de Antioquia, 1*6,(103): 51–66. 
 
-Feng, W., Bai, H., Lan, B., Wu, Y., Wu, Z., Yan, L, et al. (2022). Spatial–temporal distribution and failure mechanism of group-occurring landslides in Mibei village, Longchuan County, Guangdong, China. *Landslides**, 19*(1957), 1–14. 
+Feng, W., Bai, H., Lan, B., Wu, Y., Wu, Z., Yan, L, et al. (2022). Spatial–temporal distribution and failure mechanism of group-occurring landslides in Mibei village, Longchuan County, Guangdong, China. *Landslides, 19*(1957), 1–14. 
 
-Aristizábal, E., Arango Carmona, M.I., García López, I.K. (2020). Definition and classification of torrential avenues and their impact in the Colombian Andes. *Cuadernos de Geografia: Revista Colombiana de Geografia**, **29*(1), 242–58. 
+Aristizábal, E., Arango Carmona, M.I., García López, I.K. (2020). Definition and classification of torrential avenues and their impact in the Colombian Andes. *Cuadernos de Geografia: Revista Colombiana de Geografia, 29*(1), 242–58. 
 
-Ruiz-Villanueva, V., Bodoque, J.M., Díez-Herrero, A., Calvo ,C. (2011). Triggering threshold precipitation and soil hydrological characteristics of shallow landslides in granitic landscapes. *Geomorphology**,* *133*(3–4), 178–189. 
+Ruiz-Villanueva, V., Bodoque, J.M., Díez-Herrero, A., Calvo ,C. (2011). Triggering threshold precipitation and soil hydrological characteristics of shallow landslides in granitic landscapes. *Geomorphology, 133*(3–4), 178–189. 
 
 Varnes, D. (1984). *Landslide hazard zonation : A review of principles and practice*. Natural Hazards. United Nations.  
 
-Guzzetti, F., Carrara, A., Cardinali, M., Reichenbach, P.( 1999). Landslide hazard evaluation: A review of current techniques and their application in a multi-scale study, Central Italy. *Geomorphology**, **31*(1–4), 181–216. 
+Guzzetti, F., Carrara, A., Cardinali, M., Reichenbach, P.( 1999). Landslide hazard evaluation: A review of current techniques and their application in a multi-scale study, Central Italy. *Geomorphology, 31*(1–4), 181–216. 
 
-Jaiswal, P. & van Westen, C.J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. *Geomorphology*, *1**12*(1-2), 96–105. 
+Jaiswal, P. & van Westen, C.J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. *Geomorphology*, *112*(1-2), 96–105. 
 
 Dietrich, W.E. & Montgomery, D.R. (1998). *SHALSTAB: a digital terrain model for mapping shallow landslide potential*. National Council of the Paper Industry for Air and Stream Improvement Technical Report. Vol. LVIII.  
 
-Catani, F., Segoni, S. & Falorni, G. An empirical geomorphology-based approach to the spatial prediction of soil thickness at catchment scale. *Water Resour**ces** Res**earch, 46*(5), 1–15. 
+Catani, F., Segoni, S. & Falorni, G. An empirical geomorphology-based approach to the spatial prediction of soil thickness at catchment scale. *Water Resources Research, 46*(5), 1–15. 
 
 Horton, R.F. (1955). Erosional development of streams and their drainage basins, hydrophysical approach to quantitive morphology*. Nihon Ringakkai Shi/Journal of the Japanese Forestry Society*, *37*(2):79–82. 
 
-Smart, J.S, Surkan, A.J. (1967). The relation between mainstream length and area in drainage basins. *Water Resources Research, **3*(4), 963–74. 
+Smart, J.S, Surkan, A.J. (1967). The relation between mainstream length and area in drainage basins. *Water Resources Research, 3*(4), 963–74. 
 
-Schumm, S.A. (1956). Evolution of drainage systems and slopes in badlands at Perth Amboy, New Jersey. *Geological Society of America Bulletin**, **67*(5),597–646. 
+Schumm, S.A. (1956). Evolution of drainage systems and slopes in badlands at Perth Amboy, New Jersey. *Geological Society of America Bulletin, 67*(5),597–646. 
 
 Strahler, A.N. (1956). Hypsometric (area-altitude) analysis of erosional topography. *Geological Society of America Bulletin*, *3*(11), 1117–1142. 
 

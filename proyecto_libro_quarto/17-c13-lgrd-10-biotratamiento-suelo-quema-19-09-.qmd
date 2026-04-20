@@ -1,8 +1,8 @@
 **13**
 
-**Biomineralización**** como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema**
+**Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema**
 
-**Yamile Valencia-González****1*****, ****José Camapum de Carvalho****2** **& ****Luis Augusto Lara-Valencia****3**
+**Yamile Valencia-González1*, José Camapum de Carvalho2 & Luis Augusto Lara-Valencia3**
 
 # Capítulo 17: C13-LGRD-10-BIOTRATAMIENTO-SUELO-QUEMA-19-09-2022
 
@@ -18,15 +18,15 @@ Doctora en Geotecnia, Profesora Asociada, Universidad Nacional de Colombia Sede 
 
 Los suelos de la región del trópico, al experimentar una variabilidad climática marcada, se exponen a periodos fuertes de sequía que los tornan altamente susceptibles a la ocurrencia de incendios forestales. Sumado a ello, las intervenciones antrópicas, ya sea por renovación de cultivos, quemas controladas, o incendios accidentales, los afecta fuertemente. Colombia no es ajena a dicha problemática, y una amplia porción del territorio presenta un grado importante de susceptibilidad a incendios forestales. Las variaciones extremas de temperatura ocasionan cambios en algunas de las propiedades geotécnicas, pero la gran mayoría de las investigaciones no centran sus esfuerzos en el estudio del efecto de dichos cambios en el comportamiento hidromecánico, y mucho menos en la aplicación de tratamientos regenerativos para la recuperación de estos suelos de una forma ambientalmente amigable. Es por ello que, en el actual capítulo, se propone una metodología que permita analizar y determinar en laboratorio, mediante la adición de un medio B4 a las bacterias nativas, el efecto de dicho tratamiento sobre las propiedades geotécnicas de un suelo compactado, sometido a la máxima temperatura que puede registrar un suelo en un incendio. La mejoría en propiedades tales como la agregación, deformabilidad y estabilidad del suelo quemado se originaron como producto del efecto químico de la adición del medio y de la aparición de pequeños filamentos precipitados; contribuyendo así, a dar los primeros pasos hacia una posible técnica de remediación de zonas afectadas por quemas.
 
-**Palabras clave****:** biotecnología, suelos degradados, recuperación de suelos   
+**Palabras clave:** biotecnología, suelos degradados, recuperación de suelos   
 
-**Bio****mineraliza****tion as an instrument for the recovery of properties of a compacted residual soil subjected to burning**
+**Biomineralization as an instrument for the recovery of properties of a compacted residual soil subjected to burning**
 
 **Abstract**
 
 By experiencing significant climatic variability, tropical soils are exposed to severe drought periods, making them highly susceptible to the occurrence of forest fires. Besides, anthropic interventions, whether for crop renovation, controlled burnings, or accidental fires strongly affect them. Colombia is not exempt from this problem; most of the territory is vulnerable to forest fires. Extreme temperature variations produce changes in some of the geotechnical properties. However, most researchers do not focus on studying the effect of these hydromechanics behavior changes, and much less on applying regenerative treatments to recover these soils in an environmentally friendly way.  It is for this reason that this work proposes a methodology that allows to analyze and determine in the laboratory, by adding a B4 medium to the native bacteria, the effect of the treatment over the geotechnical properties of a compacted soil subjected to temperatures that simulate the conditions of a fire. The improvement in properties like aggregation, deformability, and stability of the burned soils was due to the chemical effect of the medium addition and the formation of small precipitate filaments, thus contributing to propose a first remediation technique for areas affected by burns.
 
-**Keywords****:** Biotechnology, degraded soils, soil recovery
+**Keywords:** Biotechnology, degraded soils, soil recovery
 
 ## 1. INTRODUCCIÓN
 
@@ -37,8 +37,10 @@ La biotecnología se torna entonces en una alternativa menos invasiva con el med
 El actual capítulo tiene como objetivo presentar una propuesta para restablecer la estabilidad de los agregados después de un incendio forestal, al aplicar un medio que induce en las bacterias nativas del suelo la precipitación de carbonato de calcio. Si bien, esta técnica se ha empleado comúnmente en la restauración de monumentos [10], su uso es incipiente en la regeneración de suelos afectados por altas temperaturas.
 
 
-| Caja 1. Biomineralización   La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos.  Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1 |
-| --- |
+::: {.caja-box}
+**Caja 1.** Biomineralización   La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos.  Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1
+
+:::
 
 ## 2. MÉTODOS
 
@@ -48,7 +50,7 @@ Las pruebas de Proctor estándar arrojaron como resultado una densidad seca máx
 
 A continuación, las muestras se llevaron al horno a una temperatura equivalente a la máxima experimentada por un suelo ubicado debajo de un incendio forestal de plantas bajas, según experimentos de simulación de incendios en campo realizados por Ortega [14]. En dicha investigación, el suelo de un talud se sometió en superficie a un incendio controlado, con toma de temperatura desde 0.2 m a 1.2 m por debajo de la capa vegetal, registrando valores máximos de temperatura de 60°C. Las muestras se dejaron en el horno a esta temperatura por 3 h (asumiendo este tiempo como el tiempo de duración de un incendio). Según Madigan et al. [15] las bacterias pueden presentar crecimiento microbiano hasta los 95°C; por consiguiente, a 60 °C no se tiene muerte total o muerte excesiva en la población bacteriana encargada del proceso de biotratamiento en el suelo [16].
 
-Posteriormente, la mitad de las muestras llevadas al horno, se sometieron a tratamiento por goteo con un medio denominado B4 (**Fig****. ****1**). Según investigaciones previas realizadas en suelos de origen tropical, el medio B4 mejora algunas propiedades y comportamiento geotécnico de los materiales [6,17,18]. 
+Posteriormente, la mitad de las muestras llevadas al horno, se sometieron a tratamiento por goteo con un medio denominado B4 (**Fig. 1**). Según investigaciones previas realizadas en suelos de origen tropical, el medio B4 mejora algunas propiedades y comportamiento geotécnico de los materiales [6,17,18]. 
 
 
 
@@ -88,7 +90,7 @@ Tales resultados indican desde el punto de vista mecánico, que la quema del sue
 
 Con relación al índice de vacíos y la gravedad específica de los sólidos, los valores son similares entre sí, corroborando que no se dio precipitación de minerales de carbonato de calcio en los vacíos de la muestra. Si la precipitación ocurrió, esta se presentó a un nivel reducido, imperceptible inclusive en el ensayo DRX. 
 
-En la curva granulométrica  (**Fig****.**** 2**) para los suelos quemado y quemado-tratado, sin el uso de ultrason (SU) y/o sin el uso del defloculante (SD) se puede evaluar la estabilidad de las agregaciones en presencia de agua. Al utilizar el ultrason (CU) se válida la estabilidad de estas formaciones frente a una solicitación mecánica, y cuando se usa defloculante (CD) se válida la estabilidad frente a un agente químico (hexametafosfato de sodio). El uso de ambos (CD-CU) muestra la respuesta ante los dos medios (mecánico y químico).
+En la curva granulométrica  (**Fig. 2**) para los suelos quemado y quemado-tratado, sin el uso de ultrason (SU) y/o sin el uso del defloculante (SD) se puede evaluar la estabilidad de las agregaciones en presencia de agua. Al utilizar el ultrason (CU) se válida la estabilidad de estas formaciones frente a una solicitación mecánica, y cuando se usa defloculante (CD) se válida la estabilidad frente a un agente químico (hexametafosfato de sodio). El uso de ambos (CD-CU) muestra la respuesta ante los dos medios (mecánico y químico).
 
 Adicionalmente, para los suelos sin uso de ultrason (SU) o defloculante (SD), el tratamiento aumentó el tamaño de los granos (agregaciones y/o floculaciones), el cual tendió a disminuir con la utilización, bien sea de ultrason (CU), de defloculante (CD) o de ambos (CD-CU), exhibiendo así la baja estabilidad de las formaciones generadas para el tiempo de cura considerado, como lo reportó Valencia en su investigación [6]. 
 
@@ -96,13 +98,13 @@ Adicionalmente, para los suelos sin uso de ultrason (SU) o defloculante (SD), el
 
 **Figura 2.** Curvas granulométricas por difracción láser para el suelo quemado y quemado-tratado, sin uso de defloculante (SD), con defloculante (CD), sin ultrason (SU) y con ultrason (CU).
 
-La** Figura 3** presenta un comparativo entre las curvas granulométricas obtenidas sin el uso de ultrason (SU) y sin el uso de defloculante (SD) tanto para la muestra quemada y quemada-tratada, como para el suelo natural, datos que se tomaron de Muñoz para el mismo material sin quemarse y sin tratarse [32]. Se observa en la figura que la quema del suelo facilita su degradación como lo mostraron Alcañiz et al. [5] y Roseno y Camapum de Carvalho [9]. Ya el tratamiento biotecnológico favoreció su reagregación o el fortalecimiento de las agregaciones o floculaciones presentes [6].
+La **Figura 3** presenta un comparativo entre las curvas granulométricas obtenidas sin el uso de ultrason (SU) y sin el uso de defloculante (SD) tanto para la muestra quemada y quemada-tratada, como para el suelo natural, datos que se tomaron de Muñoz para el mismo material sin quemarse y sin tratarse [32]. Se observa en la figura que la quema del suelo facilita su degradación como lo mostraron Alcañiz et al. [5] y Roseno y Camapum de Carvalho [9]. Ya el tratamiento biotecnológico favoreció su reagregación o el fortalecimiento de las agregaciones o floculaciones presentes [6].
 
 
 
 **Figura 3.** Curvas granulométricas del suelo natural, quemado y quemado-tratado sin uso de ultrason (SU) y sin defloculante (SD). 
 
-**3.2 Análisis de****l ****pH**** y ****el ****punto de carga cero** **(****PZC****)** 
+## 3.2 Análisis del pH y el punto de carga cero (PZC)
 
 Según Camapum de Carvalho et al. [33], si bien existen diferentes definiciones para el punto de carga cero (PZC) que es la más común y adoptada por los autores, se indica que el PZC representa el pH del suelo en el cual la carga eléctrica líquida del conjunto de las partículas es nula (igualándose las cargas negativas y las positivas). Esta propiedad no solo influencia los fenómenos electroquímicos que ocurren en el suelo, sino también el grado de floculación de los mismos [34]. Como los valores del pH en agua están por encima de los valores de PZC, sin pasar por éste al tratar el material, en principio el suelo no sufre desagregación por efecto del tratamiento (Tabla 2). Cuando se alcanza el PZC de determinados compuestos, eventualmente presentes en el suelo, como los óxidos e hidróxidos de hierro y aluminio, los mismos pueden solubilizarse inestabilizando la estructura del suelo como un todo [34].
 
@@ -117,13 +119,13 @@ Según Camapum de Carvalho et al. [33], si bien existen diferentes definiciones 
 
 ## 3.3 Caracterización mineralógica
 
-Con relación a la mineralogía a partir de la difracción de rayos X (DRX), se encontraron minerales de hematita, caolinita, cuarzo y albita en proporciones similares tanto para el suelo quemado, como para el suelo quemado-tratado (**Fig****.**** 4**), indicando que no se presentaron precipitaciones de nuevos minerales por la acción del tratamiento, o que son trazos imperceptibles en el ensayo, y que por tanto las variaciones han sido más de carácter químico [6].
+Con relación a la mineralogía a partir de la difracción de rayos X (DRX), se encontraron minerales de hematita, caolinita, cuarzo y albita en proporciones similares tanto para el suelo quemado, como para el suelo quemado-tratado (**Fig. 4**), indicando que no se presentaron precipitaciones de nuevos minerales por la acción del tratamiento, o que son trazos imperceptibles en el ensayo, y que por tanto las variaciones han sido más de carácter químico [6].
 
 
 
-**Figura ****4****.** Porcentaje cualitativo de minerales presentes en la muestra de suelo quemado y quemado-tratado a partir de los difractogramas obtenidos en el ensayo DRX. 
+**Figura 4.** Porcentaje cualitativo de minerales presentes en la muestra de suelo quemado y quemado-tratado a partir de los difractogramas obtenidos en el ensayo DRX. 
 
-De igual forma, en la **Figura 5** se aprecia que al tratar las muestras aparecen pequeños filamentos en el exterior e interior de los cuerpos (**Fig****. ****5****B**). Si bien, estos filamentos no son un mineral producto de la precipitación, su generación influye en el incremento de la resistencia a la tracción del suelo y en la disminución de las grietas que se forman en el material producto de la quema (**Fig****.**** 5A**).
+De igual forma, en la **Figura 5** se aprecia que al tratar las muestras aparecen pequeños filamentos en el exterior e interior de los cuerpos (**Fig. 5B**). Si bien, estos filamentos no son un mineral producto de la precipitación, su generación influye en el incremento de la resistencia a la tracción del suelo y en la disminución de las grietas que se forman en el material producto de la quema (**Fig. 5A**).
 
 
 
@@ -131,7 +133,7 @@ De igual forma, en la **Figura 5** se aprecia que al tratar las muestras aparece
 
 **Figura 5.** Fotografía del estado de las muestras trabajadas. (A) Suelo después de quemado al horno. (B) Suelo quemado-tratado pasados 15 días del tratamiento y zoom de filamentos.
 
-**3.4 ****Curva c****aracterística**** de retención de agua** 
+## 3.4 Curva característica de retención de agua
 
 La **Figura 6** presenta las curvas características de retención de agua para el suelo quemado y para el suelo quemado-tratado en términos de succión matricial y porcentaje de saturación (Sr). En esta figura se observa que las curvas son relativamente similares; sin embargo, la menor presión de entrada de aire registrada en el suelo quemado-tratado (24 kPa), comparada con la presión de entrada de aire en el suelo quemado (41 kPa), apunta a un cierto aumento en la macroporosidad del suelo quemado-tratado. Dicho aumento se daría como resultado de la agregación que le confiere a las muestras el tratamiento, tal como ocurrió en la investigación de Muñoz en un suelo natural tratado con B4 [32].
 
@@ -139,17 +141,17 @@ La **Figura 6** presenta las curvas características de retención de agua para 
 
 **Figura 6.** Curva característica de retención de agua del suelo quemado y del suelo quemado-tratado. 
 
-**3.4 Propiedades m****ecánicas **
+## 3.4 Propiedades mecánicas
 
 A continuación, se presenta el análisis de algunas propiedades mecánicas del suelo quemado y quemado tratado.
 
-**3.4.1 ****Corte ****directo**** consolidado-drenado** 
+## 3.4.1 Corte directo consolidado-drenado
 
 Los parámetros de resistencia obtenidos a partir del ensayo de corte directo en condiciones saturadas drenadas son presentados en la Tabla 3. Las variaciones observadas en las cohesiones se explicarían por el aparecimiento de los filamentos identificados en la Figura 5B. 
 
-Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (**Fig****. ****7**) desde el punto de vista químico se observa que cuando intervienen la succión osmótica y las fuerzas de adsorción para la misma humedad, la cohesión tendería a ser menor en el suelo quemado-tratado, conforme se deduce de las curvas de fluidez (menor índice de fluidez 0.4101), apuntando así para la efectiva contribución de los filamentos en el aumento de la cohesión cuando se trata el material (Tabla 3). Estas curvas de fluidez explican la reducción del ángulo de fricción con el tratamiento, no obstante, la resistencia al corte se evalúa apenas en función de las tensiones externas aplicadas al suelo, las fuerzas de la naturaleza electroquímica también interfieren en el comportamiento, ya que, para una humedad igual, el tratamiento disminuye la resistencia del suelo en el ensayo de límite líquido. Este mismo comportamiento ocurre en el ensayo de corte directo, solo que interfiriendo directamente en las fuerzas de contacto interpartículas y por tanto en la fricción.
+Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (**Fig. 7**) desde el punto de vista químico se observa que cuando intervienen la succión osmótica y las fuerzas de adsorción para la misma humedad, la cohesión tendería a ser menor en el suelo quemado-tratado, conforme se deduce de las curvas de fluidez (menor índice de fluidez 0.4101), apuntando así para la efectiva contribución de los filamentos en el aumento de la cohesión cuando se trata el material (Tabla 3). Estas curvas de fluidez explican la reducción del ángulo de fricción con el tratamiento, no obstante, la resistencia al corte se evalúa apenas en función de las tensiones externas aplicadas al suelo, las fuerzas de la naturaleza electroquímica también interfieren en el comportamiento, ya que, para una humedad igual, el tratamiento disminuye la resistencia del suelo en el ensayo de límite líquido. Este mismo comportamiento ocurre en el ensayo de corte directo, solo que interfiriendo directamente en las fuerzas de contacto interpartículas y por tanto en la fricción.
 
-**Tabla ****3****.** Parámetros de cohesión y fricción para el suelo quemado y quemado-tratado. 
+**Tabla 3.** Parámetros de cohesión y fricción para el suelo quemado y quemado-tratado. 
 
 
 |  | Cohesión [kPa] | Fricción [°] |
@@ -161,7 +163,7 @@ Si se comparan las curvas de fluidez del suelo quemado y quemado-tratado (**Fig*
 
 **Figura 7.** Curvas de fluidez del suelo quemado y del suelo quemado-tratado. 
 
-**3.4.2 ****Consolidación duplo-edométrica** 
+## 3.4.2 Consolidación duplo-edométrica
 
 En la **Figura 8** se muestran los resultados del ensayo de consolidación con las muestras en su humedad inicial o estado no saturado (NSAT) y con inundación de la cámara o estado saturado (SAT). Los índices de vacíos (e) se dividieron por el índice de vacíos inicial (e0) presente al momento de comenzar el ensayo para un mejor efecto comparativo de las curvas. En la figura se observa que el tratamiento le confiere una mayor estabilidad estructural a la muestra al presentar menores deformaciones que en el suelo quemado.
 
@@ -182,7 +184,7 @@ Adicionalmente, en la **Tabla 4** se muestra que el tratamiento al conferir al s
 | 498.3 | 2.9 | 0.4 |
 | 996.6 | 6.9 | 2.2 |
 
-**3.5 *****Pinhole Test***  
+**3.5** ***Pinhole Test***  
 
 Si bien en la **Figura 9** la proximidad de las curvas de carga y descarga apuntan a una estabilización estructural del suelo durante el flujo, los caudales menores para el suelo quemado-tratado indican un cerramiento de los poros y estabilización del canal de flujo principal que fue hecho en el cuerpo de prueba antes del ensayo, tal como lo reporta Valencia et al. [35] para un suelo tratado a 5 m de profundidad.
 
@@ -190,7 +192,7 @@ Si bien en la **Figura 9** la proximidad de las curvas de carga y descarga apunt
 
 **Figura 9.** Curva Carga hidráulica promedio *vs* Caudal promedio para el suelo quemado y quemado-tratado. 
 
-**3.6 ****Desagregación** 
+## 3.6 Desagregación
 
 Con relación al ensayo de desagregación, se observa en la **Figura 10** que el suelo quemado se desagrega totalmente al sumergir las muestras durante 24 h. Por el contrario, el suelo quemado-tratado muestra claramente que hubo una mejoría en la estabilidad del suelo, semejante a lo ocurrido en la investigación de Valencia et al. [35].
 
@@ -198,7 +200,7 @@ Con relación al ensayo de desagregación, se observa en la **Figura 10** que el
 
 **Figura 10.** Ensayo de desagregación en muestra de suelo quemado y quemado-tratado:  tiempo cero (izquierda), después de 24 horas sumergidas en agua (derecha). 
 
-**4****	CONCLUSIONES **
+## 4	CONCLUSIONES
 
 En el presente estudio se observó el efecto físico-químico de adicionar un medio inductor de biomineralización sobre las propiedades geotécnicas de suelos quemados por incendios forestales, brindándole a los granos estabilidad estructural, principalmente en los casos en que se desee reducir la entrada de agua y la deformabilidad del suelo expuesto a altas temperaturas. Para la muestra quemada-tratada se presentó agregación de las partículas y una mayor estabilidad del material al sumergirlo en agua, así como una reducción del 13% en los límites de consistencia, una disminución hasta en un 8% en la defloculación y/o desagregación por granulometría, la reducción en un 86% en el índice de colapso y la disminución en un 22% en el caudal por actuación de la carga hidráulica registrada en el *pinhole test*. Adicionalmente, se debe considerar la formación de los filamentos como una contribución para la mejoría de las propiedades y comportamiento del suelo tratado.
 
@@ -220,7 +222,7 @@ Los autores no declaran conflicto de intereses
 
 Los Autores agradecen a la Universidad Nacional de Colombia, Sede Medellín y a la Universidad de Brasilia, Brasil. 
 
-**CONTRIBUCIÓN DE AUTORÍA ****CRediT**
+**CONTRIBUCIÓN DE AUTORÍA CRediT**
 
 Conceptualización: YVG. Metodología: YVG. Redacción de primera versión: YVG, JCC, LAL. Revisión y edición de segunda versión: YVG, JCC, LAL. Figuras y tablas: YVG, JCC. Administración de proyecto: YVG. Búsqueda de evidencia: YVG, JCC, LAL.
 
@@ -234,11 +236,11 @@ Luis Augusto Lara Valencia
 
 ## BIBLIOGRAFÍA
 
-## Wright, H. A.; Bailey, A. W. (1982). *Fire ecology**. *United States and southern Canada. New York: John Wiley and Sons. 
+## Wright, H. A.; Bailey, A. W. (1982). *Fire ecology.* United States and southern Canada. New York: John Wiley and Sons. 
 
 IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2015).  *Estudio nacional de la degradación de suelos en Colombia*. Bogotá. 
 
-Valencia, Y., Patiño J., Álvarez, M., Ortega, D., Echeverri, O. (2018). Cambio en las propiedades geotécnicas de un suelo sometido a ignición en laboratorio*. Revista Ingenierías Universidad de Medellín*, *17**(*32), 85–107. 
+Valencia, Y., Patiño J., Álvarez, M., Ortega, D., Echeverri, O. (2018). Cambio en las propiedades geotécnicas de un suelo sometido a ignición en laboratorio*. Revista Ingenierías Universidad de Medellín*, *17(*32), 85–107. 
 
 UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2017). *Terminología sobre Gestión del Riesgo de Desastres y Fenómenos Amenazantes*. Comité Nacional para el Conocimiento del Riesgo. 
 
@@ -254,19 +256,19 @@ Roseno, J. L., Camapum de Carvalho, J. (2007). *Avaliação granulométrica de u
 
 Lee, Y. (2003). Calcite Production by Bacillus amyloliquefaciens CMB01. *Journal of Microbiology*, *41*(4), 345–348
 
-Herrera, M. A., Gil, V. R., Hincapié, J. E., Cáceres, R. A., Vásquez, J. L., y Castaño, R. A. (2011*)**. Plan de manejo del parque natural regional metropolitano Cerro el Volador*.  Reporte técnico, Área Metropolitana del Valle de Aburrá
+Herrera, M. A., Gil, V. R., Hincapié, J. E., Cáceres, R. A., Vásquez, J. L., y Castaño, R. A. (2011*). Plan de manejo del parque natural regional metropolitano Cerro el Volador*.  Reporte técnico, Área Metropolitana del Valle de Aburrá
 
 ASTM (American Society for Testing and Materials). (2010). *Standard Test Method for Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass*. ASTM Work Item D2216
 
-ASTM (American Society for Testing and Materials). (2021). *Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/ft**3** (600 kN-m/m**3**))*. ASTM Work Item D698
+ASTM (American Society for Testing and Materials). (2021). *Standard Test Methods for Laboratory Compaction Characteristics of Soil Using Standard Effort (12,400 ft-lbf/ft3 (600 kN-m/m3))*. ASTM Work Item D698
 
 Ortega, D. (2018*). Efectos de las altas temperaturas producto de los incendios en los procesos erosivos superficiales de un suelo residual*. [Tesis de Maestría en geotecnia. Universidad Nacional de Colombia] 
 
-Madigan, M.T., Martinko, J. M., Dunlap, P.V. & Clark, D.P. (2009). *Brock **Biología** de los microorganismos* (12a ed.). Pearson Addison Wesley, Madrid.
+Madigan, M.T., Martinko, J. M., Dunlap, P.V. & Clark, D.P. (2009). *Brock Biología de los microorganismos* (12a ed.). Pearson Addison Wesley, Madrid.
 
 Hammes, F., Verstraete, W. (2002). Key roles and calcium metabolism in microbial carbonate precipitation. Environmental Science & Bio/Technology, n. 1, pp. 3–7. 
 
-Arrieta, M., Valencia, Y., Echeverri, O. (2012). Aplicación de la biomineralización en suelos de la ciudad de Medellín para mitigar procesos erosivos.  *Revista boletín ciencias de la tierra**,* *32*, 35–46. 
+Arrieta, M., Valencia, Y., Echeverri, O. (2012). Aplicación de la biomineralización en suelos de la ciudad de Medellín para mitigar procesos erosivos.  *Revista boletín ciencias de la tierra,* *32*, 35–46. 
 
 Gómez, C. (2013). *Avaliação geotécnica de um perfil de solo tratado biotecnologicamente para fins de pavimentação*. [Tese de Doutorado, Universidade de Brasília, Brasil]
 
@@ -274,21 +276,21 @@ ASTM. (2010). *Standard test methods for specific gravity of soil solids by wate
 
 ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasticity index of soils’*. (The American Society for Testing and Materials). ASTM Work Item D4318
 
-## ASTM (American Society for Testing and Materials). (2007). *Standard Test Method for Pa**rticle-Size Analysis of Soils*. ASTM Work Item D422
+## ASTM (American Society for Testing and Materials). (2007). *Standard Test Method for Particle-Size Analysis of Soils*. ASTM Work Item D422
 
 ## ASTM (American Society for Testing and Materials). (2017*). Standard Practice for Classification of Soils for Engineering Purposes*. ASTM Work Item D2487
 
 ## Nogami, J., Villibor, D. (1995). Pavimentação de baixo custo com solos lateríticos. Sao Paulo, Brasil: Ed. Villibor.
 
-## ASTM (American Society for Testing and Materials). (2019). *Standard** Test Methods for pH of Soils*. ASTM Work Item D4972
+## ASTM (American Society for Testing and Materials). (2019). *Standard Test Methods for pH of Soils*. ASTM Work Item D4972
 
 ## ASTM (American Society for Testing and Materials). (2011*). Standard Test Method for Direct Shear Test of Soils Under Consolidated Drained Conditions*. ASTM Work Item D3080
 
 ## ASTM (American Society for Testing and Materials). (2006). *Standard Test Method for Identification and Classification of Dispersive Clay Soils by the Pinhole Test*. ASTM Work Item D4647
 
-## ASTM (American Society for Testing and Materials). (2013). *Standard Test Methods for Determining Dispersive Characteristics of C**layey Soils by the Crumb Test*. ASTM Work Item 6572
+## ASTM (American Society for Testing and Materials). (2013). *Standard Test Methods for Determining Dispersive Characteristics of Clayey Soils by the Crumb Test*. ASTM Work Item 6572
 
-## ASTM (American Society for Testing and Materials). (2010). *Standard test method for measurement of soil potenti**al (Suction) using filter paper*. ASTM Work Item D5298
+## ASTM (American Society for Testing and Materials). (2010). *Standard test method for measurement of soil potential (Suction) using filter paper*. ASTM Work Item D5298
 
 ## Diaz, J., Valencia, Y. Camapum de carvalho, J. (2021). Validación de una metodología para obtener la envolvente de ruptura al esfuerzo cortante en suelos no saturados compactados. *Entramado*, *17*(1), 290–301. 
 
@@ -298,11 +300,11 @@ ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasti
 
 ## Muñoz, J. (2019). *Estudio de la variación de los parámetros mecánicos de un talud de suelo residual tropical a través de la aplicación en laboratorio de un nutriente precipitador de carbonato de calcio sobre sus bacterias nativas*. [Tesis de Maestría. Universidad Nacional de Colombia]
 
-## Camapum de Carvalho, J., Rezende, L., Cardoso, F., Lêda C. de F.L., Renato C. Guimarães, Valencia, Y. (2015). Tropical Soils for Highway Construction: Peculiarities and Considerations. *Transportation Geotechnics**, **5*, 3–19. 
+## Camapum de Carvalho, J., Rezende, L., Cardoso, F., Lêda C. de F.L., Renato C. Guimarães, Valencia, Y. (2015). Tropical Soils for Highway Construction: Peculiarities and Considerations. *Transportation Geotechnics, 5*, 3–19. 
 
 ## Lavorenti, A., & Alves, M. (2005). Point of zero salt effect: Relationships with Clay Mineralogy of representative Soils of the Sao Paulo State, Brazil. *Pedosphere*, *15* (5), 545–553.
 
-Valencia, Y., Camapum de Carvalho, J., Lara, L. (2015). Influence of biomineralization on a profile of a tropical soil affected by erosive processes. *DYNA*,* 82*(192), 221–229. 
+Valencia, Y., Camapum de Carvalho, J., Lara, L. (2015). Influence of biomineralization on a profile of a tropical soil affected by erosive processes. *DYNA*, *82*(192), 221–229. 
 
-## Jennings, J. E. & Knight, K. (1975*). A guide to construction on or with materials exhibiting additional settlement du**e** to “collapse of grain structure*”. Regional Conference for African on Soil Mechanics and Foundation Engineering, Durban, pp. 99-105.
+## Jennings, J. E. & Knight, K. (1975*). A guide to construction on or with materials exhibiting additional settlement due to “collapse of grain structure*”. Regional Conference for African on Soil Mechanics and Foundation Engineering, Durban, pp. 99-105.
 

@@ -1,8 +1,8 @@
 **1**
 
-**Evaluación indicativa del r****iesgo a la calidad del agua frente a ****amenazas**** naturales y antrópic****a****s: el caso de Bogotá**
+**Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá**
 
-**Rafael Fernández****1*********, ****Manuel Rodríguez Susa****2****, ****Mildred Lemus****2****,** **Iván ****Alejandro Giraldo****2****, ****Lina Porras****2****, ****Juliana Martínez****2****, Juan Sebastián Echeverry****1****, Carlos Oliveros****1****, Juan Carlos Reyes****1****, Nubia León****3**** &**** Diego Gutiérrez****3**
+**Rafael Fernández1*, Manuel Rodríguez Susa2, Mildred Lemus2, Iván Alejandro Giraldo2, Lina Porras2, Juliana Martínez2, Juan Sebastián Echeverry1, Carlos Oliveros1, Juan Carlos Reyes1, Nubia León3 & Diego Gutiérrez3**
 
 # Capítulo 5: C01-LGRD-14-Calidad-Agua-VF-2022-08-17
 
@@ -18,15 +18,15 @@
 
 Los sistemas de acueducto cumplen el papel fundamental de asegurar las condiciones de vida digna al suministrar y garantizar la disponibilidad y calidad del agua potable como recurso primario para la vida y la salud. Sin embargo por la complejidad y extensión de los sistemas de producción de agua, especialmente en grandes ciudades, sus componentes (i.e. captación, reservorios, tratamiento y distribución) se exponen a diversas condiciones amenazantes de origen natural (i.e. sismos, inundaciones o incendios forestales), o antrópico (i.e. terrorismo, actividades tecnológicas industriales- residenciales, gestión interna del sistema), que pueden afectar el proceso de producción y ocasionar cambios sobre los parámetros de calidad del agua de consumo. El objetivo principal de este capítulo es presentar un modelo para evaluar el riesgo en la calidad de agua potable. El método se aplica como caso de estudio en el sistema de acueducto de agua potable de la ciudad de Bogotá, Colombia, servicio prestado por la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB-ESP). Con el modelo se realiza una comparación cualitativa e indicativa de los efectos e impactos de estos eventos amenazantes externos sobre la calidad del agua en el sistema. A partir de los resultados se identificó la distribución geográfica de los riesgos, afectación sobre diferentes componentes del sistema, y alteración de parámetros de calidad del agua. Esta información sirve como base para entender y dimensionar las acciones y prioridades para mitigar este riesgo.
 
-**Palabras c****lave:** sistemas de acueducto, riesgo en la calidad del agua potable, amenazas naturales, amenazas antrópicas.    
+**Palabras clave:** sistemas de acueducto, riesgo en la calidad del agua potable, amenazas naturales, amenazas antrópicas.    
 
-**Indicative w****ater quality risk**** assessment**** due to natural and man-made disasters: the case of Bogotá**
+**Indicative water quality risk assessment due to natural and man-made disasters: the case of Bogotá**
 
-**Abstrac****t**
+**Abstract**
 
 Aqueduct systems play a fundamental role in ensuring decent living conditions and access to water as a primary resource for life, as well as guaranteeing its availability and safe conditions for public health. However, due to their complexity and extension in large cities, the drinking water components (i.e. collection, treatment, distribution) are exposed to various threatening natural hazards (i.e. earthquakes, floods, or wild fires) or anthropic events (i.e. terrorist acts, industrial technology impacts, or management decisions from utility operators), which can affect the process and can generate changes in the drinking water quality parameters. The main objective of this chapter is to present a model that allows risk assessment concerning drinking water quality. The proposed method is applied as a case study in the drinking-water aqueduct system of the city of Bogotá, Colombia, supplied by the Aqueduct and Sewerage Company of Bogotá (EAAB-ESP). The model allows a qualitative and indicative comparison of the effects and impacts of these external threatening events on the water quality in the system. The results allow the user to understand the geographical distribution of risks, impact on different system components, and alteration of water quality parameters. This information serves as a basis for understanding and measuring the actions and priorities to mitigate quality risk in aqueduct systems.
 
-**Keywords****:** Aqueduct systems, water quality risk, natural hazards, anthropic hazards
+**Keywords:** Aqueduct systems, water quality risk, natural hazards, anthropic hazards
 
 ## INTRODUCCIÓN
 
@@ -38,7 +38,7 @@ El objetivo principal de este capítulo es presentar un modelo para evaluar el r
 
 El modelo para evaluación de riesgos para la calidad del agua potable incluye tres componentes principales: el de exposición, el de amenazas, y el de vulnerabilidad. El componente de exposición considera todos los elementos susceptibles a daño a causa de los fenómenos naturales y antrópicos externos, y que pueden generar directa o indirectamente afectaciones en la calidad del agua. El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. Por último, la vulnerabilidad relaciona las características propias de cada componente del sistema con el tipo o nivel de afectación que puede sufrir o generar, ante la eventual ocurrencia de los eventos de amenaza. A partir de diferentes escenarios de análisis, se identifican los eventuales impactos críticos sobre el sistema, las amenazas que los pueden generar y los componentes críticos, con lo cual se establece el potencial de afectación en la calidad del agua en cada uno de estos casos de análisis. Los resultados de este tipo de análisis deben validarse de manera complementaria con la información histórica de eventos que hayan generado afectación en el sistema con repercusiones en la calidad del agua. Una vez identificados los escenarios críticos y el potencial de afectación en la calidad del agua, es posible establecer una serie de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. 
 
-En la literatura existen diferentes metodologías para la evaluación del riesgo a la calidad del agua en sistemas de acueducto. Una de las principales herramientas para este tipo de valoraciones es la *G**uía para la calidad del agua de consumo humano* , desarrollada por la Organización Mundial de la Salud (OMS) en 2011. El objetivo principal de esta guía es “proteger la salud pública asociada a la calidad de agua potable”  y se dirigen a los reguladores de agua y salud, y a los responsables de la formulación de políticas en torno a la calidad del agua. Esta guía desarrollada por la OMS presenta un marco conceptual para la aplicación de las guías, se definen las metas de protección de la salud, se desarrollan los planes de seguridad del agua, se establecen los abordajes de vigilancia y la aplicación de las guías en circunstancias específicas. Así mismo, se detallan los aspectos microbiológicos, químicos y radiológicos asociados con la afectación en la calidad del agua. Para esta evaluación, la OMS indica que se debe integrar un equipo multidisciplinario de expertos para su desarrollo. Con este equipo se deben identificar los diferentes componentes del sistema, desde la captación hasta el consumo. Estos componentes deben analizarse de forma simultánea e integral para identificar el punto de ingreso de contaminantes y la posible afectación de estos en la salud del usuario final. 
+En la literatura existen diferentes metodologías para la evaluación del riesgo a la calidad del agua en sistemas de acueducto. Una de las principales herramientas para este tipo de valoraciones es la *Guía para la calidad del agua de consumo humano* , desarrollada por la Organización Mundial de la Salud (OMS) en 2011. El objetivo principal de esta guía es “proteger la salud pública asociada a la calidad de agua potable”  y se dirigen a los reguladores de agua y salud, y a los responsables de la formulación de políticas en torno a la calidad del agua. Esta guía desarrollada por la OMS presenta un marco conceptual para la aplicación de las guías, se definen las metas de protección de la salud, se desarrollan los planes de seguridad del agua, se establecen los abordajes de vigilancia y la aplicación de las guías en circunstancias específicas. Así mismo, se detallan los aspectos microbiológicos, químicos y radiológicos asociados con la afectación en la calidad del agua. Para esta evaluación, la OMS indica que se debe integrar un equipo multidisciplinario de expertos para su desarrollo. Con este equipo se deben identificar los diferentes componentes del sistema, desde la captación hasta el consumo. Estos componentes deben analizarse de forma simultánea e integral para identificar el punto de ingreso de contaminantes y la posible afectación de estos en la salud del usuario final. 
 
 Las guías indican que se deben priorizar los factores de peligro según su afectación a la calidad de agua, generalmente a través de matrices semicuantitativas o indicativas (es decir, que utilizan indicadores de riesgo para cuantificar en una escala relativa el impacto o consecuencia sobre el sistema). Estas matrices se desarrollan en conjunto con los expertos del equipo de evaluación y usualmente están basados en sus criterios y experiencia, teniendo en cuenta la dificultad de contar con modelos más precisos o físicamente basados, debido a la complejidad y multidisciplinariedad del problema.
 
@@ -74,7 +74,7 @@ Los componentes principales del sistema se deben agrupar en un formato de Sistem
 
 ### Amenaza
 
-El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud . Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la **Figura 2****.**
+El modelo debe considerar tanto las amenazas de origen natural como las amenazas generadas por la actividad humana, referenciadas como antrópicas. La identificación de amenazas se basa en el criterio de expertos de diferentes disciplinas, así como de la identificación de amenazas de la nueva metodología de mapas de riesgo desarrollada por la Secretaría de Salud . Para el contexto del presente estudio, las amenazas naturales incluyen los eventos de sismos, precipitaciones, sequías, inundaciones, deslizamientos, descargas torrenciales, incendios forestales, volcanes y vendavales. Asimismo, estas amenazas se pueden dividir en amenazas directas o amenazas indirectas, debido a su interdependencia; por ejemplo, los deslizamientos son una amenaza indirecta de las amenazas directas de sismos y/o precipitaciones. En cuanto a las antrópicas, son aquellas amenazas voluntarias o involuntarias, relacionadas o inducidas por la actividad humana. En este estudio se consideran amenazas de terrorismo, terrorismo virtual, tecnológicas domésticas (actividades asociadas al uso doméstico como vertimientos de aguas residuales o disposición de residuos sólidos convencionales), tecnológicas industriales (actividades asociadas al uso industrial), accidentes viales y derrames, agropecuarias y minerías. Estas amenazas se resumen en la **Figura 2.**
 
 ![Imagen Fig2.png](media/Fig2.png)
 
@@ -177,15 +177,17 @@ $$RT = A V T$$
 
 
 
-En esta ecuación, *A* es un indicador de la amenaza (de 1 a 5) y* V* es un indicador de la vulnerabilidad (de 1 a 16), siguiendo las calificaciones indicadas anteriormente. Cada calificación del riesgo tendría además un indicador de temporalidad de ocurrencia, *T*, asociado a la frecuencia media de ocurrencia asignada a cada evento de acuerdo con la **Tabla 2** (de 1 a 5). Considerando que eventos con alta frecuencia de ocurrencia deben generar una estrategia diferente de acción con respecto a eventos de ocurrencia remota. 
+En esta ecuación, *A* es un indicador de la amenaza (de 1 a 5) y *V* es un indicador de la vulnerabilidad (de 1 a 16), siguiendo las calificaciones indicadas anteriormente. Cada calificación del riesgo tendría además un indicador de temporalidad de ocurrencia, *T*, asociado a la frecuencia media de ocurrencia asignada a cada evento de acuerdo con la **Tabla 2** (de 1 a 5). Considerando que eventos con alta frecuencia de ocurrencia deben generar una estrategia diferente de acción con respecto a eventos de ocurrencia remota. 
 
 De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alta con o sin afectación a la infraestructura (Catastrófica o Extrema = 16) y una alta frecuencia alta de ocurrencia para eventos naturales o antrópicos (Frecuente = 5), tendrá un indicador de riesgo con un valor de  $R=400$ . En un proceso posterior, es posible normalizar el indicador al rango 0 a 100%, en el cual el 100% corresponde al evento con peor posible riesgo; es decir, aquel con máxima intensidad de amenaza natural o antrópica, máxima frecuencia de ocurrencia y máxima vulnerabilidad con eventual impacto en la calidad del agua del sistema. 
 
 Este indicador de riesgo puede utilizarse para priorizar los eventos y los componentes que generan el mayor impacto en el sistema teniendo en cuenta simultáneamente su frecuencia esperada de ocurrencia. Esto sirve para definir las prioridades para desarrollar estudios más detallado de evaluación de impacto y a partir de estos implementar opciones de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. Es importante aclarar que el objetivo de este estudio no es realizar la caracterización detallada de cada posible modo de falla, sino poder entender la matriz de riesgos que afecta el sistema y a partir de esto lograr priorizar los más riesgos más críticos y lograr mitigarlos. 
 
 
-| Caja 1. Resumen de los casos que pueden ocurrir:  Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura |
-| --- |
+::: {.caja-box}
+**Caja 1.** Resumen de los casos que pueden ocurrir:  Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura
+
+:::
 
 ## CASO DE ESTUDIO: BOGOTÁ
 
@@ -209,14 +211,16 @@ Cada sistema puede subdividirse en diferentes componentes. Estos componentes pri
 
 
 
-**Figura ****3****.** Modelo de exposición completo. Fuente: Construcción propia
+**Figura 3.** Modelo de exposición completo. Fuente: Construcción propia
 
 ### Amenaza 
 
 El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas. 
 
 
-| Caja 2. Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas |
+::: {.caja-box}
+**Caja 2.** Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas
+:::
 | --- | --- |
 | Amenazas de origen natural: sísmica precipitaciones sequía inundaciones deslizamiento descargas torrenciales incendios forestales volcanes vendaval | Amenazas de origen antrópico: terrorismo y atentados terrorismo virtual tecnológicos domésticos tecnológicos industriales accidentes viales y derrames agropecuario minería gestión institucional |
 
@@ -226,7 +230,7 @@ En primer lugar, la amenaza sísmica se obtuvo a partir del modelo probabilista 
 
 La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 50 años. La amenaza por deslizamiento fue incluida a partir de los mapas de susceptibilidad desarrollados por el SGC . La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 25 años. La amenaza por descargas torrenciales se generó a partir de una metodología simplificada de clasificación de susceptibilidad de cuencas . La frecuencia asociada con este mapa corresponde a un valor de 3 equivalente a un periodo de retorno de 50 años. La amenaza por incendios forestales se consideró a partir de los mapas oficiales realizados por el IDEAM  (escala a nivel nacional 1:500,000 o menores). 
 
-La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) . La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la **Figura ****4** se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.
+La frecuencia asociada con este mapa equivale a un valor de 4 correspondiente a un periodo de retorno de 1 año (equivalente al periodo de retorno del mapa base). La amenaza por volcanes se implementó a partir de los mapas oficiales realizados y actualizados por el Servicio Geológico Colombiano (SGC) en 2015 (escala 1:120,000) . La frecuencia asociada con este mapa corresponde a un valor de 1 correspondiente a un periodo de retorno de 500 años (equivalente al periodo de retorno del mapa base). La amenaza por vendavales a partir de los mapas oficiales de velocidades anuales máximas promedios de vientos del IDEAM a partir de los registros entre los años 2000 y 2010 (escala 1:12,000,000). La frecuencia asociada con este mapa corresponde a un valor de 4 equivalente a un periodo de retorno de 1 año. En la **Figura 4** se presentan los mapas de intensidad para cada una de las amenazas naturales mencionada anteriormente.
 
 ![Imagen Fig4.png](media/Fig4.png)
 
@@ -245,7 +249,7 @@ La amenaza por terrorismo y atentados se determinó de acuerdo con consulta inte
 
 La amenaza por eventos tecnológicos domésticos se obtuvo a partir de las viviendas urbanas y rurales identificadas en los mapas del Instituto Geográfico Agustín Codazzi (IGAC), en los cuales se puede identificar las zonas de uso. La frecuencia asociada con este mapa corresponde a un valor de 3 asociado a un periodo de retorno de 1 año. La amenaza por eventos tecnológicos industriales se generó a partir de la identificación de las construcciones con ocupación y uso industrial en los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca, así como su posterior validación con los respectivos POT municipales de la región. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza por accidentes viales y derrames fue identificada a partir de los mapas de vías principales y secundarias del INVIAS y la ANI, junto con los mapas de la ubicación aproximada de los sistemas de oleoductos y gasoductos en el territorio nacional del CENIT y GEB respectivamente. La frecuencia asociada con este mapa corresponde a un valor de 3 correspondiente a un periodo de retorno de 1 año. La amenaza agropecuaria está derivada a partir de la identificación de los terrenos con ocupación agrícola y pecuaria de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. 
 
-La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la **Figura ****5** se presentan los mapas de intensidades para cada una de estas amenazas.
+La amenaza minera fue desarrollada a partir de la identificación de los terrenos con ocupación minera de los mapas de uso del suelo disponibles en la página Mapas y Estadísticas de la Gobernación de Cundinamarca. La frecuencia asociada con este mapa corresponde a un valor de 4 correspondiente a un periodo de retorno de mensual. La potencialidad de falencias en la gestión institucional del sistema de acueducto se consideró como un escenario de amenaza antrópica adicional dentro del análisis de gestión del riesgo en la calidad del agua. Las amenazas por cada causalidad se consideraron como escenarios individuales con un nivel de intensidad intermedio y con un valor de frecuencia de 2 asociado a un periodo de retorno de 5 años. Esto quiere decir que se considera un riesgo unificado para todos los sistemas, en cuanto a Talento Humano, Recursos físicos y Procedimientos. Esto se debería explorar en más detalle en futuros proyectos de la EAAB-ESP. En la **Figura 5** se presentan los mapas de intensidades para cada una de estas amenazas.
 
 ![Imagen Fig5.png](media/Fig5.png)
 
@@ -266,7 +270,7 @@ Que cada uno de los eventos de amenaza puedan llegar a tener algún tipo de impa
 
 Del tipo de componente, sus características físicas, accesibilidad y estado actual. 
 
-Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. Estas calificaciones se desarrollaron en conjunto, a partir de reuniones virtuales colaborativas, entre expertos de la Universidad de Los Andes y de la Empresa de Acueducto y Alcantarillado de Bogotá, teniendo en cuenta que cada fila representa una amenaza particular y cada columna un componente de exposición. Por cada combinación de componente con amenaza se indicó en la justificación los diferentes parámetros químicos, microbiológicos o radioactivos que se están considerando en la calificación. A modo de ejemplo, en la **Tabla ****5** se presentan las calificaciones de vulnerabilidad a la calidad y sus justificaciones para el sistema de captación Norte Chingaza y las amenaza de incendios forestales.
+Para cada componente y para cada amenaza se asigna una vulnerabilidad de acuerdo con la posible afectación a la infraestructura y/o a su impacto en la calidad del agua. Estas calificaciones se desarrollaron en conjunto, a partir de reuniones virtuales colaborativas, entre expertos de la Universidad de Los Andes y de la Empresa de Acueducto y Alcantarillado de Bogotá, teniendo en cuenta que cada fila representa una amenaza particular y cada columna un componente de exposición. Por cada combinación de componente con amenaza se indicó en la justificación los diferentes parámetros químicos, microbiológicos o radioactivos que se están considerando en la calificación. A modo de ejemplo, en la **Tabla 5** se presentan las calificaciones de vulnerabilidad a la calidad y sus justificaciones para el sistema de captación Norte Chingaza y las amenaza de incendios forestales.
 
 Tabla 5. Justificación calificaciones vulnerabilidad a partir de reuniones colaborativas.
 
@@ -307,7 +311,7 @@ Tabla 6. Vulnerabilidad física.
 | Antrópicas | Gestión institucional - Procedimientos | 3 | 4 | 4 | 3 | 3 | 3 | 3 | 2 |
 | Antrópicas | Gestión institucional - Financiera | 4 | 4 | 3 | 3 | 3 | 2 | 3 | 1 |
 
-En la **Tabla 7** se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la **Tabla 8** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la **Tabla ****9** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.
+En la **Tabla 7** se presentan los resultados para los componentes de captación, componentes de almacenamiento y potabilización, para los componentes del sistema de distribución del sistema Norte Chingaza. Para el sistema Sur–Sumapaz se presenta en la **Tabla 8** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución. Para el sistema Agregado Norte-Tibitoc se presenta en la **Tabla 9** los resultados para los componentes de captación, para los componentes de almacenamiento y potabilización, y para los componentes del sistema de distribución.
 
 Tabla 7. Vulnerabilidad calidad sistema Norte Chingaza.
 
@@ -393,7 +397,7 @@ Tabla 9. Vulnerabilidad calidad sistema Tibitoc.
 | Antrópicas | Gestión institucional - Procedimientos | 8 | 2 | 8 | 8 | 8 | 8 | 8 |
 | Antrópicas | Gestión institucional - Financiera | 8 | 4 | 16 | 4 | 4 | 4 | 8 |
 
-El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la **Tabla 10****.**
+El sistema de carrotanques se califica de manera general pues no presenta diferencias significativas con respecto a cada sistema de captación. Las calificaciones, así como sus justificaciones y observaciones de presentan en la **Tabla 10.**
 
 Tabla . Vulnerabilidad calidad carrotanques.
 
@@ -606,7 +610,7 @@ En este sentido, las amenazas naturales más críticas son las sequías, las inu
 
 ## CONFLICTO DE INTERESES
 
-Los autores declaran que los desarrollos y resultados presentados se realizaron en el marco del proyecto *Elaboración y Formulación Del Plan Maestro De La Calidad De Agua Potable - Contrato 2-2-26200-1334-2019 *financiado por la Empresa de Acueducto y Alcantarillado (EAAB-ESP). Todos los autores participaron en el proyecto por parte de la Universidad de los Andes o de la EAAB-ESP.
+Los autores declaran que los desarrollos y resultados presentados se realizaron en el marco del proyecto *Elaboración y Formulación Del Plan Maestro De La Calidad De Agua Potable - Contrato 2-2-26200-1334-2019* financiado por la Empresa de Acueducto y Alcantarillado (EAAB-ESP). Todos los autores participaron en el proyecto por parte de la Universidad de los Andes o de la EAAB-ESP.
 
 ## CONTRIBUCIÓN DE AUTORÍA CRediT
 
@@ -680,7 +684,7 @@ Lemus, M., Cárdenas, J.A., Martínez, A.J., & Rodríguez-Susa, M.  (2019). Cha
 
 19.	IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2014). *Mapa de precipitaciones anuales medias multi-anuales.* Bogotá: Instituto de hidrología, meteorología y estudios ambientales.
 
-20.	IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Curvas Intensidad Duración Frecuencia** IDF.* 
+20.	IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). *Curvas Intensidad Duración Frecuencia IDF.* 
 
 21.	IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2014). *Periodos de retorno de sequías entre los años 1981-2010.* Bogotá: Instituto de hidrología, meteorología y estudios.
 
@@ -696,7 +700,7 @@ Lemus, M., Cárdenas, J.A., Martínez, A.J., & Rodríguez-Susa, M.  (2019). Cha
 
 27.	Fiscalía General de la Nación. (2020). Recuperado el 2020, de Datos abiertos de la fiscalía general de la Nación: https://www.fiscalia.gov.co/colombia/gestion/estadisticas/
 
-28.	Zhang, X., Mi, Z., Wang, Y., Liu, S., Niu, Z., Lu, P., . . . Chen, C. (2014). A red water occurrence in drinking water distribution systems caused by changes in water source in Beijing, China: mechanism analysis and control measures. *Frontiers of Environmental Science & Engineering**, 8*(3), 417-426. 
+28.	Zhang, X., Mi, Z., Wang, Y., Liu, S., Niu, Z., Lu, P., . . . Chen, C. (2014). A red water occurrence in drinking water distribution systems caused by changes in water source in Beijing, China: mechanism analysis and control measures. *Frontiers of Environmental Science & Engineering, 8*(3), 417-426. 
 
 29.	Pietrucha-Urbanik, K., Tchórzewska-Cie lak, B., Dorota Papciak, D., & Skrzypczak, I. (2017). Analysis of chemical stability of tap water in terms of required level of technological safety. *Archives of Environmental Protection, 43*(4), 3-12. 
 

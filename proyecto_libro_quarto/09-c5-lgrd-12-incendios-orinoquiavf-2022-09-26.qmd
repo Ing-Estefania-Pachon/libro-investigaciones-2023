@@ -1,8 +1,8 @@
 **5**
 
-**Comparativo de incendios**** forestales**** en Colombia a través de instrumentos de teledetección: caso de estudio en la ****región de la Orinoquía**
+**Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía**
 
-**Daniela Torinjano Jiménez****1****, Adriana Osorio Mosquera****1*****&**** Alejandro Marulanda Tobón****2**
+**Daniela Torinjano Jiménez1, Adriana Osorio Mosquera1*& Alejandro Marulanda Tobón2**
 
 # Capítulo 9: C5-LGRD-12-Incendios Orinoquia.VF-2022-09-26
 
@@ -16,15 +16,15 @@
 
 La información sobre la cobertura del suelo que se logra a partir del uso de instrumentos acoplados a plataformas satelitales, ha permitido detectar y analizar con agilidad los recursos ambientales disponibles en una región, especialmente cuando han sufrido transformaciones por actividades antrópicas o naturales. En la misma línea, la alteración de la cobertura vegetal es más notoria cuando han ocurrido incendios, que en Colombia tradicionalmente se presentan en la región de la Orinoquia. Acudiendo a la necesidad de desarrollar metodologías y herramientas para detectar y monitorear incendios, en el presente capítulo se propone el uso de productos derivados de teledetección óptica (MODIS y Sentinel-2), para estimar la superficie quemada en la Orinoquia en dos periodos de tiempo: el primero entre diciembre de 2019 y junio de 2020, y el segundo entre diciembre de 2020 y junio de 2021. Los lapsos temporales seleccionados para el análisis, coinciden con las épocas secas de la región y en las cuales se suelen generar los mayores eventos de incendios forestales. Con el desarrollo, se constató que las estimaciones de área quemada variaron entre las diferentes metodologías, obteniendo para el año 2020 valores que oscilan entre 2,054,174 ha y 2,461,980 ha; para el año 2021, el área quemada fluctuó entre 815,485 ha y 847,756 ha, por lo que los datos muestran un valor superior en el área quemada en el año 2020 respecto al 2021. Las zonas con mayor afectación se presentaron en los departamentos de Vichada y Meta, así como las zonas fronterizas entre Venezuela y Colombia. Los análisis expuestos proporcionan entonces un comparativo entre dos plataformas satelitales, lo cual constituye una aproximación metodológica para la detección de incendios, acciones que pueden usarse no solo en la zona de la Orinoquia, sino también en otras regiones del territorio colombiano. El alcance del trabajo permite además recomendar sobre la necesidad de profundizar en las técnicas de análisis de incendios, especialmente en la validación de la precisión de los datos a fin de generar una aproximación a los valores reales.
 
-**Palabras clave****:** Teledetección, sistemas de información geográfica, incendios forestales, áreas quemadas
+**Palabras clave:** Teledetección, sistemas de información geográfica, incendios forestales, áreas quemadas
 
-**Comparison of ****wild****fires in Colombia through remote sensing: ****a ****case study in the ****Orinoquí****a**** region**
+**Comparison of wildfires in Colombia through remote sensing: a case study in the Orinoquía region**
 
 **Abstract**
 
 Information about land cover obtained with instruments coupled to satellite platforms has allowed quickly detect and analyze the environmental resources available in a region, especially when they have suffered transformations due to anthropic or natural activities. In the same way, the transformation of vegetation cover is more noticeable when fires have occurred, which in Colombia traditionally occur in the Orinoquía region. Addressing the need to develop methodologies and tools to fire events detection and monitoring, this chapter proposes the use of products derived from optical remote sensing (MODIS and Sentinel-2) to estimate burnt area in the Orinoquía in two periods: the first between December 2019 to June 2020, and the second between December 2020 to June 2021. The periods selected for the analysis coincide with the region’s dry season and in which the largest wildfire events usually occur. It was found that the estimates of burned area varied between the different methodologies, obtaining for the year 2020 values ​​that ranged between 2,054,174 ha and 2,461,908 ha; for the year 2021, the area burned fluctuated between 815,485 ha and 998,726 ha, so the data shows a higher value of area burned in 2020 compared to 2021. The areas with the greatest impact are Vichada and Meta, as well as the border areas between Venezuela and Colombia. The analysis concludes with a comparison between two satellite platforms techniques, which constitute a methodological approach for fire detection, actions that can be used not only in the Orinoquía area but also in other regions of the Colombian territory. The work also makes it possible to recommend the need to deepen fire analysis techniques, especially in validating the accuracy of the data to generate an approximation to the real values.
 
-**Keywords****:** Remote sensing, geographic information system, wildfires, burnt area
+**Keywords:** Remote sensing, geographic information system, wildfires, burnt area
 
 ## **INTRODUCCIÓN**
 
@@ -45,12 +45,14 @@ Ahora bien, la caracterización de los incendios se realiza comúnmente mediante
 Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso de técnicas remotas que emplean una combinación de datos obtenidos mediante sensores ópticos . El objetivo de este capítulo es explorar las ventajas que ofrece emplear los sensores ópticos para la teledetección de incendios forestales y realizar un comparativo temporal en la región de la Orinoquía Colombiana. Así mismo, indagar sobre posibles variaciones en la frecuencia de incendios entre el periodo de aislamiento vivido a nivel mundial por la pandemia de coronavirus y un periodo normal, bajo la hipótesis que es la intervención humana la principal causa de generación de los incendios forestales.
 
 
-| Caja 1. Conceptos clave. Teledetección: La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material . , Teledetección óptica: También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores. Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura . |
-| --- |
+::: {.caja-box}
+**Caja 1.** Conceptos clave. Teledetección: La Teledetección es la técnica para obtener información a distancia de objetos sin que exista un contacto material . , Teledetección óptica: También conocidos como sensores pasivos, son aquellos que la radiación reflejada se deriva principalmente del Sol, dado que no requieren de energía inducida artificialmente, detectan la radiación solar reflejada o emitida por los objetos de la superficie. Dependen por lo tanto de una fuente de radiación externa, para que puedan operar; los mecanismos fotográficos son un buen ejemplo de este tipo de sensores. Los sensores pasivos se limitan a recoger la energía electromagnética procedente de las cubiertas terrestres; ya sea reflejada de los rayos solares o emitida en virtud de su propia temperatura .
 
-## **DETECCIÓN**** DE ****ÁREAS** **QUEMADAS**** EN LA ORINOQUIA COLOMBIANA** 
+:::
 
-La Orinoquía (**Fig****. ****1**), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino . La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo . Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm . 
+## **DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA** 
+
+La Orinoquía (**Fig. 1**), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino . La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo . Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm . 
 
 La Orinoquia Colombiana ha tenido una clara afectación por los incendios . En el periodo entre diciembre del año 2000 y febrero del 2009 las regiones que presentaron una mayor afectación fueron la Orinoquia, seguida por la Amazonía y el Caribe. Así mismo, en la Orinoquía se observó un claro patrón intra-anual de incendios, donde se evidencia un comportamiento bimodal asociado a la época de verano; el primer pico donde se concentran la gran parte de anomalías térmicas se da entre diciembre y marzo y otro más corto entre julio y agosto. 
 
@@ -71,12 +73,14 @@ Análisis de focos de calor y áreas quemadas reportadas por el sensor MODIS.
 Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2.
 
 
-| Caja 2. Terminología importante  Focos de calor: Anomalías térmicas localizadas a partir de imágenes satelitales las cuales son asociadas a incendios. En la espacialización de los datos de temperatura de la zona de estudio, se plasman como un valor de temperatura elevado en comparación con los pixeles o valores colindantes, activando los umbrales establecidos en el algoritmo. El evento que ocasiona que se active el segmento, puede ser un incendio, una quema agrícola, fuegos industriales, volcanes activos u otros. . FIRMS: (Sistema de Información sobre Incendios para Gestión de Recursos): Sistema de la NASA que proporciona datos de incendios activos (incluida una ubicación aproximada de un punto de acceso detectado) de los instrumentos MODIS y VIIRS las 24 horas del día, los 7 días de la semana a cualquier persona, en cualquier parte del mundo. Las detecciones de incendios activos globales se pueden ver de forma interactiva haciendo uso de la aplicación FIRMS Fire Map .  MODIS (Espectro radiómetro de imágenes de resolución moderada): Es un sensor a bordo de los satélites AQUA y TERRA diseñado para observaciones de la tierra, atmósfera, océano y criósfera. Contiene 36 bandas espectrales y adquiere datos en tres resoluciones espaciales: 250 m, 500 m y 1 km. Este sensor detecta las radiaciones infrarrojas emitidas por los incendios, permitiendo su ubicación, así como la dirección de propagación del incendio a una resolución espacial de 1 km .  Sentinel-2: Es una misión de la Agencia Aeroespacial Europea (ESA), y que pertenecen al programa Copérnico, la cual se compone de dos satélites que obtienen imágenes multiespectrales (13 bandas espectrales: cuatro bandas a 10 m, seis bandas a 20 m y tres bandas a 60 m de alta resolución) .  Google Earth Engine (GEE): Es una plataforma en la nube para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño. Actualmente posibilita el acceso a petabytes de datos de imágenes satelitales en la nube para su análisis a escala planetaria. El panel central facilita a los usuarios escribir su código en JavaScript. GEE procesa los códigos escritos e ilustra los resultados como imágenes en el panel Mapa o como mensajes en la pestaña Consola . |
-| --- |
+::: {.caja-box}
+**Caja 2.** Terminología importante  Focos de calor: Anomalías térmicas localizadas a partir de imágenes satelitales las cuales son asociadas a incendios. En la espacialización de los datos de temperatura de la zona de estudio, se plasman como un valor de temperatura elevado en comparación con los pixeles o valores colindantes, activando los umbrales establecidos en el algoritmo. El evento que ocasiona que se active el segmento, puede ser un incendio, una quema agrícola, fuegos industriales, volcanes activos u otros. . FIRMS: (Sistema de Información sobre Incendios para Gestión de Recursos): Sistema de la NASA que proporciona datos de incendios activos (incluida una ubicación aproximada de un punto de acceso detectado) de los instrumentos MODIS y VIIRS las 24 horas del día, los 7 días de la semana a cualquier persona, en cualquier parte del mundo. Las detecciones de incendios activos globales se pueden ver de forma interactiva haciendo uso de la aplicación FIRMS Fire Map .  MODIS (Espectro radiómetro de imágenes de resolución moderada): Es un sensor a bordo de los satélites AQUA y TERRA diseñado para observaciones de la tierra, atmósfera, océano y criósfera. Contiene 36 bandas espectrales y adquiere datos en tres resoluciones espaciales: 250 m, 500 m y 1 km. Este sensor detecta las radiaciones infrarrojas emitidas por los incendios, permitiendo su ubicación, así como la dirección de propagación del incendio a una resolución espacial de 1 km .  Sentinel-2: Es una misión de la Agencia Aeroespacial Europea (ESA), y que pertenecen al programa Copérnico, la cual se compone de dos satélites que obtienen imágenes multiespectrales (13 bandas espectrales: cuatro bandas a 10 m, seis bandas a 20 m y tres bandas a 60 m de alta resolución) .  Google Earth Engine (GEE): Es una plataforma en la nube para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño. Actualmente posibilita el acceso a petabytes de datos de imágenes satelitales en la nube para su análisis a escala planetaria. El panel central facilita a los usuarios escribir su código en JavaScript. GEE procesa los códigos escritos e ilustra los resultados como imágenes en el panel Mapa o como mensajes en la pestaña Consola .
+
+:::
 
 ### 2.1 Focos de calor y área quemada detectados a través de MODIS 
 
-Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (**Fig****.**** 2**), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
+Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (**Fig. 2**), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
 
 
 | A |  |
@@ -89,7 +93,7 @@ Durante el período de estudio se observa que la mayor detección de anomalías 
 
 Al realizar un análisis detallado del 2020, se evidenció que el 13 de febrero, y el 5 y 21 de marzo se presentaron las mayores anomalías térmicas alcanzando 108, 93 y 92 puntos de calor respectivamente. Además, se observó que el día en que inicia el incremento de este parámetro es el 28 de enero. Es importante resaltar que para el mes de marzo de 2020 se decreta el inicio de los períodos de aislamiento obligatorio preventivo por la emergencia sanitaria por COVID-19. Específicamente el 12 de marzo de 2020 se declara emergencia sanitaria en todo el territorio nacional, el 17 de marzo se declara estado de Emergencia por parte del presidente de la República y a partir del 25 de marzo se genera el aislamiento preventivo obligatorio, hecho que podría relacionarse con el gran incremento que se presentó respecto al año 2021.
 
-La distribución espacial de los focos de calor en los dos períodos de análisis (**Fig****.**** 3**), muestra que la mayoría de los focos de calor se presentan en los departamentos de Vichada y Meta, no obstante, para el año 2020 existe una alta concentración de anomalías térmicas en la frontera de Colombia y Venezuela que se hace más evidente en el mes de marzo. 
+La distribución espacial de los focos de calor en los dos períodos de análisis (**Fig. 3**), muestra que la mayoría de los focos de calor se presentan en los departamentos de Vichada y Meta, no obstante, para el año 2020 existe una alta concentración de anomalías térmicas en la frontera de Colombia y Venezuela que se hace más evidente en el mes de marzo. 
 
 Si bien los focos de calor detectados son una aproximación a la ocurrencia real de incendios forestales, constituyen una fuente importante para el análisis de la distribución espacial y temporal de los eventos, el estudio y definición del foco de contaminación del aire, la ubicación de puntos persistentes, y un insumo preliminar para un comparativo con las detecciones alcanzadas de áreas quemadas que se pueden deducir del uso de otros instrumentos, tales como la información de MODIS y Sentinel 2.
 
@@ -97,11 +101,11 @@ Por otro lado, al analizar el área quemada en la Orinoquia se observa que este 
 
 
 
-**Figura 3****. **Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. 
+**Figura 3.** Distribución de las anomalías térmicas en la Orinoquia Colombiana para los períodos de análisis de diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. 
 
 ![Imagen Figura3_FocosdeCalor.png](media/Figura3_FocosdeCalor.png)
 
-**Tabla 1. **Área quemada en hectáreas en la Orinoquia Colombiana reportada por el sensor MODIS MCD64A1 versión 6.
+**Tabla 1.** Área quemada en hectáreas en la Orinoquia Colombiana reportada por el sensor MODIS MCD64A1 versión 6.
 
 
 | Departamento | Área (ha) | Área (ha) |
@@ -113,7 +117,7 @@ Por otro lado, al analizar el área quemada en la Orinoquia se observa que este 
 | Vichada | 1,119,361.87 | 354,132.80 |
 | TOTAL | 2,054,174.32 | 815,485.79 |
 
-La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (**Fig****.**** 4**).
+La distribución de la superficie afectada por el fuego en la Orinoquia se da en toda la región, no obstante, para el año 2020 se observa una mayor afectación en Meta y Vichada; sin embargo, al este de Arauca y norte de vichada se concentra la mayor afectación entre los meses de febrero y marzo limitando con Venezuela. Los puntos donde se localizan los focos de calor coinciden con las áreas quemadas que presenta el sensor MODIS para la Orinoquia (**Fig. 4**).
 
 
 
@@ -123,15 +127,15 @@ La distribución de la superficie afectada por el fuego en la Orinoquia se da en
 
 ### 2.2 	Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2
 
-La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego . Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (**Tabla 2** y **3**, y **Fig****. ****5**), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
+La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego . Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (**Tabla 2** y **3**, y **Fig. 5**), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
 
 Al calcular la superficie quemada como la sumatoria de las clases 1 (alta severidad), 2 (moderada/alta severidad), 3 (moderada/baja severidad) y 4 (baja severidad) (**Tabla 2** y **3**) en el área de estudio, fue para el primer período de 2,461,908.6 ha, mientras que para el segundo período fue de 847,756.5 ha. Por otro lado, se observa que un área equivalente a 2,333,588.4 ha se registra como sucesión vegetal (clases 6 y 7) en el año 2021 (mayor a 2,294,845.9 ha que se reportan en el año 2020), probablemente debido a los incendios registrados un año atrás. 
 
-Es importante mencionar que, durante el procesamiento de los datos, muchas de las imágenes se encontraban con una alta nubosidad, razón por la cual, se aplica una máscara para eliminar las nubes y las sombras de nubes, ya que las primeras no permiten observar la superficie mientras que las sombras tienen bajos niveles de reflectividad, por tanto, pueden ser confundidas con zonas de áreas quemadas. Por lo anterior, en los resultados se observa espacios en blanco (correspondiente a la categoría NA), donde no se pudo determinar el índice Normalizado de Área Quemada (**Fig****.**** 5**).
+Es importante mencionar que, durante el procesamiento de los datos, muchas de las imágenes se encontraban con una alta nubosidad, razón por la cual, se aplica una máscara para eliminar las nubes y las sombras de nubes, ya que las primeras no permiten observar la superficie mientras que las sombras tienen bajos niveles de reflectividad, por tanto, pueden ser confundidas con zonas de áreas quemadas. Por lo anterior, en los resultados se observa espacios en blanco (correspondiente a la categoría NA), donde no se pudo determinar el índice Normalizado de Área Quemada (**Fig. 5**).
 
 El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detección de cambios, en el que los datos anteriores y posteriores a un evento se deducen entre sí, por lo que se pueden detectar como incendios los cambios generados por deforestación y otros cambios en la cobertura del suelo. De igual forma, en ocasiones los algoritmos de máscara de nubes y sombra de nubes aplicados no eliminan totalmente las sombras de las nubes, lo que puede ocasionar que existan detecciones falsas o errores de omisión . Igualmente, pueden ser fuente de error los cambios leves en la vegetación, como lo es la regeneración natural detectada en el mes de abril, en zonas donde ocurrieron incendios, ya que generan una baja diferencia en el rango de dNBR el cual no es clasificado como área quemada sino posiblemente como rebrote (vegetación en crecimiento).  De lo anterior, puede afirmarse que el desarrollo de técnicas de validación para la detección de cambios en la cobertura vegetal, es fundamental para evaluar las incertidumbres asociadas con los productos basados ​​en datos satelitales, para identificar las mejoras necesarias en los productos y para permitir que los productos se utilicen adecuadamente .
 
-**Tabla 2. **Área reportada para las clases del índice Normalizado de Área Quemada en el período 2019 a 2020.
+**Tabla 2.** Área reportada para las clases del índice Normalizado de Área Quemada en el período 2019 a 2020.
 
 
 | Clase | Nombre | Departamento | Departamento | Departamento | Departamento |
@@ -147,7 +151,7 @@ El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detec
 | 7 | Nuevo rebrote, Alto | 1,383.98 | 202,217.40 | 614,039.20 | 75,275.80 |
 | Total | Total | 2,377,757.74 | 4,430,384.21 | 8,546,626.86 | 9,937,376.66 |
 
-**Tabla 3. **Área reportada para las clases del índice Normalizado de Área Quemada en el período 2020 a 2021.
+**Tabla 3.** Área reportada para las clases del índice Normalizado de Área Quemada en el período 2020 a 2021.
 
 
 | Clase | Nombre | Departamento | Departamento | Departamento | Departamento |
@@ -164,7 +168,7 @@ El cálculo de severidad mediante imágenes de Sentinel-2 es un proceso de detec
 | Total | Total | 2,377,757.62 | 4,430,384.72 | 8,546,627.18 | 9,937,377.46 |
 |  |  |  |  |  |  |
 
-En el área de estudio, se observa que el departamento de Arauca y Meta, fueron los departamentos que presenta mayores cambios de la vegetación para el 2020, de igual forma, se observa que entre Arauca y Casanare se sigue una trayectoria de área afectada que va desde los límites con Venezuela (**F****ig****. ****5**). 
+En el área de estudio, se observa que el departamento de Arauca y Meta, fueron los departamentos que presenta mayores cambios de la vegetación para el 2020, de igual forma, se observa que entre Arauca y Casanare se sigue una trayectoria de área afectada que va desde los límites con Venezuela (**Fig. 5**). 
 
 Por otro lado, las variaciones en los datos pueden deberse al umbral implementado, algunos estudios como el realizado por , muestran los diferentes resultados de detección de áreas quemadas al modificar el valor del umbral como respuesta a los múltiples factores que afectan el cálculo de la diferencia temporal de NBR y la importancia de definir valores por ecosistemas que permitan la estimación de área quemada utilizando modelos regionales.  
 
@@ -174,7 +178,7 @@ Además, sostienen que estos eventos de quema de biomasa, se deben principalment
 
 
 
-**Figura 5. **Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021 
+**Figura 5.** Mapa de clasificación del Índice Normalizado de Área Quemada (NBR) para el año 2020 y 2021 
 
 ![Imagen Figura5_dNBR.png](media/Figura5_dNBR.png)
 
@@ -210,13 +214,13 @@ Esta información, se descargó en formato shapefile para el período comprendid
 
 Se descargó los datos del Land Processes Distributed Active Archive Center (LP-DAAC) de la Universidad de Maryland, disponible para su descarga en formato HDF, GeoTIFF o Shapefile de la colección 6 de MODIS de áreas quemada a través del enlace: . 
 
-El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resolución espacial de 500 m y nivel 3 (nivel de procesamiento de los datos satelitales, que se han mapeado en una cuadrícula, espacio-tiempo uniforme y de calidad controlada). Su procesamiento identifica áreas quemadas recientes (> 25 ha) y descarta las que ocurrieron en temporadas anteriores (no contempla áreas quemadas procesadas en cálculos anteriores, con el fin de evitar el reporte de valores que ya han sido previamente considerados). Los archivos se reproyectan en proyección Plate-Carree y cubren un conjunto de ventanas subcontinentales (**F****ig****.**** 6**).
+El producto MCD64A1 versión 6 se genera de forma mensual, presenta una resolución espacial de 500 m y nivel 3 (nivel de procesamiento de los datos satelitales, que se han mapeado en una cuadrícula, espacio-tiempo uniforme y de calidad controlada). Su procesamiento identifica áreas quemadas recientes (> 25 ha) y descarta las que ocurrieron en temporadas anteriores (no contempla áreas quemadas procesadas en cálculos anteriores, con el fin de evitar el reporte de valores que ya han sido previamente considerados). Los archivos se reproyectan en proyección Plate-Carree y cubren un conjunto de ventanas subcontinentales (**Fig. 6**).
 
-Se descargó la información de la ventana 5 en formato shapefile (**Fig****.**** 6**), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.
+Se descargó la información de la ventana 5 en formato shapefile (**Fig. 6**), para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. A través del software ArcGis 10.5 y QGis 3.12 se realizó la delimitación de la información, el cálculo de las áreas afectadas y la composición del mapa.
 
 
 
-**Figura 6. **Cobertura de los subconjuntos de formato Shapefile 
+**Figura 6.** Cobertura de los subconjuntos de formato Shapefile 
 
 ![Imagen Figura6_Ventanas_AQModis.png](media/Figura6_Ventanas_AQModis.png)
 
@@ -224,9 +228,9 @@ Se descargó la información de la ventana 5 en formato shapefile (**Fig****.***
 
 El procesamiento, el desarrollo de algoritmos y el cálculo de las áreas en donde hubo cambios en la vegetación se realizó a través de la plataforma Google Earth Engine (GEE) basada en la nube que permite para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño a escala planetaria.
 
-Con el análisis de los focos de calor, se definió el mes de diciembre como un período donde la ocurrencia de incendios fue muy baja (pre-incendio) y a partir de abril como la época donde ya habían ocurrido la mayor parte de los incendios (post-incendios). De acuerdo con la disponibilidad de imágenes Sentinel-2 en GEE, se ajustó el período de análisis tal como se presenta en la **T****abla 5**.
+Con el análisis de los focos de calor, se definió el mes de diciembre como un período donde la ocurrencia de incendios fue muy baja (pre-incendio) y a partir de abril como la época donde ya habían ocurrido la mayor parte de los incendios (post-incendios). De acuerdo con la disponibilidad de imágenes Sentinel-2 en GEE, se ajustó el período de análisis tal como se presenta en la **Tabla 5**.
 
-**Tabla ****4****. **Características de las imágenes utilizadas para los análisis de áreas quemadas con Sentinel-2
+**Tabla 4.** Características de las imágenes utilizadas para los análisis de áreas quemadas con Sentinel-2
 
 
 | Sensor | Período pre-incendio | No de imágenes | Período post-incendio | No de imágenes | Resolución espacial |
@@ -238,9 +242,9 @@ Con el análisis de los focos de calor, se definió el mes de diciembre como un 
 
 Se calculó el NBR para las imágenes Sentinel 2, con una resolución de 30 m, el cual estima el área quemada por clase de gravedad. Para este proceso, se siguió la metodología descrita a continuación. 
 
-**Máscara de nubes. **Se aplicó un algoritmo de enmascaramiento de nubes y sombras de nubes, ya que las nubes impiden observar la superficie y las sombras tienen bajos niveles de reflectividad, por tanto, pueden confundirse con zonas de áreas quemadas. 
+**Máscara de nubes.** Se aplicó un algoritmo de enmascaramiento de nubes y sombras de nubes, ya que las nubes impiden observar la superficie y las sombras tienen bajos niveles de reflectividad, por tanto, pueden confundirse con zonas de áreas quemadas. 
 
-**Cálculo del ****Índice Diferencial de Área Quemada****. **Se calculó el NBR para las imágenes antes del incendio (NBRprefuego) y para las imágenes posteriores al incendio (NBRpostfuego), el cual se define como: 
+**Cálculo del Índice Diferencial de Área Quemada.** Se calculó el NBR para las imágenes antes del incendio (NBRprefuego) y para las imágenes posteriores al incendio (NBRpostfuego), el cual se define como: 
 
 
 
@@ -266,7 +270,7 @@ NBRpostfuego: Índice normalizado de área quemada posterior al incendio
 
 El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas con valores de dNBR más altos indican daños más severos, mientras que las áreas con valores de dNBR negativos pueden mostrar una mayor productividad de la vegetación . El dNBR se clasificó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos () (**Tabla 5**).
 
-**Tabla ****5****. ** Niveles de severidad y rangos en incendios propuestos.
+**Tabla 5.**  Niveles de severidad y rangos en incendios propuestos.
 
 
 | Nivel de severidad | Nivel de severidad | Rango dNBR (escala de 103) | Rango dNBR (no escalado) |
@@ -279,7 +283,7 @@ El dNBR se utilizó para obtener la severidad del incendio, ya que las áreas co
 |  | Moderada/alta Severidad | +440 a 659 | +0.440 a 0.659 |
 |  | Alta Severidad | +660 a +1300 | +0.660 a +1300 |
 
-**CONTRIBUCIÓN DE AUTORÍA ****CRediT**
+**CONTRIBUCIÓN DE AUTORÍA CRediT**
 
 Conceptualización: Daniela Torinjano, Adriana Osorio. Metodología: Daniela Torinjano, Adriana Osorio. Redacción de primera versión: Daniela Torinjano, Adriana Osorio, Alejandro Marulanda. Figuras y tablas: Daniela Torinjano, Adriana Osorio. Administración de proyecto: Adriana Osorio, Alejandro Marulanda. Búsqueda de evidencia: Daniela Torinjano, Adriana Osorio.
 
@@ -301,13 +305,13 @@ Alejandro Marulanda Tobón
 
 ## **BIBLIOGRAFÍA**
 
-Robinne, F-N., Burns, J., Kant, P., Groot, B., Flannigan M.D., Kleine M., Wotton D. M (2018). *Global Fire Challenges in a Warming World**.* International Union of Forest Research Organizations, Occasional Paper No. 32. 
+Robinne, F-N., Burns, J., Kant, P., Groot, B., Flannigan M.D., Kleine M., Wotton D. M (2018). *Global Fire Challenges in a Warming World.* International Union of Forest Research Organizations, Occasional Paper No. 32. 
 
 Díaz, R., Lloret, F. & Pons X. (2003). Influence of fire severity on plant regeneration by means of remote sensing imagery. *International Journal of Remote Sensing*, 24(8), 1751–1763. 
 
 Armenteras D. (2020). *Smoke signals: policy solutions to sustain Colombian forests* (Report Climate and Environment Protection). United States Department of Agriculture.  
 
-di Bella, C.M., Jobbágy, E.G., Paruelo, J.M, & Pinnock. S. (2006). Continental fire density patterns in South America. *Global Ecology and Biogeography**, *15, 92–199. 
+di Bella, C.M., Jobbágy, E.G., Paruelo, J.M, & Pinnock. S. (2006). Continental fire density patterns in South America. *Global Ecology and Biogeography,* 15, 92–199. 
 
 Armenteras, D., Romero, M. & Galindo G. (2005). Vegetation fire in the savannas of the Llanos Orientales of Colombia. *World Resource Review*, *17*(4), 531–543. 
 
@@ -317,27 +321,27 @@ IDIGER (Instituto Distrital de Gestión de Riesgos y Cambio Climático). (2019, 
 
 UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2019). *Lo que usted debe saber sobre incendios de cobertura vegetal*. Sistema Nacional de Gestión del Riego de Desastres. 
 
-Armenteras, D., Clerici, N., Kareiva, P., Botero, R., Ramírez-Delgado, J.P., Forero-Medina, G., et al. (2020). Deforestation in Colombian protected areas increased during post-conflict periods. *Sci**entific** Rep**orts*, 10 (4971), 1–10.  
+Armenteras, D., Clerici, N., Kareiva, P., Botero, R., Ramírez-Delgado, J.P., Forero-Medina, G., et al. (2020). Deforestation in Colombian protected areas increased during post-conflict periods. *Scientific Reports*, 10 (4971), 1–10.  
 
-IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). *Incendios de la cobertura vegeta**l*. Recuperado el 20 de diciembre de 2020, de  
+IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). *Incendios de la cobertura vegetal*. Recuperado el 20 de diciembre de 2020, de  
 
-Gimeno, M. & Ayanz, J. (2004). Evaluation of RADARSAT-1 data for identification of burnt areas in Southern Europe. *Remote Sensing of Environment, **92*(3), 370–375. 
+Gimeno, M. & Ayanz, J. (2004). Evaluation of RADARSAT-1 data for identification of burnt areas in Southern Europe. *Remote Sensing of Environment, 92*(3), 370–375. 
 
-Polychronaki, A., Gitas, I.Z., Veraverbeke, S., Debien, A. (2013). Evaluation of ALOS PALSAR imagery for burned area mapping in greece using object-based classification. *Remote Sens**ing*, *5*(11), 680–701. 
+Polychronaki, A., Gitas, I.Z., Veraverbeke, S., Debien, A. (2013). Evaluation of ALOS PALSAR imagery for burned area mapping in greece using object-based classification. *Remote Sensing*, *5*(11), 680–701. 
 
 Wainschenker, R.S., Ciccimarra, G., Tristan, P. & Doorn, J. (2003). *Generación de Mapas Temáticos a partir del Procesamiento de Imágenes* [Presentación de paper]. V Workshop de Investigadores en Ciencias de la Computación.  
 
 Villegas, H. V. (2008). *Introducción a la percepción remota y sus aplicaciones geológicas* (Guía asistentes). Ministerio de Minas y Energía. Servicio Geológico Colombiano. 
 
-Chuvieco, E. (1995). *Fundamentos de la teledetección** espacial**.* (2da ed.). Ediciones Rialp S.A. Madrid.
+Chuvieco, E. (1995). *Fundamentos de la teledetección espacial.* (2da ed.). Ediciones Rialp S.A. Madrid.
 
-Soler, D & Hernández, P. (2018). Desarrollos y perspectivas de investigación en la Orinoquía. *Rev**ista de** Med**icina** Vet**erinaria*, *36*, 7–13. https://doi.org/10.19052/mv.5167
+Soler, D & Hernández, P. (2018). Desarrollos y perspectivas de investigación en la Orinoquía. *Revista de Medicina Veterinaria*, *36*, 7–13. https://doi.org/10.19052/mv.5167
 
-Guzmán, D., Ruíz, J.F. & Cadena, M. (2014). *Regionalización de Colombia según la estacionalidad de la precipitación media mensual, a través de **Análisis** de Componentes Principales (ACP)*(Documento de difusión)*.* Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). 
+Guzmán, D., Ruíz, J.F. & Cadena, M. (2014). *Regionalización de Colombia según la estacionalidad de la precipitación media mensual, a través de Análisis de Componentes Principales (ACP)*(Documento de difusión)*.* Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). 
 
 Lasso, C. A., Rial, A., Matallana, C., Ramírez, W., Señaris, J., Díaz-Pulido, A., Corzo, G., & Machado-Allison, A. (Eds.). (2011). *Biodiversidad de la cuenca del Orinoco. II Áreas prioritarias para la conservación y uso sostenible*. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. 
 
-Armenteras, D., González-Alonso, F. & Aguilera, C.F. (2009). Distribución geográfica y temporal de anomalías térmica*. **Caldasia, 31*, 303–318. 
+Armenteras, D., González-Alonso, F. & Aguilera, C.F. (2009). Distribución geográfica y temporal de anomalías térmica*. Caldasia, 31*, 303–318. 
 
 Romero, M. H., Flantua, S. G. A., Tansey, K., & Berrio, J. C. (2012). Landscape transformations in savannas of northern South America: Land use/cover changes since 1987 in the Llanos Orientales of Colombia. *Applied Geography, 32*(2), 766–776. 
 
@@ -345,7 +349,7 @@ Lozano., Vasquez, C., Rivera, C., & Zapata, A. (2019). Efecto de la vegetación 
 
 Vásquez A., Toro, L., & González-Caro, S. (2018). Dinámica de incendios en Antioquia con énfasis. En E. Quintero-Vallejo, A. Benavides, N. Moreno & S. González-Caro (Eds.), *Bosques Andinos* (1ed., pp 87–102). Fundación Jardín Botánico de Medellín Joaquín Antonio. 
 
-Zamora, A. (2016). *Estudio metodológico para el monitoreo de alertas tempranas de deforestación basado en focos de calor en la **Amazonía Peruana* [Tesis pregrado, Universidad Nacional Agraria la Molina Facultad de Ciencias Forestales]. Repositorio Institucional Universidad Nacional Agraria la Molina. 
+Zamora, A. (2016). *Estudio metodológico para el monitoreo de alertas tempranas de deforestación basado en focos de calor en la Amazonía Peruana* [Tesis pregrado, Universidad Nacional Agraria la Molina Facultad de Ciencias Forestales]. Repositorio Institucional Universidad Nacional Agraria la Molina. 
 
 Blumenfeld, J. (2019, 26 de Julio). *Wildfires Can’t Hide from Earth Observing Satellites*. NASA. 
 
@@ -353,21 +357,21 @@ NASA (National Aeronautics and Space Administration). (2001, 21 de agosto). *Det
 
 ESA (European Space Agency). (2021, 24 de junio). *Sentinel Overview, Sentinel Missions*. ESA.
 
-Anaya, J.A., Sione, W.F., Rodriguez-Montellano, A.M. (2018). Identificación de áreas quemadas mediante el análisis de series de tiempo en el ámbito de computación en la nube. *Revista de Teledetección*, *5**1**, *61-73. 
+Anaya, J.A., Sione, W.F., Rodriguez-Montellano, A.M. (2018). Identificación de áreas quemadas mediante el análisis de series de tiempo en el ámbito de computación en la nube. *Revista de Teledetección*, *51,* 61-73. 
 
-Armenteras, D., González, T. M., & Retana, J. (2013). Forest fragmentation and edge influence on fire occurrence and intensity under different management types in Amazon forests*. Biological Conservation, 159*, 73–79. 
+Armenteras, D., González, T. M., & Retana, J. (2013). Forest fragmentation and edge influence on fire occurrence and intensity under different management types in Amazon forests*. Biological Conservation, 159*, 73–79.
 
 Torinjano, D. & Osorio, A. (2020) *Análisis de la ocurrencia de incendios en la Orinoquia Colombiana durante la cuarentena obligatoria por Covid-19 a través de teledetección óptica y de radar*. [Tesis pregrado, Institución Universitaria Tecnológico de Antioquia]. Repositorio Institucional Institución Universitaria Tecnológico de Antioquia. 
 
-UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres) (2022, 12 de febrero). *Riesgo Por Incendio Forestal, Caracterización general.* Sistema Nacional de Gestión del Riego de Desastres*. * 
+UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres) (2022, 12 de febrero). *Riesgo Por Incendio Forestal, Caracterización general.* Sistema Nacional de Gestión del Riego de Desastres*.*  
 
-Keeley, J. E. (2009). Fire intensity, fire severity and burn severity: a brief review and suggested usage*. **International Journal of Wildland Fire, 18*(1), 116-126. https://doi:10.1071/wf07049 
+Keeley, J. E. (2009). Fire intensity, fire severity and burn severity: a brief review and suggested usage*. International Journal of Wildland Fire, 18*(1), 116-126. https://doi:10.1071/wf07049
 
-UN-SPIDER (2018, 2 de Febrero). *Step by Step: Burn Severity mapping in Google Earth Engine**.* (2018,). United Nations. https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/burn-severity-earth-engine
+UN-SPIDER (2018, 2 de Febrero). *Step by Step: Burn Severity mapping in Google Earth Engine.* (2018,). United Nations. https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/burn-severity-earth-engine
 
-Roy, D. P., Jin, Y., Lewis, P. E., & Justice, C. O. (2005). Prototyping a global algorithm for systematic fire-affected area mapping using MODIS time series data. *Remote Sensing of Environment, 97*(2), 137–162. 
+Roy, D. P., Jin, Y., Lewis, P. E., & Justice, C. O. (2005). Prototyping a global algorithm for systematic fire-affected area mapping using MODIS time series data. *Remote Sensing of Environment, 97*(2), 137–162.
 
 Paz, A (2020, 2 de abril). *Incendios, contaminación del aire y Covid-19: tres problemas que acechan a Colombia*. Mongabay. 
 
-Giglio, L., Schroeder, W., Hall, J. & Justice, C. (2018). *MODIS Collection 6 Active Fire Product **(*User’s Guide Revision B). NASA. 
+Giglio, L., Schroeder, W., Hall, J. & Justice, C. (2018). *MODIS Collection 6 Active Fire Product (*User’s Guide Revision B). NASA. 
 

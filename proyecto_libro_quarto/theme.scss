@@ -1,0 +1,128 @@
+/*-- scss:defaults --*/
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bs-nav-pills-link-active-bg: #FFD101; /* Amarillo custom */
+}
+
+/* Colors */
+$primary: #232A60 !default; /* Azul custom */
+$link-color: #232A60;
+
+// sidebar
+$sidebar-hl: #E54D23 !default; /* Naranja original */
+
+// table of contents
+$toc-color: #000;
+$toc-active-border: #232A60;
+$toc-active-background: #EEECEA !default;
+
+.sidebar-title {
+  color: #222322;
+}
+
+div.sidebar-item-container .active {
+  font-weight: bold;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active{
+  font-weight: bold;
+}
+
+img.quarto-cover-image {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+div.sidebar-item-container .active{
+  color: #232A60 !important;
+}
+
+.sidebar-navigation a:hover{
+  color: #E54D23 !important;
+}
+
+.nav-link.active {
+  background-color: #FFD101 !important; /* Amarillo custom */
+}
+
+.footnotes{
+  font-size: .9rem;
+  color: var(--bs-gray-700);
+}
+
+// Custom CSS rules from ALA theme.css
+.clipped {
+  clip-path: circle();
+}
+
+@media screen and (max-width: 952px){
+  .centre-it {
+    margin-left: auto!important;
+    margin-right: auto!important;
+  }
+}
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 10% !important;
+  height: 240px;
+  width: 250px;
+  margin-top: 18px
+}
+
+@media screen and (max-width: 952px){
+  img.rounded {
+    height: 100%;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: .8em!important;
+}
+
+.circle-button {
+  border-radius: 40%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1A2533;
+  padding: 40px;
+  width: 110px;
+  height: 110px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.circle-button:hover {
+  opacity: 0.8;
+}
+
+.fa-solid {
+  color: #E54D23;
+}
+
+.output-scroll {
+  max-height: 500px;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+}
+
+.sidebar-logo {
+  max-width: 100% !important;
+}
+.caja-box {
+  background-color: #add8e6;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 1em;
+}
