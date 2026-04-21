@@ -1,10 +1,6 @@
-**5**
-
-**Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía**
+# Comparativo de incendios forestales en Colombia a través de instrumentos de teledetección: caso de estudio en la región de la Orinoquía
 
 **Daniela Torinjano Jiménez1, Adriana Osorio Mosquera1*& Alejandro Marulanda Tobón2**
-
-# Capítulo 9: C5-LGRD-12-Incendios Orinoquia.VF-2022-09-26
 
 1Facultad de Ingeniería, Tecnológico de Antioquia – Institución Universitaria TdeA. Calle 78b, No. 72A-220, Medellín, Colombia
 
@@ -50,7 +46,7 @@ Dadas las limitaciones expuestas, en los últimos años, se ha propuesto el uso 
 
 :::
 
-## **DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA** 
+## **DETECCIÓN DE ÁREAS QUEMADAS EN LA ORINOQUIA COLOMBIANA**
 
 La Orinoquía (**Fig. 1**), también conocida como Llanos Orientales, es una de las seis regiones naturales de Colombia. Se destaca por su riqueza en recursos naturales, como en reservas de hidrocarburos, siendo esta una de las principales actividades en la región, seguida por el establecimiento de producciones agropecuarias hacia el piedemonte andino . La Orinoquia presenta una gran variedad de climas tropicales, pues la temperatura en la región oscila entre 18 y 36 °C y se generan precipitaciones medias anuales entre 1,500 y 1,900 mm. Domina así una distribución pluvial monomodal, con una época de lluvias de abril a noviembre y una época seca de diciembre a marzo . Su relieve es dominado por llanuras y sabanas con alturas medias de 50 msnm, y donde su única elevación significativa corresponde a la Sierra de la Macarena, localizada en el piedemonte andino sobre el departamento del Meta con 1600 msnm . 
 
@@ -78,7 +74,7 @@ Análisis de focos de calor y áreas quemadas reportadas por el sensor MODIS.
 
 :::
 
-### 2.1 Focos de calor y área quemada detectados a través de MODIS 
+### Focos de calor y área quemada detectados a través de MODIS
 
 Al analizar la suma de anomalías térmicas del día y de la noche en cada uno de los períodos de análisis, se observa que en el primer período se presentó el valor más alto de los focos de calor, con un total de 2,262 focos (**Fig. 2**), este valor es alrededor de tres veces más alto que el reporte obtenido en el segundo período, el cual fue de 791.  
 
@@ -125,7 +121,7 @@ La distribución de la superficie afectada por el fuego en la Orinoquia se da en
 
 ![Imagen Figura4_area_quemadaMODIS.png](media/Figura4_area_quemadaMODIS.png)
 
-### 2.2 	Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel-2
+### Índice Normalizado de área quemada (NBR) a través de imágenes Sentinel 2
 
 La severidad del incendio se puede describir como el grado en que un área ha sido alterada o interrumpida por el fuego . Dicha afectación se calculó a través del índice normalizado de área quemada (NBR) y su clasificación se realizó de acuerdo con los rangos de severidad de incendios propuestos por el Servicio Geológico de los Estados Unidos (USGS) (ver Sección 4. Materiales y métodos). En el área de estudio (**Tabla 2** y **3**, y **Fig. 5**), se observa que para el primer período de análisis los departamentos donde se registró “alta severidad” fueron Arauca y Meta, mientras que para el segundo período fueron Casanare y Meta. Este comportamiento cambia cuando se analizan la clase de “moderada/alta” severidad en la cual en el año 2020 el mayor peso lo tiene el departamento de Vichada que se encuentra colindante con Venezuela, mientras que en el 2021 esta categoría está dominada por el Meta.  
 
@@ -202,15 +198,15 @@ Los estudios científicos sobre incendios en Colombia muestran que desde siglos 
 
 ## **4. MATERIALES Y MÉTODOS**
 
-### A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel-2. 
+### A continuación, se describe la metodología para la identificación de áreas quemadas iniciando por la obtención de datos a través de MODIS y Sentinel 2.
 
-### 4.1 Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)
+### Descarga focos de calor o anomalías térmicas del sensor MODIS (hotspots)
 
 Los focos de calor o anomalías térmicas (hotspots) del sensor MODIS se descargaron a través de la plataforma FIRMS (Fire Information for Resource Management System).  
 
 Esta información, se descargó en formato shapefile para el período comprendido entre diciembre de 2019 a junio de 2020 y diciembre de 2020 a junio de 2021. Los datos se filtraron con un nivel de confiabilidad igual o superior al 90%, de acuerdo con la metodología empleada por . El procesamiento de la información se hizo a través del software ArcGis 10.5 y QGis 3.12.
 
-### 4.2 Descarga del área quemada por el sensor MODIS
+### Descarga del área quemada por el sensor MODIS
 
 Se descargó los datos del Land Processes Distributed Active Archive Center (LP-DAAC) de la Universidad de Maryland, disponible para su descarga en formato HDF, GeoTIFF o Shapefile de la colección 6 de MODIS de áreas quemada a través del enlace: . 
 
@@ -224,7 +220,7 @@ Se descargó la información de la ventana 5 en formato shapefile (**Fig. 6**), 
 
 ![Imagen Figura6_Ventanas_AQModis.png](media/Figura6_Ventanas_AQModis.png)
 
-### 4.3 Análisis de incendios a partir de imágenes de Sentinel-2
+### Análisis de incendios a partir de imágenes de Sentinel 2
 
 El procesamiento, el desarrollo de algoritmos y el cálculo de las áreas en donde hubo cambios en la vegetación se realizó a través de la plataforma Google Earth Engine (GEE) basada en la nube que permite para realizar análisis científicos y visualización de datos geoespaciales de gran tamaño a escala planetaria.
 
@@ -238,7 +234,7 @@ Con el análisis de los focos de calor, se definió el mes de diciembre como un 
 | Sentinel -2 | 28/12/2019-5/01/2020 | 89 | 20/04/2020- 30/04/2020 | 127 | NIR 10 m, borde rojo y SWIR  20 m y bandas atmosféricas a 60 m |
 | Sentinel -2 | 1/12/2020-31/12/2020 | 6 | 01/04/2020- 30/04/2020 | 12 | NIR 10 m, borde rojo y SWIR  20 m y bandas atmosféricas a 60 m |
 
-### 4.3.1 Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel-2
+### Cálculo del índice normalizado de área quemada (NBR) a partir de Sentinel 2
 
 Se calculó el NBR para las imágenes Sentinel 2, con una resolución de 30 m, el cual estima el área quemada por clase de gravedad. Para este proceso, se siguió la metodología descrita a continuación. 
 

@@ -144,6 +144,23 @@ def limpiar_nombre_archivo(texto):
     limpio = re.sub(r'[^\w\s-]', '', texto).strip()
     return re.sub(r'[-\s]+', '-', limpio).lower()[:45]
 
+def limpiar_titulo(texto):
+    """
+    Limpia el título eliminando prefijos de códigos, números iniciales y guiones.
+    """
+    # 1. Quitar extensiones si existen
+    texto = re.sub(r'\.docx$', '', texto, flags=re.IGNORECASE)
+    # 2. Quitar códigos de carpeta/archivo como C01, LGRD-14, VF-2022...
+    texto = re.sub(r'(?i)\b(C\d+|LGRD-?\d+|VF-?\d{4}-\d{2}-\d{2})\b', '', texto)
+    # 3. Quitar numeración inicial (ej: "1. ", "2.1-", "1 ")
+    # Quitamos números, puntos, guiones y espacios al inicio
+    texto = re.sub(r'^[\d\.\-\s]+', '', texto)
+    # 4. Reemplazar guiones y guiones bajos por espacios
+    texto = texto.replace('-', ' ').replace('_', ' ')
+    # 5. Limpiar espacios múltiples y extremos
+    texto = re.sub(r'\s+', ' ', texto).strip()
+    return texto
+
 def generar_yaml(dir_salida, lista_archivos):
     ruta_yaml = os.path.join(dir_salida, '_quarto.yml')
     with open(ruta_yaml, 'w', encoding='utf-8') as f:
@@ -212,11 +229,26 @@ def procesar_directorio(dir_maestro, dir_salida):
         print(f"Error al leer el directorio base: {e}")
         return
 
-    capitulo_num = 1
+    # Usaremos el número de carpeta para el nombre de los QMD para mantener el orden
+    # pero el contador global se usará solo si no se encuentra número en la carpeta
+    contador_respaldo = 1
     
     for carpeta in subcarpetas:
         ruta_carpeta = os.path.join(dir_maestro, carpeta)
         print(f"\n--- Procesando carpeta: {carpeta} ---")
+
+        # Detectar si es un capítulo numerado (C01, C02...) o preliminar (C0)
+        match_cap = re.search(r'C(\d+)', carpeta, re.IGNORECASE)
+        num_carpeta_int = int(match_cap.group(1)) if match_cap else None
+        
+        prefijo_titulo = ""
+        # Solo poner "Capítulo X" si el número es mayor a 0
+        if num_carpeta_int is not None and num_carpeta_int > 0:
+            prefijo_titulo = f"Capítulo {num_carpeta_int}: "
+            num_orden = num_carpeta_int
+        else:
+            num_orden = 0 if num_carpeta_int == 0 else contador_respaldo
+            contador_respaldo += 1
         
         archivos_docx = [f for f in os.listdir(ruta_carpeta) if f.lower().endswith('.docx') and not f.startswith('~')]
         archivos_docx.sort()
@@ -242,17 +274,41 @@ def procesar_directorio(dir_maestro, dir_salida):
             print(f"  Procesando documento: {docx_file}")
             
             nombre_limpio = limpiar_nombre_archivo(docx_file.replace('.docx', ''))
-            # Se usa el numero de capítulo para ordenar los QMD generados
-            nom_qmd = f"{capitulo_num:02d}-{nombre_limpio}.qmd"
+            # Se usa el numero de capítulo (o el de respaldo) para ordenar los QMD generados
+            nom_qmd = f"{num_orden:02d}-{nombre_limpio}.qmd"
             ruta_qmd = os.path.join(dir_salida, nom_qmd)
             lista_archivos_qmd.append(nom_qmd)
             
             with open(ruta_qmd, 'w', encoding='utf-8') as archivo_actual:
-                titulo_capitulo = docx_file.replace('.docx', '')
-                titulo_encontrado = False
+                doc = docx.Document(ruta_docx)
+                
+                # --- PRE-EXTRACCIÓN DEL TÍTULO REAL ---
+                titulo_real = ""
+                textos_a_omitir = []
+                for p in doc.paragraphs:
+                    txt = p.text.strip()
+                    if not txt: continue
+                    # Si es solo un número o algo como "1.", lo omitimos del cuerpo
+                    if re.match(r'^[\d\.]+$', txt):
+                        textos_a_omitir.append(txt)
+                        continue
+                    # El primer párrafo con texto sustancial es nuestro título
+                    if len(txt) > 10:
+                        titulo_real = txt
+                        textos_a_omitir.append(txt)
+                        break
+                
+                if not titulo_real:
+                    titulo_real = docx_file.replace('.docx', '')
+                
+                titulo_final = limpiar_titulo(titulo_real)
+                # Las preliminares (num_orden == 0) van sin número
+                sufijo_unnumbered = " {.unnumbered}" if num_orden == 0 else ""
+                
+                # Escribir el título principal (quitamos el prefijo "Capítulo X" a pedido del usuario)
+                archivo_actual.write(f"# {titulo_final}{sufijo_unnumbered}\n\n")
                 
                 try:
-                    doc = docx.Document(ruta_docx)
                     for block in iter_block_items(doc):
                         if isinstance(block, Table):
                             archivo_actual.write(tabla_a_markdown(block))
@@ -261,6 +317,11 @@ def procesar_directorio(dir_maestro, dir_salida):
                         parrafo = block
                         texto_base = parrafo.text.strip()
                         
+                        # Omitir los textos que ya usamos para el título o que son numeración suelta al inicio
+                        if textos_a_omitir and texto_base in textos_a_omitir:
+                            textos_a_omitir.remove(texto_base)
+                            continue
+
                         # Extraer imagenes integradas como fallback en caso de no venir en PDF
                         imagenes_md = extraer_imagenes_del_parrafo(parrafo, doc.part, dir_media)
                         texto_md = extraer_texto_integrado(parrafo)
@@ -273,25 +334,12 @@ def procesar_directorio(dir_maestro, dir_salida):
                         
                         estilo = parrafo.style.name.lower() if parrafo.style else ''
                         
-                        # Manejo del título del capítulo
-                        if not titulo_encontrado:
-                            if 'heading 1' in estilo or 'título 1' in estilo or texto_limpio.startswith('# '):
-                                texto_titulo = texto_limpio.lstrip('#* \t')
-                                # Remover numero inicial si lo tiene para evitar redundancia
-                                texto_titulo = re.sub(r'^[\d\.\-\s]*', '', texto_titulo)
-                                archivo_actual.write(f"# Capítulo {capitulo_num}: {texto_titulo}\n\n")
-                                titulo_encontrado = True
-                                continue
-                            elif texto_limpio and not texto_limpio.startswith('**') and len(texto_limpio) > 20:
-                                archivo_actual.write(f"# Capítulo {capitulo_num}: {titulo_capitulo}\n\n")
-                                titulo_encontrado = True
-                                # No hacer continue para que se imprima este párrafo abajo
-                        
-                        # Estilos de encabezado
+                        # Manejo de encabezados secundarios
                         if 'heading 1' in estilo or 'título 1' in estilo:
-                            archivo_actual.write(f"## {texto_limpio}\n\n")
+                            # Si por casualidad hay otro Heading 1, lo bajamos de nivel o lo mantenemos como ##
+                            archivo_actual.write(f"## {limpiar_titulo(texto_limpio)}\n\n")
                         elif 'heading 2' in estilo or 'título 2' in estilo:
-                            archivo_actual.write(f"### {texto_limpio}\n\n")
+                            archivo_actual.write(f"### {limpiar_titulo(texto_limpio)}\n\n")
                         else:
                             # Heurística para detectar subtítulos que los autores pusieron en negrita en vez de estilo 'Heading'
                             match_falso_encabezado = re.match(r'^\*\*([^\*]+)\*\*$', texto_limpio.strip())
@@ -323,14 +371,9 @@ def procesar_directorio(dir_maestro, dir_salida):
                                     break
                             if png_to_remove:
                                 pngs_del_capitulo.remove(png_to_remove)
-                                
-                        # if imagenes_md:
-                        #     archivo_actual.write(imagenes_md)
                 
                 except Exception as e:
                     print(f"  Error procesando {docx_file}: {e}")
-
-            capitulo_num += 1
 
         # 3. Anexar las imágenes originales convertidas desde PDF (Alta Calidad) al final del último docx del capítulo
         # Comentado por solicitud para no listar las imágenes al final

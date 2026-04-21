@@ -1,10 +1,6 @@
-**14**
-
-**Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia**
+# Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia
 
 **Olga Alicia Nieto Cárdenas1**
-
-# Capítulo 18: C14-LGRD-03-Gestión del riesgo en salud-VF-V4-2022-17-08
 
 1Programa de Medicina. Facultad de Ciencias de la Salud. Universidad del Quindío. Carrera 15 calle 12 Norte. Armenia, Quindío, Colombia. Correo-e: oanieto@uniquindio.edu.co
 
@@ -58,11 +54,11 @@ En el aseguramiento en salud se define el sistema de administración de riesgos 
 
 Más recientemente el SGSSS llega al concepto de rutas integrales de atención en salud con el objetivo de integrar a todos los actores del sistema para una adecuada gestión del riesgo en salud [8], en desarrollo de la Política de Atención Integral en Salud (PAIS) y de modelos de atención integral (MIAS) [9,10].
 
-### 1.2. Marco conceptual sobre la gestión del riesgo en salud en situación de desastres
+### Marco conceptual sobre la gestión del riesgo en salud en situación de desastres
 
 Según la Ley 1523 de 2012 la Gestión del Riesgo de Desastre “es un proceso social orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas e instrumentos, medidas y acciones para el conocimiento y reducción del riesgo y para el manejo de desastres con el propósito explícito de contribuir a la seguridad y el bienestar de las personas, la calidad de vida y al desarrollo sostenible” [11].  La Ley 1523 de 2012 generó un marco conceptual y normativo que ha permitido el desarrollo de una política de Gestión del Riesgo de Desastres en Colombia, en la cual todos los actores son partícipes y juegan roles complementarios en diferentes momentos, situación especialmente relevante para el sector salud.
 
-### 1.3	El marco normativo 
+### El marco normativo
 
 **El marco normativo vigente en Colombia.** Al mirar retrospectivamente se puede pensar que Ley 1523 de 2012 es el único marco normativo en Colombia sobre este tema; sin embargo, la gestión del riesgo en el sector Salud tiene unas especificidades importantes a partir de la Constitución Política de 1991 [12], como puede verse en la Caja 1 [13].
 
@@ -82,7 +78,7 @@ Según la Ley 1523 de 2012 la Gestión del Riesgo de Desastre “es un proceso s
 
 El marco de Sendai para la Reducción del Riesgo de Desastres 2015–2030 retoma el concepto de resiliencia como la capacidad y necesidad de adaptarse y gestionar el riesgo en situaciones de desastre y propone cuatro prioridades de acción: comprender el riesgo de desastres, fortalecer la gobernanza, invertir en la reducción del riesgo de desastres para la resiliencia, y aumentar la preparación a fin de dar una respuesta eficaz [14].
 
-### 1.4	Las prioridades en salud pública en situación de desastre
+### Las prioridades en salud pública en situación de desastre
 
 Según Noji [16], los desastres se pueden considerar un problema de salud pública por varias razones (ver **Caja 3**). El concepto de gestión de riesgo en situación de desastre puede parecer en principio contradictorio porque frente a una situación de una magnitud tal que supera los mecanismos de prevención y control, lo primero que se hace es atender la fase de emergencia: rescatar a los lesionados, atender a los heridos, recoger los cadáveres. 
 

@@ -1,10 +1,6 @@
-**13**
-
-**Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema**
+# Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema
 
 **Yamile Valencia-González1*, José Camapum de Carvalho2 & Luis Augusto Lara-Valencia3**
-
-# Capítulo 17: C13-LGRD-10-BIOTRATAMIENTO-SUELO-QUEMA-19-09-2022
 
 Doctora en Geotecnia, Profesora Asociada, Universidad Nacional de Colombia Sede Medellín, Colombia.
 
@@ -28,7 +24,7 @@ By experiencing significant climatic variability, tropical soils are exposed to 
 
 **Keywords:** Biotechnology, degraded soils, soil recovery
 
-## 1. INTRODUCCIÓN
+## INTRODUCCIÓN
 
 En las regiones tropicales, los incendios forestales son un tema que gana relevancia debido a las fuertes temporadas cálidas que se han experimentado en los últimos años, que perjudican la diversidad y estabilidad de los ecosistemas forestales [1]. Colombia no es ajena a ello, pues las temporadas cálidas que se presentan de forma intensa a lo largo del año han aumentado la probabilidad de ocurrencia de este tipo de fenómenos, tanto que aproximadamente el 29% de las tierras del país son altamente susceptibles a incendios forestales [2]. Los suelos como componente fundamental de los ecosistemas terrestres, al exponerse a altas temperaturas pueden llegar a sufrir variaciones importantes en sus propiedades químicas, mineralógicas y físicas, y finalmente afectar el comportamiento hidromecánico [3]. La gran mayoría de los estudios relacionados con el tema, abordan principalmente las alteraciones que presenta la cobertura vegetal, pero son escasas las investigaciones orientadas a analizar la influencia de los incendios forestales sobre las propiedades y comportamiento geotécnico de las capas de suelo, y en especial sobre la posibilidad de reducir los riesgos asociados a la degradación del material, a partir del uso de biotecnología como técnica de recuperación o estabilización de los materiales [4].  
 
@@ -42,7 +38,7 @@ El actual capítulo tiene como objetivo presentar una propuesta para restablecer
 
 :::
 
-## 2. MÉTODOS
+## MÉTODOS
 
 Para el caso de estudio, la extracción del material se efectuó en la ciudad de Medellín-Antioquia (Colombia), en el Cerro el Volador con coordenadas 6◦16’6.62” N y 75◦34’ 51.19” O, con 1598 m de elevación, a una profundidad de 0.5 m de la superficie de un talud. La geología de la zona se compone de rocas metamórficas, tipo anfibolitas de la margen occidental del río Medellín, las cuales se constituyen esencialmente por hornblenda y plagioclasa [11]. Se tomaron aproximadamente 10 kg de suelo alterado y se distribuyeron en igual proporción en dos bolsas plásticas, las cuales se sellaron bien para posteriormente determinar en laboratorio el contenido de humedad de las muestras [12] y realizar pruebas de compactación Proctor estándar [13]. Éstos ensayos se ejecutaron tres veces para garantizar la repetibilidad de los mismos. 
 
@@ -62,7 +58,7 @@ Todos los cuerpos de prueba llevados al horno, tanto aquellos sin adición del m
 
 En el suelo denominado “quemado” que corresponde a aquel expuesto únicamente a quema en el horno, y en el denominado “quemado-tratado” como el expuesto a quema en el horno y posterior tratamiento con el medio B4, se realizaron ensayos de caracterización física, química y mecánica. Para ello, se determinaron el contenido de humedad [12], la gravedad específica de los sólidos [19], los límites de Atterberg [20], la granulometría por láser (apoyados en [21] sin el uso de defloculante (SD), con defloculante (CD), sin ultrason (SU) y con ultrason (CU)), la clasificación según el Sistema Unificado de Clasificación de Suelos (S.U.C.S.) [22], y la clasificación Miniatura Compactada Tropical-Expedita (MCT) [23]. De igual forma, se obtuvieron el pH en H2O y KCl [24], y la mineralogía por difracción de rayos X (DRX). Adicionalmente, se tomaron imágenes con lupa electrónica de luz natural y se ejecutaron ensayos de corte directo consolidado drenado [25], *pinhole test* [26], desagregación (basados en *Crumb test*, [27]) y consolidación duplo-edométrica [28]. Cada experimento se replicó mínimo tres veces tanto para las muestras quemadas, como para muestras quemadas-tratadas, para un total de 102 ensayos, permitiendo una adecuada evaluación de las propiedades y comportamiento geotécnico de los materiales.
 
-## 3. DISCUSIÓN
+## DISCUSIÓN
 
 A continuación, se presentan los resultados y análisis referentes a las caracterizaciones físicas, mineralógicas, químicas y mecánicas de las muestras quemadas y quemadas-tratadas, haciendo en algunos casos, una comparación con el suelo en estado natural (suelo compactado sin ser sometido a quema y a tratamiento) [29]. Los resultados se estudian en conjunto para verificar si hubo cambios significativos en el comportamiento del material producto del tratamiento.
 
@@ -236,7 +232,7 @@ Luis Augusto Lara Valencia
 
 ## BIBLIOGRAFÍA
 
-## Wright, H. A.; Bailey, A. W. (1982). *Fire ecology.* United States and southern Canada. New York: John Wiley and Sons. 
+## Wright, H. A.; Bailey, A. W. (1982). *Fire ecology.* United States and southern Canada. New York: John Wiley and Sons.
 
 IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2015).  *Estudio nacional de la degradación de suelos en Colombia*. Bogotá. 
 
@@ -276,7 +272,7 @@ ASTM. (2010). *Standard test methods for specific gravity of soil solids by wate
 
 ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasticity index of soils’*. (The American Society for Testing and Materials). ASTM Work Item D4318
 
-## ASTM (American Society for Testing and Materials). (2007). *Standard Test Method for Particle-Size Analysis of Soils*. ASTM Work Item D422
+## ASTM (American Society for Testing and Materials). (2007). *Standard Test Method for Particle Size Analysis of Soils*. ASTM Work Item D422
 
 ## ASTM (American Society for Testing and Materials). (2017*). Standard Practice for Classification of Soils for Engineering Purposes*. ASTM Work Item D2487
 
@@ -292,19 +288,19 @@ ASTM. (2017). *Standard test methods for liquid limit, plastic limit, and plasti
 
 ## ASTM (American Society for Testing and Materials). (2010). *Standard test method for measurement of soil potential (Suction) using filter paper*. ASTM Work Item D5298
 
-## Diaz, J., Valencia, Y. Camapum de carvalho, J. (2021). Validación de una metodología para obtener la envolvente de ruptura al esfuerzo cortante en suelos no saturados compactados. *Entramado*, *17*(1), 290–301. 
+## Diaz, J., Valencia, Y. Camapum de carvalho, J. (2021). Validación de una metodología para obtener la envolvente de ruptura al esfuerzo cortante en suelos no saturados compactados. *Entramado*, *17*(1), 290–301.
 
-## Grim, R. E. (1962). *Applied Clay Mineralogy.* McGraw Hill, New York. 
+## Grim, R. E. (1962). *Applied Clay Mineralogy.* McGraw Hill, New York.
 
-## Santos, P. (1975). *Tecnologia de argilas aplicada às argilas brasileiras, v. 1 Fundamento*s.  Edgard Blucher ltda, Universidade de São Paulo.
+## Santos, P. (1975). *Tecnologia de argilas aplicada às argilas brasileiras, v. 1 Fundamento*s. Edgard Blucher ltda, Universidade de São Paulo.
 
 ## Muñoz, J. (2019). *Estudio de la variación de los parámetros mecánicos de un talud de suelo residual tropical a través de la aplicación en laboratorio de un nutriente precipitador de carbonato de calcio sobre sus bacterias nativas*. [Tesis de Maestría. Universidad Nacional de Colombia]
 
-## Camapum de Carvalho, J., Rezende, L., Cardoso, F., Lêda C. de F.L., Renato C. Guimarães, Valencia, Y. (2015). Tropical Soils for Highway Construction: Peculiarities and Considerations. *Transportation Geotechnics, 5*, 3–19. 
+## Camapum de Carvalho, J., Rezende, L., Cardoso, F., Lêda C. de F.L., Renato C. Guimarães, Valencia, Y. (2015). Tropical Soils for Highway Construction: Peculiarities and Considerations. *Transportation Geotechnics, 5*, 3–19.
 
 ## Lavorenti, A., & Alves, M. (2005). Point of zero salt effect: Relationships with Clay Mineralogy of representative Soils of the Sao Paulo State, Brazil. *Pedosphere*, *15* (5), 545–553.
 
 Valencia, Y., Camapum de Carvalho, J., Lara, L. (2015). Influence of biomineralization on a profile of a tropical soil affected by erosive processes. *DYNA*, *82*(192), 221–229. 
 
-## Jennings, J. E. & Knight, K. (1975*). A guide to construction on or with materials exhibiting additional settlement due to “collapse of grain structure*”. Regional Conference for African on Soil Mechanics and Foundation Engineering, Durban, pp. 99-105.
+## Jennings, J. E. & Knight, K. (1975*). A guide to construction on or with materials exhibiting additional settlement due to “collapse of grain structure*”. Regional Conference for African on Soil Mechanics and Foundation Engineering, Durban, pp. 99 105.
 

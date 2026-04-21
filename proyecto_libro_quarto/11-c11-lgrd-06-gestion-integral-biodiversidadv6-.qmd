@@ -1,10 +1,6 @@
-**11**
-
-**La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático** 
+# La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo y el cambio climático
 
 **Dorotea Cardona Hernández1***
-
-# Capítulo 15: C11-LGRD-06-GESTION-INTEGRAL-BIODIVERSIDAD.V6-2022-10-06
 
 1Instituto de investigación de recursos biológicos Alexander von Humboldt. Programa de Gestión Territorial de la Biodiversidad- Línea de Ordenamiento Ambiental y Planificación Territorial. Calle 28a #15-09, Bogotá, Colombia.  Correo-e: dcardona@humboldt.org.co
 
@@ -22,7 +18,7 @@ Disaster risks, especially those exacerbated by climate change, increase daily, 
 
 **Keywords:** Biodiversity, ecosystem services, disaster risk, climate changed, nature-based solutions
 
-## EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA 
+## EL PAPEL TRIPLE PROPÓSITO DE LAS SOLUCIONES BASADAS EN LA NATURALEZA
 
 La gestión integral de la biodiversidad y sus servicios ecosistémicos para la gestión del riesgo de desastres en escenarios exacerbados por el cambio climático es aún incipiente y son escasos los análisis de la relación entre estos [1].
 
@@ -60,7 +56,7 @@ Se resalta el cuidado del ambiente, el cual representa la base natural y donde l
 
 **Figura 1.** Esquema de articulación de políticas públicas colombianas y marcos internacionales relacionados con la biodiversidad y sus servicios ecosistémicos, riesgo de desastres y el cambio climático; donde el bienestar humano, la resiliencia y el cuidado del ambiente se perfilan como elementos emergentes que consolidan la sostenibilidad del territorio, resaltando del cuidado del ambiente la biodiversidad como eje para el desarrollo del enfoque de SbN. Fuente: Elaboración propia
 
-## 2. RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
+## RUTAS ESTRATÉGICAS PARA GESTIONAR EL RIESGO DE DESASTRES Y EL CAMBIO CLIMÁTICO DESDE LA GESTIÓN INTEGRAL DE LA BIODIVERSIDAD Y SERVICIOS ECOSISTÉMICOS
 
 La biodiversidad y sus servicios ecosistémicos como expresión concreta en el territorio (ecosistemas, especies e individuos) consolidan el soporte de desarrollo social, cultural y económico, y a todo esto se denomina socioecosistema [11]. Como resultado de la interacción de las partes del socioecosistema, se evidencian los conflictos socioecológicos, que para el presente capítulo se enmarcan en los escenarios de riesgo de desastre y algunos de ellos exacerbados por el cambio climático.
 
@@ -88,7 +84,7 @@ La BDSE como conjunto para atenuar riesgos e impactos.
 
 ![Imagen LGRD-06-FIGURA_2.png](media/LGRD-06-FIGURA_2.png)
 
-### 2.1  Biodiversidad y servicios ecosistémicos como conjunto vulnerable
+### Biodiversidad y servicios ecosistémicos como conjunto vulnerable
 
 La vulnerabilidad se define como la “susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de afectarse o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que puedan ser afectados por eventos físicos peligrosos” [3]. 
 
@@ -118,7 +114,7 @@ Las acciones que se proponen desde esta ruta buscan primero evitar los motores d
 
 Las siguientes secciones describen dos estudios de caso que refieren resultados del estado de la BDSE tras un desastre y que permiten identificar elementos a tener en cuenta para intervenirlos de manera efectiva y así reducir escenarios de riesgo.
 
-### 2.1.1 Estudios de caso de la biodiversidad y sus servicios ecosistémicos como conjunto vulnerable
+### Estudios de caso de la biodiversidad y sus servicios ecosistémicos como conjunto vulnerable
 
 La BDSE como conjunto vulnerable se configura a partir de la posible ocurrencia de un evento intenso, grave y extendido que altera las capacidades de recuperación natural de los ecosistemas y las poblaciones humanas que se benefician de sus servicios. 
 
@@ -154,7 +150,7 @@ En este escenario, de transformación del ecosistema, la intervención sobre las
 
 En ambos casos, las investigaciones tienen en cuenta elementos bióticos claves, evidentes desde el reconocimiento de la vulnerabilidad ambiental y física de los ecosistemas, que facilitan la toma de decisiones para definir las estrategias de planificación que permitan el restablecimiento de los servicios ecosistémicos.
 
-### 2.2.  Biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos
+### Biodiversidad y sus servicios ecosistémicos como atenuador de riesgos e impactos
 
 Renaud et al. [19] refieren el papel de la biodiversidad y sus servicios ecosistémicos en los escenarios de riesgo y cambio climático ha tomado fuerza y reconocimiento a nivel mundial.  La reducción del riesgo de desastres basada en ecosistemas y adaptación frente al cambio climático (Eco-RRD/ACC) ha promovido la generación de políticas, investigaciones e intervenciones específicas en escenarios que relacionan el riesgo de desastres y la adaptación frente al cambio climático. 
 
@@ -278,7 +274,7 @@ La identificación de la biodiversidad y sus servicios ecosistémicos como atenu
 | RECOMENDACIONES PARA TOMAR DECISIONES Desarrollar estrategias bajo el enfoque de SbN ya que estas acciones articulan propósitos en torno a la gestión del riesgo, el cambio climático, y la protección de la biodiversidad, las cuales al incorporarse en los instrumentos de planificación y ordenamiento ambiental del territorio, facilitan a los entes territoriales y regionales el alcance indicadores mínimos de obligatorio cumplimento desde una misma acción. |
 | --- |
 
-## 5. MATERIALES Y MÉTODOS
+## MATERIALES Y MÉTODOS
 
 Se revisaron sesenta y nueve documentos relacionados con: marcos internacionales, políticas públicas colombianas, estudios de caso, publicaciones científicas relacionadas con los temas de biodiversidad y servicios ecosistémicos, gestión del riesgo de desastres y cambio climático.  
 

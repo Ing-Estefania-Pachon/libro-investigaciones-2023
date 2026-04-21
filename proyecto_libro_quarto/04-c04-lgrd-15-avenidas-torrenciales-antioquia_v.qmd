@@ -1,10 +1,6 @@
-**4**
-
-**Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca**
+# Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca
 
 **Edier Aristizábal 1, Federico Gómez Cardona1*, María Isabel Arango Carmona1**
-
-# Capítulo 8: C04-LGRD-15-AVENIDAS-TORRENCIALES-ANTIOQUIA_VF-2022-09-20
 
 1Departamento de Geociencias y Medio Ambiente. Universidad Nacional de Colombia. Medellín, Antioquia.
 

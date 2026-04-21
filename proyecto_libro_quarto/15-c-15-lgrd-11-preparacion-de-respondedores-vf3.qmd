@@ -1,10 +1,6 @@
-**15**
-
-**Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios** 
+# Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios
 
 **Olga Liliana Pineda López1*, Joan Sebastián Arbeláez Caro1, Luz Stela Quintana Hernández1, Laura Vanessa Corrales Brand2, Valentina Ospina Poveda2 & Carla María Zapata Rueda2**
-
-# Capítulo 19: C-15-LGRD-11-Preparacion de respondedores-VF3-2022-08-17 (1)
 
 1Universidad de San Buenaventura Medellín, extensión Armenia (Quindío). Dirección: Barrio Sesenta Casas, Cra. 23d #4-07, Armenia, Quindío.
 
@@ -92,9 +88,9 @@ Díaz [41] expone particularmente los riesgos psicosociales que afectan la labor
 
 En suma, los bomberos voluntarios son una institución de una relevante importancia dentro de la gestión del riesgo de desastres. La ley 1575 que derivó en su organización como institución, plantea retos organizacionales como lo describe Martínez [42]. Sin embargo, como lo plantea Díaz [41] y también a las pocas investigaciones sobre esta población, se requiere un mejor conocimiento sobre las condiciones de salud mental de los bomberos voluntarios en aras de mejorar los procesos de formación integral. Por tal motivo, el objetivo de la presente investigación es predecir los factores de resiliencia ante eventos estresantes según los estilos de afrontamiento presentes en un grupo de bomberos voluntarios del departamento del Quindío (Colombia).
 
-## MATERIALES Y MÉTODOS 
+## MATERIALES Y MÉTODOS
 
-### Diseño y muestreo 
+### Diseño y muestreo
 
 El presente estudio se desarrolló siguiendo un enfoque cuantitativo (empírico-analítico), de temporalidad transversal, de tipo correlacional con valor predictivo, no experimental. Según lo suguiere Monje [43], las investigaciones que emplean el método descriptivo como enfoque principal, responde a la demarcación y explicación sistemática de las peculiaridades de una población. La población objeto de la investigación fueron los bomberos voluntarios del departamento del Quindío. Los bomberos voluntarios se establecen legalmente según la ley 1575 del año 2012 [14]. La muestra del estudio se eligió mediante un muestreo no probabilístico de tipo intencional. 
 
@@ -104,7 +100,7 @@ Se determinaron como criterios de inclusión la firma del consentimiento informa
 
 La presente investigación contó con el aval del comité de investigaciones y bioético de la Universidad de San Buenaventura Medellín, además el ejercicio de investigación se realizó siguiendo las recomendaciones dispuestas en la Ley 1090 de 2016, Capítulo VII. Se orientó a los participantes en el consentimiento informado que firmaban sobre las consideraciones éticas propias: secreto y buen manejo de la información, derecho a la no participación, derecho a la información, al acompañamiento y respeto por la intimidad. 
 
-### Instrumentos 
+### Instrumentos
 
 Para llevar a cabo los objetivos del presente estudio, se eligieron los siguientes instrumentos de evaluación. 
 
@@ -116,7 +112,7 @@ Escala de estrategias *Coping* modificada (EEC-M) de Londoño et al. [29], con e
 
 Escala de resiliencia (ER), Wagnild y Young [26], escala tipo Likert de 25 reactivos que tiene por objeto identificar el nivel de resiliencia en personas adultas en cinco dimensiones: Satisfacción personal, Ecuanimidad, Sentirse bien solo, Confianza en sí mismo, Perseverancia y satisfacción personal. En un ejercicio de adaptación de la escala a población colombiana se encontró que la escala tiene un α = 0.84 [45]. Según su estructura, no se requiere de una puntuación total, sino por cada una de las estrategias de afrontamiento.
 
-### Procedimiento 
+### Procedimiento
 
 Una vez se eligieron los modelos teóricos, se procedió a buscar antecedentes enfatizando en los instrumentos de medición. Luego, se hizo la elección y estudio piloto de cada uno de los instrumentos y de la encuesta de caracterización con el equipo de investigación. Se realizó un convenio temporal entre la Universidad de San Buenaventura Medellín, extensión Armenia y los Bomberos Voluntarios del departamento del Quindío gracias al equipo de comandantes en cabeza del capitán departamental. A continuación, se presentaron los instrumentos y convenios, así como el consentimiento informado al comité de bioética de la Universidad de San Buenaventura Medellín, con su aprobación, se gestionó un cronograma en cada una de las estaciones del departamento. La aplicación de las escalas se realizó presencial, la ficha de caracterización y entrevista de tamizaje cognitivo se realizó de manera individual, el ejercicio de recolección de la información tomaba 2 horas aproximadamente en cada estación. En total, el trabajo de campo duró 3 meses, entre mayo a julio de 2019. 
 
@@ -128,7 +124,7 @@ A continuación, se usó un modelo de análisis de varianza (MANOVA) para contra
 
 Por último, se realizó una regresión lineal múltiple y se probaron sus supuestos de no multicolinealidad y linealidad. Las variables criterios fueron los diferentes factores de resiliencia (satisfacción personal, ecuanimidad, sentirse bien solo, confianza en sí mismo, perseverancia y satisfacción personal) y las variables predictoras fueron las estrategias de afrontamiento (solución de problemas, apoyo social, espera, religión, evitación emocional, búsqueda de apoyo profesional, reacción agresiva, evitación cognitiva, expresión de la dificultad de afrontamiento, reevaluación positiva, negación y autonomía.). Cada uno de los factores de resiliencia fue un modelo independiente y se usó en todos como método de entrada: “introducir”. Se exponen en los resultados los modelos significativos según el ANOVA *p* < .05. 
 
-## RESULTADOS 
+## RESULTADOS
 
 La muestra se compuso por un total de 35 sujetos entre quienes la edad promedio fue de 44 años (DT = 15.55), la edad máxima del grupo de encuestados fue de 69 años y la mínima de 18 años. En promedio, el estrato socioeconómico es de 1.8 (DT = 0.822), el estrato máximo registrado en los sujetos de estudio es 4 puntos y el mínimo 1. Los encuestados reportan en promedio, pertenecen a bomberos hace 126.21 meses (DT = 133.64). Esto significa que en promedio pertenecen a bomberos hace 10.5 años, de ellos el máximo de pertenencia reportado es de 438 meses o 36 años. En la **Tabla 1** se indican las frecuencias de las demás respuestas a la entrevista de caracterización. 
 
@@ -256,7 +252,7 @@ Por último, se realizó un análisis de probabilidad, en el cual se trató de i
 
 R²= valor de r cuadrada; D-W= Durbin-Watson; β= Índice beta; *p*= significación. 
 
-## DISCUSIÓN 
+## DISCUSIÓN
 
 El objetivo del estudio fue predecir los factores de resiliencia ante eventos estresantes según los estilos de afrontamiento presentes en un grupo de bomberos voluntarios del departamento del Quindío (Colombia). La discusión versará sobre el análisis de los hallazgos acerca de las variables de estudio. 
 
@@ -314,7 +310,7 @@ Valentina Ospina Poveda
 
 Carla María Zapata Rueda 		
 
-## BIBLIOGRAFÍA 
+## BIBLIOGRAFÍA
 
 Gaviria, W., & Zambrano, L. A. (2018). Hacia una psicología social en la gestión del riesgo de desastres. *Tempus Psicológico, 2(*1), 108-128. https://doi.org/10.30554/tempuspsi.1.2.2569.2019
 

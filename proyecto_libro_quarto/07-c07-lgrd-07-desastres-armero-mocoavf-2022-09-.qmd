@@ -1,10 +1,6 @@
-**7**
-
-**Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo** ***Pressure and Release*** 
+# Análisis de los desastres de Armero 1985 y Mocoa 2017 en Colombia utilizando el modelo Pressure and Release
 
 **Diana M. Rodríguez-Coca1, Julián Alberto Espejo-Díaz2* & William J. Guerrero2**
-
-# Capítulo 11: C07-LGRD-07-DESASTRES-ARMERO-MOCOA.VF-2022-09-20
 
 1College of Engineering, Architecture and Technology Oklahoma State University, 520 Engineering North, Stillwater OK, 74078-5061, United States
 

@@ -1,10 +1,6 @@
-**1**
-
-**Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá**
+# Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá
 
 **Rafael Fernández1*, Manuel Rodríguez Susa2, Mildred Lemus2, Iván Alejandro Giraldo2, Lina Porras2, Juliana Martínez2, Juan Sebastián Echeverry1, Carlos Oliveros1, Juan Carlos Reyes1, Nubia León3 & Diego Gutiérrez3**
-
-# Capítulo 5: C01-LGRD-14-Calidad-Agua-VF-2022-08-17
 
 1Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes. Bogotá, Colombia
 
@@ -195,7 +191,7 @@ Este indicador de riesgo puede utilizarse para priorizar los eventos y los compo
 
 El análisis integral del riesgo de la calidad del agua, según como lo especifica la guía técnica de la Organización Mundial de la Salud , y como se indicó anteriormente, requiere la identificación detallada y exhaustiva de los posibles fenómenos y factores que representan una posible afectación en la calidad del agua de un sistema de agua potable. Para esto es importante identificar los diferentes tipos de amenazas que afectan al sistema, los componentes críticos del sistema, la vulnerabilidad de estos y la manera como estos se relacionan. Teniendo en cuenta todas las posibles relaciones, se realizó una mesa de trabajo multidisciplinario entre expertos en calidad del agua, sistemas hidrológicos e hidráulicos y expertos en la evaluación del riesgo físico en infraestructura. El objetivo de las reuniones entre expertos fue la definición de las posibles amenazas y parámetros a considerar en cada componente del sistema. Teniendo en cuenta lo anterior, en las siguientes secciones se presenta una descripción de cada uno de estos componentes y de su aplicación en el caso de estudio del sistema de acueducto de la ciudad de Bogotá, Colombia.
 
-### Exposición 
+### Exposición
 
 La información utilizada para el modelo de exposición se obtuvo principalmente de la EAAB-ESP, sin embargo esta información fue complementada según cada caso con datos oficiales disponibles en línea de entidades como la Infraestructura de Datos Espaciales Regional (IDER) de la Gobernación de Cundinamarca, el Instituto Geográfico Agustín Codazzi (IGAC), el Instituto Nacional de Vías (INVIAS) y el centro de Mapas y Estadísticas de Cundinamarca. En particular, para el caso del sistema de acueducto de Bogotá se cuenta con tres sistemas principales de recolección y suministro de agua:
 
@@ -213,7 +209,7 @@ Cada sistema puede subdividirse en diferentes componentes. Estos componentes pri
 
 **Figura 3.** Modelo de exposición completo. Fuente: Construcción propia
 
-### Amenaza 
+### Amenaza
 
 El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas. 
 
@@ -262,7 +258,7 @@ La amenaza minera fue desarrollada a partir de la identificación de los terreno
 
 Figura . Mapas de amenaza de origen antrópico.
 
-### Vulnerabilidad  
+### Vulnerabilidad
 
 La vulnerabilidad corresponde a la predisposición de cada componente a sufrir daño y/o a generar impacto en la calidad del agua ante cada uno de los eventos de amenaza y dependerá de los siguientes aspectos:
 

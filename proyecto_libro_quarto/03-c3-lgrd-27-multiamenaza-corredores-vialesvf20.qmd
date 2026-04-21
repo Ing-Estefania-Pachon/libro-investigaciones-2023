@@ -1,10 +1,6 @@
-**3**
-
-**Metodología para captura de datos y caracterización en estudios de valoración cualitativa multiamenaza en corredores viales apoyada en TIC**
+# Metodología para captura de datos y caracterización en estudios de valoración cualitativa multiamenaza en corredores viales apoyada en TIC
 
 **Alejandro Franco Rojas*, Álvaro Rodríguez Páez, Sandra Yanet Velazco Flórez, Juan Pablo Londoño Linares & Orlando Rincón Arango**
-
-# Capítulo 7: C3-LGRD-27-MULTIAMENAZA-CORREDORES-VIALES.VF.2022-10-04
 
 Programa de Ingeniería Civil, Facultad de Ingeniería, Universidad de La Salle. Carrera 2 No. 10 – 70, Bogotá, Colombia
 
@@ -46,7 +42,7 @@ El considerar una aproximación combinada entre remoción e inundación no obede
 
 El objetivo del presente capitulo es presentar el avance y resultados obtenidos en el desarrollo de una metodología para la estimación cualitativa de multiamenaza (movimientos en masa, e inundación) soportada en herramientas TICs para corredores viales a cargo del Instituto Nacional de Vías.
 
-## CONCEPTOS GENERALES 
+## CONCEPTOS GENERALES
 
 La Política Nacional de Gestión del Riesgo de Desastres (Ley 1523 de 2012) establece los lineamientos y procesos a seguir para avanzar en el conocimiento y reducción del riesgo y en el manejo de los desastres [4], constituyendo el marco de referencia para las instituciones públicas, privadas y las personas en general (ver **Caja 2**).
 
@@ -60,7 +56,7 @@ En el marco de esta normativa, para realizar una adecuada recolección y caracte
 
 Por su parte el Decreto 1807 de 2014, define las condiciones, escalas, especificaciones e insumos para incorporar de manera gradual la gestión del riesgo en los planes de ordenamiento territorial municipal y distrital, con énfasis en movimientos en masa, inundaciones y avenidas torrenciales. Como resultado el país ha avanzado en su aplicación, especialmente en entornos urbanos caracterizados espacialmente por su homogeneidad, densidad y ocupación zonal; sin embargo, muchos de los criterios y métodos aplicables a escala municipal no resultan apropiados para una infraestructura vial, caracterizada por ser un elemento lineal, poco denso, disperso y heterogéneo, razón por la cual se debe partir del reconocimiento de esta infraestructura como el elemento expuesto, considerando sus variables y condiciones particulares.
 
-### Corredor vial como elemento expuesto 
+### Corredor vial como elemento expuesto
 
 Para recolectar datos y valorar la amenaza y vulnerabilidad física se requieren determinar no solo los elementos que conforman el corredor vial que no se limitan a la calzada y superficie de rodadura. Por el contrario, deben incluirse los taludes adyacentes, las obras de estabilización, las obras de drenaje, puentes, bermas y las distintas capas localizadas sobre la subrasante (**Fig. 2**). 
 
@@ -82,7 +78,7 @@ Los elementos asociados al manejo de eventos amenazantes sobre la vía se agrupa
 
 Una vez establecida la exposición del elemento, se seleccionan los fenómenos amenazantes a estudiar, en este caso los eventos por movimiento de masas, las inundaciones, y estado físico de la vía, que en conjunto permiten valorar si existe la probabilidad de afectación sobre la estructura inspeccionada, así como determinar el grado de exposición por la manifestación de una amenaza [3].
 
-## PROPUESTA METODOLÓGICA PARA EL DESARROLLO DE LA APLICACIÓN  
+## PROPUESTA METODOLÓGICA PARA EL DESARROLLO DE LA APLICACIÓN
 
 El instrumento de recolección de datos de la infraestructura vial debe aportar a unificar los criterios y parámetros a registrar, a su correcta georreferenciación y análisis espacial. Para lograrlo se desarrolló una propuesta metodológica de ocho etapas. 
 
@@ -116,7 +112,7 @@ Una característica transversal en todo el proceso de construcción de una metod
 
 **Octava etapa:** una vez se contó con el instrumento refinado fue posible realizar la captura sistemática de información en campo en 635 km de corredores viales de la territorial Boyacá (Zipaquirá-Barbosa, Páez-Puerto Boyacá y Sogamoso-Pajarito) de los cuales se presentarán algunos resultados a lo largo del documento a manera de ejemplo, para su posterior evaluación y análisis de datos para la presentación de resultados a través de mapas georreferenciados y estadísticas que dan cuenta de las condiciones de cada corredor vial en términos de amenaza y vulnerabilidad. 
 
-## AMENAZA POR MOVIMIENTOS EN MASA  
+## AMENAZA POR MOVIMIENTOS EN MASA
 
 El fundamento conceptual de la aproximación metodológica para la determinación de la amenaza por movimientos en masa se basa en desarrollos previos generados a nivel internacional y que han sido apropiados y traídos a la realidad del contexto nacional por las guías metodológicas propuestas por el SCG [13–15]. Los métodos definidos para la evaluación de la amenaza a diferentes escalas y para diferentes elementos de infraestructura se seleccionaron con la colaboración de la comunidad académica y actores relevantes en el contexto nacional en el área de la gestión del riesgo. Así pues, en el sentido de no redundar en lo ya tratado ampliamente en estos estupendos documentos en lo referente a la determinación de amenaza por movimientos en masa, omitiremos las definiciones básicas. Sin embargo, se invita al lector a revisarlas con detalle si es de su interés en las referencias antes mencionadas, lo anterior nos permite presentar de una forma más eficaz los planteamientos y mejoras realizados dentro de esta investigación. Así pues, en lo referente a movimientos en masa solo se retoman de forma algunos conceptos claves para permitir entender la propuesta metodológica desarrollada.
 
@@ -150,7 +146,7 @@ El formato original para levantamiento de información se desarrolló en Excel (
 
 **Figura 9.** Formato para levantamiento de elementos viales que aportan a la valoración de movimientos en masa.
 
-## AMENAZA POR INUNDACIÓN  
+## AMENAZA POR INUNDACIÓN
 
 La diversidad climática del país en combinación con paisajes contrastantes como son las cordilleras, las planicies aluviales, altiplanos y llanuras, implica que algunas zonas se exponen a inundaciones asociadas a lluvias cortas e intensas que dan lugar a eventos torrenciales. También se exponen a inundaciones prolongadas y de baja velocidad asociadas a lluvias persistentes y generalizadas sobre grandes áreas tributarias. Aunado a ello, la incidencia de fenómenos de variabilidad climática en la escala interanual, según su severidad pueden inhibir o fortalecer las precipitaciones acordes a la intensidad del Fenómeno de Niño o Niña, especialmente en las regiones Andina, Caribe y Pacífica.
 
@@ -187,7 +183,7 @@ Para garantizar una adecuada aplicación de la metodología es necesario conside
 
 **Figura 11.** Rúbrica para valoración de susceptibilidad a inundación de obras de drenaje puntual (alcantarillas, box culver, puentes y pontones) según su estado de conservación. Nota: La valoración de las obras de drenaje a escala local puede aumentar o mitigar la amenaza ante inundaciones. Para su correcta aplicación es necesario el diseño de formatos para registro de información, y protocolos de inspección visual de las obras.
 
-## VULNERABILIDAD FÍSICA  
+## VULNERABILIDAD FÍSICA
 
 Para implementar la aplicación de captura de datos, el registro de los puntos críticos, y establecer el nivel de vulnerabilidad del sector o corredor vial objeto de estudio, se desarrolló una metodología que permitiera identificar adecuadamente los elementos expuestos, y su registro en la Geodatabase para analizarse (**Fig. 12**).
 
@@ -223,7 +219,7 @@ Como resultado de la aplicación de las preguntas referentes a exposición, frag
 | Resiliencia | 5.65461 | -74.07429 | X |  |  |  |  |  |  | 0.17 |
 | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | La vulnerabilidad física de este punto se determina como media | 0.51 |
 
-## IMPLEMENTACIÓN TECNOLÓGICA: INSTRUMENTO MÓVIL DE CAPTURA DE DATOS EN CAMPO 
+## IMPLEMENTACIÓN TECNOLÓGICA: INSTRUMENTO MÓVIL DE CAPTURA DE DATOS EN CAMPO
 
 La captura de datos o hechos del mundo real se muestra como uno de los procesos o requerimientos más exigentes que tienen las organizaciones para recopilar información valiosa y relacionada con sus proyectos en campo. Los datos son la naturaleza para cualquier proyecto de investigación. Estos datos deben recolectarse, crearse y observarse para posteriormente analizarse y de esta manera producir unos resultados fiables y originales, producto de la investigación.
 
@@ -235,7 +231,7 @@ Este es el caso de los datos espaciales, describen características y recursos d
 
 Un SIG es una herramienta informática que se utiliza para ayudar a las personas a transformar los datos geográficos en información geográfica. Este modelo de datos digitales incorpora características geográficas del mundo real, que son almacenados en una base de datos y luego pueden mostrarse en un mapa [26]. 
 
-### Captura de datos 
+### Captura de datos
 
 Para asegurar una eficaz representación de la realidad de los corredores viales objeto de estudio, se realizó la inspección visual y el registro de datos en campo. Estos datos inicialmente fueron capturados y almacenados en fichas de Microsoft Excel (ver **Fig. 9**), las cuales fueron verificadas, unificadas y validadas por los expertos, de acuerdo con los requerimientos y variables relevantes para las componentes de vulnerabilidad, movimientos en masa e inundación. Una vez llevado a cabo este proceso de validación y ajuste de las rúbricas planteadas inicialmente, se adopta una versión más integrada del instrumento de captura de datos.
 
@@ -249,7 +245,7 @@ Por tanto y con los nuevos avances de las TIC, es posible que cualquier persona 
 
 Progresivamente, los dispositivos móviles se equipan con una gama mucho más amplia de funciones para responder a las demandas de movilidad, llegando a convertirse en un instrumento similar al computador personal, con una marcada tendencia sobre otras tecnologías, con posibilidades de convertirse en herramientas indispensables para los usuarios [29].
 
-### Instrumento móvil de captura de datos en campo   
+### Instrumento móvil de captura de datos en campo
 
 Con el fin de optimizar el proceso toma de datos y en relación con la propuesta metodológica, se ideó una solución que soportara de forma práctica la captura de información en campo. Para este proceso, se implementó un recurso de la compañía la compañía ESRI (Environmental Systems Research Institute, [25]), Survey123 connect (aplicación web lanzada el 29 de noviembre de 2019), que mediante la implementación de formularios inteligentes proporciona una serie de funciones que van más allá de la simple entrada de datos (**Fig. 15**).  
 
@@ -288,7 +284,7 @@ Los módulos del proceso, implementando la aplicación *Survey123 connect,* se r
 | Almacenamiento y envío de datos. Luego de diligenciar todos los campos del formulario, se puede enviar.  Si no pudo completar una encuesta de inmediato (o la completó sin conexión), debe guardarla en su bandeja de salida dentro de la aplicación Survey123. Esto facilitará que una encuesta parcialmente completada pueda completarse después para enviarse; o si se completó sin conexión se pueda enviar cuando se cuente con una conexión estable. |  |
 | Visualización, descarga de datos. Una vez diligenciado y enviado el formulario, es posible generar informes basados en los datos capturados. Ya que, la aplicación de forma directa no puede generar estos informes, estos se generan a través de la componente de escritorio Survey123 Connect, o desde el visor ArcGIS online. Ahora, si se requiere hacer análisis más profundos con los datos, estos podrán exportarse en diferentes formatos y extensiones para utilizarse en una aplicación desktop como ArcMap de ArcGIS. Los datos pueden descargarse en formatos SCV, KML o SHP. |  |
 
-### Proceso de análisis y resultados 
+### Proceso de análisis y resultados
 
 Se hizo el recorrido por los corredores viales pertenecientes al territorial Boyacá. La plataforma *Survey123 Connect* permite acceder al conjunto de datos para su análisis y visualización, destacando en este caso el número de puntos inspeccionados en cada corredor vial con su respectivo porcentaje, la motivación o razón por la cual se decidió diligenciar este formulario, el tipo de fenómeno y registro de infraestructura, junto con un registro fotográfico que da cuenta del inventario realizado y del estado actual de la infraestructura (**Fig. 19**).
 

@@ -1,6 +1,4 @@
-**Presentación del libro (versión, enero 15 de 2023 por aprobar por el Director)**
-
-# Capítulo 1: 3. Presentación del libro
+# Presentación del libro {.unnumbered}
 
 La ciencia, la tecnología y la innovación son fundamentales para tomar decisiones informadas en gestión de riesgos y adaptación al cambio climático. Los riesgos y los efectos del cambio climático no se manifiestan solamente en la exposición de la población y sus bienes a los posibles efectos de una amenaza. Los riesgos son construidos socialmente y constituyen una manifestación o un síntoma de un conjunto de procesos de ocupación del territorio y de explotación de recursos que han conllevado, históricamente, al incremento de la pobreza, la desigualdad, el deterioro ambiental y al aumento de la vulnerabilidad de la población, riesgos que al materializarse constituyen los desastres. La crisis climática tiene el potencial de exacerbar estas problemáticas conduciendo a crisis de seguridad alimentaria y de migración climática de comunidades vulnerables, con potenciales efectos sobre la estabilidad política regional y nacional.
 

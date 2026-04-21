@@ -1,4 +1,4 @@
-**Lista de pares revisores**
+# Lista de pares revisores {.unnumbered}
 
 **Jesús Adolfo Anaya Acevedo** | Universidad de Medellín, Colombia
 

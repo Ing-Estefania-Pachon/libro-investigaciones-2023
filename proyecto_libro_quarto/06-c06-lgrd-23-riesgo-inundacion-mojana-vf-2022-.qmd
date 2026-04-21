@@ -1,10 +1,6 @@
-**6**
-
-**Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana**
+# Usos de la evaluación integral del riesgo por inundación en la consolidación de comunidades resilientes: caso de estudio en cabeceras municipales de la ecorregión de la Mojana
 
 **Juan Camilo Olaya González1,3*, Paula Andrea Villegas González1,4, Jairo Andrés Valcárcel Torres1,5, Julián Darío Arbeláez Salazar1,2,6, Fabián Mauricio Caicedo Carrascal1,2,4, José Ville Triana García1,2,7, Lina Dorado González1, Juan Pablo Forero Acevedo1,3 & Maykel Yisseth Gutiérrez1**
-
-# Capítulo 10: C06-LGRD-23-RIESGO-INUNDACION-MOJANA-VF-2022-09-28
 
 1 Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Avenida Calle 26 No. 92-32 Edificio Gold 4 Piso 2. Vinculación durante el desarrollo del proyecto. Bogotá, Engativá, Colombia.
 
@@ -36,7 +32,7 @@ In Disaster Risk Management (DRM), the definition of risk reduction measures is 
 
 **Keywords:** Flood risk management, resilience, flood hazard, territorial planning instruments, physical and social vulnerability, disaster risk management
 
-## 1. INTRODUCCIÓN 
+## INTRODUCCIÓN
 
 La resiliencia de una comunidad ante desastres derivados de eventos naturales puede definirse como su habilidad para anticiparse, absorber, recuperarse y mantener su funcionalidad ante la ocurrencia de eventos desastrosos, así como su capacidad para aprender, adaptarse y transformarse con el fin de reducir daños potenciales y garantizar su bienestar y seguridad ante eventos futuros [1,2].
 
@@ -62,11 +58,11 @@ Con ello se pretende aportar a la planificación de medidas de reducción del ri
 
 :::
 
-## 2. MATERIALES Y MÉTODOS 
+## MATERIALES Y MÉTODOS
 
 La definición de evaluación del riesgo del Decreto 1807 de 2014 relaciona la zonificación detallada de amenaza con la evaluación de la vulnerabilidad (ver Caja 1). Así, como resultado final de la metodología, el riesgo se categorizó en alto, medio y bajo en función del nivel de afectación esperada. Para apoyar técnicamente a los entes territoriales a incorporar la GRD a sus instrumentos de planificación territorial, la metodología se planteó con un enfoque probabilista en la modelación de la amenaza, vulnerabilidad física y cálculo de riesgo. Adicionalmente se planteó el diagnóstico y evaluación de la vulnerabilidad social siguiendo la metodología de UNGRD-IEMP [7]. En este capítulo se resumen los componentes principales de la metodología apropiados para la escala de trabajo reglamentada por el Decreto 1807 de 2014. Todos los detalles metodológicos se pueden encontrar en UNGRD (2018) [8].
 
-### 2.1. Evaluación de la amenaza
+### Evaluación de la amenaza
 
 La metodología de amenaza por inundación se basa en la *Guía Metodológica para la Elaboración de Mapas de Inundación* [9], la cual contiene enfoques metodológicos para el análisis de inundaciones y la elaboración de mapas de inundación en función de la escala y su respectiva aplicación.
 
@@ -104,7 +100,7 @@ Dado que los eventos de inundación son dinámicos en el espacio-tiempo, los map
 
 :::
 
-### 2.2. Modelo de exposición
+### Modelo de exposición
 
 En la evaluación del riesgo catastrófico se considera que detallar las propiedades individuales de cada uno de los elementos expuestos resulta impráctico [14], debido a que: i) el trabajo de campo y el procesamiento de información de cada elemento demandan recursos –tiempo y dinero- que usualmente exceden el alcance de los EPR, y ii) el muestreo estadístico permite realizar una caracterización de los elementos expuestos lo suficientemente exhaustiva para el objetivo de los EPR. Como alternativa, se recomienda elaborar modelos de exposición mediante los cuales se representa la localización, tipos de elementos y su valor. A continuación, se presenta un procedimiento para elaborar modelos de exposición de edificaciones ante inundaciones.
 
@@ -155,7 +151,7 @@ Adicionalmente, en las inspecciones realizadas se incluyeron preguntas respecto 
 
 El valor económico de las edificaciones se determina según el avalúo catastral [15]. El valor de los contenidos se obtiene de encuestas mediante las cuales se determinan rangos de variación según el tipo de contenido y del estrato socioeconómico. La población expuesta se estimó usando el censo de población y vivienda de 2005 según manzanas [21]. Usando proyecciones disponibles en el Departamento Administrativo Nacional de Estadística (DANE), se estima la población al año de interés 2017. A partir de estos datos y conociendo el número de construcciones según manzanas, se obtienen valores promedio del número de habitantes según construcciones.
 
-### 2.3. Evaluación y análisis de la vulnerabilidad física
+### Evaluación y análisis de la vulnerabilidad física
 
 El modelo de vulnerabilidad física propuesto plantea un método de análisis de las condiciones estructurales y de contenidos de edificaciones ante solicitudes ejercidas por eventos de inundación. El objetivo principal es construir funciones de vulnerabilidad a partir de técnicas de simulación considerando características identificables mediante inspecciones en campo. Se construyen funciones para cada tipología definida en el modelo de exposición, las cuales permiten representar las condiciones de vulnerabilidad en un grupo de elementos expuestos con características similares. La metodología considera que las pérdidas económicas en un elemento expuesto se concentran principalmente en dos rubros: los contenidos y la edificación (elementos estructurales y no estructurales). 
 
@@ -280,7 +276,7 @@ Se identificaron otros indicadores para complementar el análisis de vulnerabili
 
 :::
 
-### 2.5. Evaluación y análisis del riesgo
+### Evaluación y análisis del riesgo
 
 La EPR por inundación es gobernada por la incertidumbre [41,42]. Ese contexto, sumado a la baja o nula disponibilidad de información histórica con datos de consecuencias sobre la población y sus medios de subsistencia y a la posibilidad de la ocurrencia de eventos desastrosos, genera que las evaluaciones de riesgo deban enfocarse hacia metodologías probabilistas que involucren y propaguen las incertidumbres temporales y espaciales envueltas en el proceso [27].
 
@@ -302,9 +298,9 @@ Para obtener el resultado de la pérdida del primer evento de análisis (*FDPev*
 
 :::
 
-## 3. RESULTADOS ESTUDIO DE CASO: MONTELÍBANO (CÓRDOBA)
+## RESULTADOS ESTUDIO DE CASO: MONTELÍBANO (CÓRDOBA)
 
-### 3.1. Zona de estudio
+### Zona de estudio
 
 Como caso de estudio para la aplicación de la metodología propuesta se seleccionó la región de La Mojana. Esta región es un delta hídrico que comprende 11 municipios de 4 departamentos de Colombia, por la cual transitan los ríos Magdalena, Cauca y San Jorge hacia su desembocadura en el mar Caribe. Por su topografía plana, la región presenta las condiciones ideales para la ocurrencia de eventos de inundación lenta de diferentes tipologías como (i) por desbordamiento de ríos y/o canales, y (ii) inundación pluvial. Por estas dos condiciones, en conjunto con la disponibilidad de modelos digitales de terreno detallados (tecnología LiDAR), La Mojana fue seleccionada como zona de estudio. En particular, cuatro cabeceras municipales se priorizaron para los casos de estudio: Magangué y Mompox (Bolívar), San Marcos (Sucre) y Montelíbano (Córdoba). En este artículo, se presentan en detalle los resultados para la cabecera municipal de Montelíbano (Córdoba).
 
@@ -386,7 +382,7 @@ Partiendo del modelo calibrado, se realizaron las modelaciones para cada uno de 
 
 **Figura 19.** Profundidad [m], extensión y velocidades [m/s] de la inundación para el período de retorno de 100 años. 
 
-### 3.3. Modelo de exposición Montelíbano
+### Modelo de exposición Montelíbano
 
 3.3.1. Tipologías constructivas
 
@@ -486,11 +482,11 @@ La totalidad de resultados de la evaluación de vulnerabilidad física se encuen
 
 
 
-## 3.5. Evaluación y análisis de la vulnerabilidad social 
+## Evaluación y análisis de la vulnerabilidad social
 
 Esta sección incluye algunos de los resultados del análisis de la vulnerabilidad social, relacionados con el contexto de los hogares e individuos. Para esto, se llevaron a cabo encuestas a 160 hogares ubicados en zonas de amenaza alta por inundación y encuestas de percepción local del riesgo a 22 personas, donde se incluyeron minorías étnicas, personas con capacidades diferentes, personas de la tercera edad, entre otras. Para cada uno de los numerales, se presentan algunos de los resultados obtenidos acorde a la metodología utilizada [7].
 
-### 3.5.1. Dinámicas de vulnerabilidad social
+### Dinámicas de vulnerabilidad social
 
 Se presenta un análisis de la situación actual de los activos físicos (vivienda y tierra), financieros (trabajo-fuentes de ingreso formales e informales) y sociales (redes de apoyo) (estos son indagados por las preguntas orientadores en este aparte). 
 

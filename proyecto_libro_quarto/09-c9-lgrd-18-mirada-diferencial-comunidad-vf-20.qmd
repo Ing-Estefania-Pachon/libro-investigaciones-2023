@@ -1,10 +1,6 @@
-**9**
-
-**Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna**
+# Gestión del riesgo de desastres en Colombia: una mirada diferencial para los campesinos y su vida digna
 
 **Sandra Eliana Alzate Vargas1* & Sandra Patricia Duque Quintero1**
-
-# Capítulo 13: C9-LGRD-18-MIRADA-DIFERENCIAL-COMUNIDAD-VF-2022-08-22
 
 1 Facultad de Derecho y Ciencias Políticas, Grupo Estudios de Derecho y Política. Universidad de Antioquia, calle 70 No. 52 – 21, Medellín, Colombia
 
@@ -60,7 +56,7 @@ La conjunción de altos niveles de vulnerabilidad y exposición a desastres, imp
 
 En este capítulo se pretende mostrar que incorporar una mirada diferenciadora en la gestión del riesgo de desastres de los campesinos posibilita unas mejores condiciones de existencia y bienestar y por consiguiente la concreción en la práctica del derecho a la vida digna para esta población.
 
-## LA GESTIÓN DEL RIESGO DE DESASTRES COMO PROCESO SOCIAL 
+## LA GESTIÓN DEL RIESGO DE DESASTRES COMO PROCESO SOCIAL
 
 La categoría riesgo de desastres de origen natural y socio-natural se ha investigado ampliamente desde distintas áreas del conocimiento, especialmente desde la geología [18], la ingeniería [10, 19], y desde algunas ciencias sociales como la sociología [20], también desde las teorías del desarrollo [14,15, 21] o la geografía [10,18]. En contraste, el derecho poco se ha ocupado del estudio del riesgo, más allá de la creación de legislación para regular los seguros o la conformación y funcionamiento de organismos de socorro. En Colombia, apenas desde 2012 se creó una política pública de gestión del riesgo de desastres que trasciende los aspectos de intervención en el desastre y post-desastre, para ocuparse de la reducción y mitigación de estos [22].
 
@@ -90,7 +86,7 @@ Otra característica de la problemática asociada a la recolección de la inform
 
 La Ley 1523 de 2012 está pensada para lo urbano, con fundamento en que las áreas urbanas tienen una mayor concentración de población, lo que potencia los impactos. Sin embargo, analizando los datos de DesInventar 2003, se determina que sólo el 30% de los desastres se localizan en ciudades [28]. De esta manera, puede observarse que desde la política nacional no hay un enfoque específico para lo rural, tampoco para los campesinos a pesar de su vulnerabilidad. Por consiguiente, es necesaria una re-significación del concepto riesgo de desastre que incluya una mirada diferencial para las comunidades campesinas en el país. 
 
-## El CAMPESINO Y SU NECESARIO RECONOCIMIENTO COMO SUJETO DIFERENCIADO EN LA GESTIÓN DEL RIESGO DE DESASTRES 
+## El CAMPESINO Y SU NECESARIO RECONOCIMIENTO COMO SUJETO DIFERENCIADO EN LA GESTIÓN DEL RIESGO DE DESASTRES
 
 A continuación, se desarrolla el concepto de *campesino* como un primer aporte a la configuración de este grupo poblacional, como un sujeto diferenciado a ser incorporado en la gestión del riesgo y se precisa que se entiende por enfoque diferencial. 
 
@@ -154,7 +150,7 @@ Asimismo, si se logra que las medidas adoptadas sean más acordes a las caracter
 
 En igual medida, se considera importante señalar que el enfoque diferencial permite a la gestión del riesgo de desastres entender que los derechos humanos son una integralidad y que su concreción en la práctica contribuye a superar las condiciones de invisibilización de los campesinos partiendo del reconocimiento identitario de los campesinos, lo cual implica que la planificación del territorio y la gestión del riesgo de desastres se realice con la participación de los mismos, de forma que posibilite la protección de sus derechos, sobre todo, el derecho a disfrutar de una vida en condiciones óptimas y dignas. 
 
-## MATERIALES Y MÉTODOS 
+## MATERIALES Y MÉTODOS
 
 El método implementado es cualitativo y el enfoque que orientó la investigación es el hermenéutico [39], que comprende tres pasos o momentos, el acercamiento interpretativo a los textos, el acercamiento a las comunidades campesinas en cuanto sujetos–objetos de investigación y la síntesis que conjuga la interpretación textual, con la interpretación que el investigador realiza de lo expresado por los sujetos. En este artículo se presentan los resultados del primer momento en el cual, en la búsqueda de una creación, de un aporte al saber jurídico, se desenvuelve una experiencia que es el momento del pensamiento, del cuestionamiento, de la reflexión sobre la pregunta de investigación que nos llevó a cuestionarnos sobre las propuestas que desde el derecho, contribuyen al mejoramiento de la calidad de vida de las poblaciones, para el caso de estudio indagar sobre cómo desde la gestión del riesgo de desastres socio-naturales se puede posibilitar el derecho a la vida digna de los campesinos en Colombia. 
 
@@ -179,7 +175,7 @@ La pregunta de investigación, como proyecto de sentido, posibilita por medio de
 | NECESIDADES FUTURAS Y RECOMENDACIONES Es necesario que la gestión del riesgo en Colombia incorpore un enfoque diferencial para las comunidades campesinas, con el objetivo de cumplir con el mandato constitucional del artículo 7, en virtud del cual se reconoce y protege la diversidad étnica y cultural. El primer paso a dar es la recolección de información discriminada para este grupo poblacional, que reflejé como los desastres los afectan realmente. En un segundo momento, es necesario revisar si los datos recopilados de forma discriminada frente a diferentes grupos poblacionales, inciden o no en la adopción de medidas igualmente diferenciadas. |
 | --- |
 
-## CONFLICTO DE INTERESES 
+## CONFLICTO DE INTERESES
 
 Las autoras no declaran conflicto de intereses 
 
@@ -187,7 +183,7 @@ Las autoras no declaran conflicto de intereses
 
 Conceptualización: SEAV, SPDQ. Metodología: SEAV, SPDQ. Redacción de primera versión: SEAV, SPDQ. Escritura. Revisión y edición de segunda versión: SEAV, SPDQ. Figuras y tablas: SEAV, SPDQ. Administración de proyecto: SEAV, SPDQ. Búsqueda de evidencia: SEAV.
 
-## IDENTIFICACIÓN DE AUTORES 
+## IDENTIFICACIÓN DE AUTORES
 
 Sandra Eliana Alzate Vargas 
 
