@@ -1,4 +1,4 @@
-# Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá
+# Capítulo 01: Evaluación indicativa del riesgo a la calidad del agua frente a amenazas naturales y antrópicas: el caso de Bogotá
 
 **Rafael Fernández1*, Manuel Rodríguez Susa2, Mildred Lemus2, Iván Alejandro Giraldo2, Lina Porras2, Juliana Martínez2, Juan Sebastián Echeverry1, Carlos Oliveros1, Juan Carlos Reyes1, Nubia León3 & Diego Gutiérrez3**
 
@@ -180,10 +180,8 @@ De esta manera una amenaza muy alta (Extrema = 5) con una vulnerabilidad muy alt
 Este indicador de riesgo puede utilizarse para priorizar los eventos y los componentes que generan el mayor impacto en el sistema teniendo en cuenta simultáneamente su frecuencia esperada de ocurrencia. Esto sirve para definir las prioridades para desarrollar estudios más detallado de evaluación de impacto y a partir de estos implementar opciones de medidas de mitigación y los correspondientes planes de reducción y gestión del riesgo en la calidad del agua. Es importante aclarar que el objetivo de este estudio no es realizar la caracterización detallada de cada posible modo de falla, sino poder entender la matriz de riesgos que afecta el sistema y a partir de esto lograr priorizar los más riesgos más críticos y lograr mitigarlos. 
 
 
-::: {.caja-box}
-**Caja 1.** Resumen de los casos que pueden ocurrir:  Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura
-
-:::
+| Caja 1. Resumen de los casos que pueden ocurrir:  Evento natural con impacto en la infraestructura y luego en la calidad Evento natural con impacto en la calidad directamente sin afectar la infraestructura Evento antrópico con afectación a infraestructura y en la calidad Evento antrópico con afectación en la en la calidad directamente sin afectar la infraestructura |
+| --- |
 
 ## CASO DE ESTUDIO: BOGOTÁ
 
@@ -214,9 +212,7 @@ Cada sistema puede subdividirse en diferentes componentes. Estos componentes pri
 El componente de las amenazas considera las principales amenazas naturales y antrópicas que puedan afectar el sistema de generación y distribución de agua potable y tener por lo tanto un impacto en la calidad del agua. En las siguientes secciones se presenta el análisis de las amenazas incluidas en la evaluación del riesgo, tanto naturales como antrópicas. 
 
 
-::: {.caja-box}
-**Caja 2.** Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas
-:::
+| Caja 2. Tipos de amenazas incluidas | Caja 2. Tipos de amenazas incluidas |
 | --- | --- |
 | Amenazas de origen natural: sísmica precipitaciones sequía inundaciones deslizamiento descargas torrenciales incendios forestales volcanes vendaval | Amenazas de origen antrópico: terrorismo y atentados terrorismo virtual tecnológicos domésticos tecnológicos industriales accidentes viales y derrames agropecuario minería gestión institucional |
 

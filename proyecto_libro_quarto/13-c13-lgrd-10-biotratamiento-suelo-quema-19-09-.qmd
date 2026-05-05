@@ -1,4 +1,4 @@
-# Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema
+# Capítulo 13: Biomineralización como herramienta en la recuperación de las propiedades de un suelo residual compactado sometido a quema
 
 **Yamile Valencia-González1*, José Camapum de Carvalho2 & Luis Augusto Lara-Valencia3**
 
@@ -33,10 +33,8 @@ La biotecnología se torna entonces en una alternativa menos invasiva con el med
 El actual capítulo tiene como objetivo presentar una propuesta para restablecer la estabilidad de los agregados después de un incendio forestal, al aplicar un medio que induce en las bacterias nativas del suelo la precipitación de carbonato de calcio. Si bien, esta técnica se ha empleado comúnmente en la restauración de monumentos [10], su uso es incipiente en la regeneración de suelos afectados por altas temperaturas.
 
 
-::: {.caja-box}
-**Caja 1.** Biomineralización   La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos.  Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1
-
-:::
+| Caja 1. Biomineralización   La biomineralización es un proceso común en la naturaleza, mediante el cual los organismos vivos forman precipitados minerales cristalinos o amorfos.  Dicho proceso ocurre por reacciones químicas entre iones específicos o compuestos como resultado de las actividades metabólicas de un organismo en ciertas condiciones ambientales. La carbonatogénesis es un ejemplo de biomineralización en el cual se produce la precipitación de carbonatos como se presenta en la ecuación 1: Ca+ 2 (cálcio) + CO3- 2 (carbonato) ↔ CaCO3 (carbonato de cálcio)		Ec. 1 |
+| --- |
 
 ## MÉTODOS
 

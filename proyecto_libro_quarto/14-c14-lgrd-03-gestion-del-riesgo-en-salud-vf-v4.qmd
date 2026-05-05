@@ -1,4 +1,4 @@
-# Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia
+# Capítulo 14: Gestión del riesgo en salud en situación de desastres. Lecciones aprendidas en Armenia
 
 **Olga Alicia Nieto Cárdenas1**
 
@@ -63,18 +63,14 @@ Según la Ley 1523 de 2012 la Gestión del Riesgo de Desastre “es un proceso s
 **El marco normativo vigente en Colombia.** Al mirar retrospectivamente se puede pensar que Ley 1523 de 2012 es el único marco normativo en Colombia sobre este tema; sin embargo, la gestión del riesgo en el sector Salud tiene unas especificidades importantes a partir de la Constitución Política de 1991 [12], como puede verse en la Caja 1 [13].
 
 
-::: {.caja-box}
-**Caja 1.** Evolución del marco normativo en Gestión del Riesgo en Salud [13]. Todos estos desarrollos relacionados con la gestión del riesgo convergen actualmente al interior del Sistema General de Seguridad Social en Salud y de las entidades públicas y privadas que lo conforman. Sistema General de Seguridad Social en Salud, Decretos 1485 de 1994 y 723 de 1997. Acuerdo 117 de 1998 y las Resoluciones 412 y 3384 de 2000.  En el tema de riesgos profesionales se adoptó el Decreto 1295 de 1994. Decreto 1537 de 2001, sobre la organización y administración del sistema general de riesgos profesionales. Ley 46 de 1998, Sistema Nacional de Prevención y Atención de Desastres. Decreto 093 de 1998, el Plan Nacional para la Prevención y Atención de Desastres. Decreto 4110 del Icontec, adopta para Colombia la norma técnica dar AS/NZ 4360:1999 como pauta internacional de gestión del riesgo en salud.  Decreto 1599 del 2005, el Modelo Estándar de Control Interno, impacta la cultura organizacional de las entidades públicas del nivel nacional y territorial. Decretos 574 y 1698 de 2007 y la Resolución 1740 de 2008 que plantean la gestión del riesgo en salud en el marco de la habilitación financiera de las EPS. La Ley 1122 de 2007, adopta la gestión del riesgo en salud como función indelegable del aseguramiento en Salud. Decreto 3039 de 2007, define la prevención de riesgos como una de las cinco líneas de política del Plan Nacional de Salud Pública 2007–2010. La NTC ISO 31000 del 2011 contiene principios, marco de referencia y proceso de gestión del riesgo traducidos de la norma ISO 31000:2009. El Plan Decenal de Salud Pública 2012–2021, incluye una línea operativa que aporta elementos para el desarrollo de la gestión del riesgo en salud.
-
-:::
+| Caja 1. Evolución del marco normativo en Gestión del Riesgo en Salud [13]. Todos estos desarrollos relacionados con la gestión del riesgo convergen actualmente al interior del Sistema General de Seguridad Social en Salud y de las entidades públicas y privadas que lo conforman. Sistema General de Seguridad Social en Salud, Decretos 1485 de 1994 y 723 de 1997. Acuerdo 117 de 1998 y las Resoluciones 412 y 3384 de 2000.  En el tema de riesgos profesionales se adoptó el Decreto 1295 de 1994. Decreto 1537 de 2001, sobre la organización y administración del sistema general de riesgos profesionales. Ley 46 de 1998, Sistema Nacional de Prevención y Atención de Desastres. Decreto 093 de 1998, el Plan Nacional para la Prevención y Atención de Desastres. Decreto 4110 del Icontec, adopta para Colombia la norma técnica dar AS/NZ 4360:1999 como pauta internacional de gestión del riesgo en salud.  Decreto 1599 del 2005, el Modelo Estándar de Control Interno, impacta la cultura organizacional de las entidades públicas del nivel nacional y territorial. Decretos 574 y 1698 de 2007 y la Resolución 1740 de 2008 que plantean la gestión del riesgo en salud en el marco de la habilitación financiera de las EPS. La Ley 1122 de 2007, adopta la gestión del riesgo en salud como función indelegable del aseguramiento en Salud. Decreto 3039 de 2007, define la prevención de riesgos como una de las cinco líneas de política del Plan Nacional de Salud Pública 2007–2010. La NTC ISO 31000 del 2011 contiene principios, marco de referencia y proceso de gestión del riesgo traducidos de la norma ISO 31000:2009. El Plan Decenal de Salud Pública 2012–2021, incluye una línea operativa que aporta elementos para el desarrollo de la gestión del riesgo en salud. |
+| --- |
 
 **El marco internacional.** Desarrollos internacionales posteriores a la Ley 1523 hacen aportes significativos al desarrollo conceptual y operativo de la gestión del riesgo de desastres algunos de los cuales se mencionan en la **Caja 2**.
 
 
-::: {.caja-box}
-**Caja 2.** Aportes del marco internacional Los objetivos de desarrollo sostenible, la conferencia de las Naciones Unidas sobre vivienda y desarrollo urbano sostenible Hábitat III, el Acuerdo internacional de París COP21 y la convención marco de las Naciones Unidas sobre el cambio climático, el plan estratégico para la reducción del riesgo de desastres 2013–2018 de la Organización Panamericana de la Salud y la Organización Mundial de la Salud (OPS-OMS), el protocolo de Sendai y más recientemente el Informe RAR 2015–2030.
-
-:::
+| Caja 2. Aportes del marco internacional Los objetivos de desarrollo sostenible, la conferencia de las Naciones Unidas sobre vivienda y desarrollo urbano sostenible Hábitat III, el Acuerdo internacional de París COP21 y la convención marco de las Naciones Unidas sobre el cambio climático, el plan estratégico para la reducción del riesgo de desastres 2013–2018 de la Organización Panamericana de la Salud y la Organización Mundial de la Salud (OPS-OMS), el protocolo de Sendai y más recientemente el Informe RAR 2015–2030. |
+| --- |
 
 El marco de Sendai para la Reducción del Riesgo de Desastres 2015–2030 retoma el concepto de resiliencia como la capacidad y necesidad de adaptarse y gestionar el riesgo en situaciones de desastre y propone cuatro prioridades de acción: comprender el riesgo de desastres, fortalecer la gobernanza, invertir en la reducción del riesgo de desastres para la resiliencia, y aumentar la preparación a fin de dar una respuesta eficaz [14].
 
@@ -83,10 +79,8 @@ El marco de Sendai para la Reducción del Riesgo de Desastres 2015–2030 retoma
 Según Noji [16], los desastres se pueden considerar un problema de salud pública por varias razones (ver **Caja 3**). El concepto de gestión de riesgo en situación de desastre puede parecer en principio contradictorio porque frente a una situación de una magnitud tal que supera los mecanismos de prevención y control, lo primero que se hace es atender la fase de emergencia: rescatar a los lesionados, atender a los heridos, recoger los cadáveres. 
 
 
-::: {.caja-box}
-**Caja 3.** Los desastres son un problema de salud pública porque:  Pueden causar un número inesperado de muertes, lesiones o enfermedades, en la comunidad afectada que exceden las capacidades de los servicios locales de salud y requerir ayuda externa. Pueden destruir infraestructura local de salud lo cual limita la capacidad de respuesta ante la emergencia. Pueden tener efectos adversos sobre el medio ambiente y la población al aumentar el riesgo potencial de enfermedades transmisibles. Pueden afectar el comportamiento psicológico y social de las personas y las comunidades afectadas. Pueden generar escasez de alimentos lo cual trae consecuencias nutricionales.  Pueden generar grandes movimientos de población.
-
-:::
+| Caja 3. Los desastres son un problema de salud pública porque:  Pueden causar un número inesperado de muertes, lesiones o enfermedades, en la comunidad afectada que exceden las capacidades de los servicios locales de salud y requerir ayuda externa. Pueden destruir infraestructura local de salud lo cual limita la capacidad de respuesta ante la emergencia. Pueden tener efectos adversos sobre el medio ambiente y la población al aumentar el riesgo potencial de enfermedades transmisibles. Pueden afectar el comportamiento psicológico y social de las personas y las comunidades afectadas. Pueden generar escasez de alimentos lo cual trae consecuencias nutricionales.  Pueden generar grandes movimientos de población. |
+| --- |
 
 Sin embargo, es necesario que tempranamente se identifiquen y controlen las amenazas y se atienda la vulnerabilidad, justamente para prevenir un desastre mayor. Es decir, la gestión del riesgo cotidiano es la clave en la atención misma del desastre, en todas sus fases, desde la fase de emergencia, hasta el análisis y evaluación del riesgo.
 

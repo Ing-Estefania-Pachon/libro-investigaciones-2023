@@ -1,4 +1,4 @@
-# Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios
+# Capítulo 15: Preparación de respondedores de emergencias en el Quindío: un estudio sobre los estilos de afrontamiento y factores de resiliencia en un grupo de bomberos voluntarios
 
 **Olga Liliana Pineda López1*, Joan Sebastián Arbeláez Caro1, Luz Stela Quintana Hernández1, Laura Vanessa Corrales Brand2, Valentina Ospina Poveda2 & Carla María Zapata Rueda2**
 
@@ -33,20 +33,16 @@ Los bomberos voluntarios, en toda su historia como institución han aportado con
 Las instituciones voluntarias reúnen a personas cuya motivación es un factor de estudio para la psicología. La motivación que lleva a una persona a convertirse en voluntario de cualquier institución se estudia desde diversas teorías. La de mayor aceptación es la teoría de la autodeterminación [3-5]. En la teoría de la autodeterminación, la motivación a adherirse a grupos sociales responde a tres necesidades básicas: competir, ser autónomo y relacionarse. 
 
 
-::: {.caja-box}
-**Caja 1.** Glosario.  Bomberos voluntarios de Colombia: Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012.  Resiliencia: capacidad de retorno al estado previo a una situación de estrés.  Afrontamiento: capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos.
-
-:::
+| Caja 1. Glosario.  Bomberos voluntarios de Colombia: Asociación de voluntarios de emergencias y desastres articulada mediante la Ley 1575 de 2012.  Resiliencia: capacidad de retorno al estado previo a una situación de estrés.  Afrontamiento: capacidad de enfrentar una situación estresante mediante patrones conductuales, emocionales y cognitivos. |
+| --- |
 
 Desde los modelos de indagación empírica se ha establecido que la motivación que lleva a la persona a convertirse en un voluntario implica cuatro necesidades que se desprenden de la establecidas en la teoría de la autodeterminación: realización como persona, altruismo (gregarismo), aceptación social y adaptación económica [6-8]. No sólo el ser voluntario responde a necesidades psicológicas, sino que también responde a cuestiones sociales de fondo como intereses económicos y políticos [9]. 
 
 Sin embargo, son Latané y Darley [10] quienes proponen que la estructura psicológica que da marco a la toma de decisiones de un voluntario responde específicamente a una forma de altruismo. No obstante, el altruismo es una condición muy vaga y no ofrece una explicación acertada sobre la motivación del voluntarismo. Cabrera-Darias & Marrero-Quevedo [11] proponen que los motivos de un voluntario responden a los siguientes elementos: adquisición de aprendizajes, mejoramiento de valores, mejoramiento personal, de protección “reducir la culpa por ser más afortunado que los otros” [11] (p. 792), y de oportunidades sociales y profesionales. En función de lo anterior, se puede concluir que el voluntariado apunta en sus motivaciones a responder a necesidades personales y sociales. Dávila y Díaz [12] concluyen que el voluntariado apunta en general, a potenciar la satisfacción vital. 
 
 
-::: {.caja-box}
-**Caja 2.** Normativa en Colombia sobre voluntarios y respondedores de emergencias.  Ley 1523 de 2021: marco general para la gestión de riesgo de desastres.  Resolución 927 de 2017: Por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas. Ley 1575 de 2012: Bomberos Colombia. Ley 852 de 2003: Cruz roja de Colombia. Decreto 2068 de 1984: defensa civil.
-
-:::
+| Caja 2. Normativa en Colombia sobre voluntarios y respondedores de emergencias.  Ley 1523 de 2021: marco general para la gestión de riesgo de desastres.  Resolución 927 de 2017: Por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas. Ley 1575 de 2012: Bomberos Colombia. Ley 852 de 2003: Cruz roja de Colombia. Decreto 2068 de 1984: defensa civil. |
+| --- |
 
 La importancia de los bomberos es imperativa en Colombia. Para el año 2019, según estadísticas de la Unidad Administrativa Especial de Bomberos [14] se atendieron 37,976 emergencias, siendo la más recurrente la atención prehospitalaria (7,677 casos), los accidentes de tránsito (5,504 casos), y la categoría “otros” (4,955 casos). Los departamentos en donde más solicitaron los bomberos voluntarios fueron Valle del Cauca (10,177 casos) y Antioquia (9,845 casos), específicamente el departamento del Quindío reportó 322 emergencias que requirieron a los bomberos. Una de las problemáticas más atendidas en Colombia desde la prevención, mitigación y atención fueron los incendios forestales. El departamento del Meta fue el que mayor requirió la asistencia de los bomberos con 241 casos. 
 

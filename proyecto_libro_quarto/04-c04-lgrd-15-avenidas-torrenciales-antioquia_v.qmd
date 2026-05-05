@@ -1,4 +1,4 @@
-# Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca
+# Capítulo 04: Evaluación de la amenaza por avenidas torrenciales en el departamento de Antioquia a escala de cuenca
 
 **Edier Aristizábal 1, Federico Gómez Cardona1*, María Isabel Arango Carmona1**
 
@@ -43,10 +43,8 @@ La metodología propuesta hace uso de Sistemas de Información Geográfica y bas
 Este análisis corresponde al resultado del primer estudio a nivel departamental de susceptibilidad y amenaza ante avenidas torrenciales en Colombia a nivel de cuenca con una mirada multi-amenaza. Siguiendo este mismo enfoque, el Servicio Geológico Colombiano lanzó en el año 2022 la Guía metodológica para la zonificación de amenaza por avenidas torrenciales  . Esta guía proporciona unos lineamientos generales para la elaboración de estudios de amenaza para su incorporación en los Planes de Ordenamiento Territorial a escala básica (1:25,000), y detallada (1:2,000). La guía representa el primer documento metodológico oficial que propone analizar las avenidas torrenciales como eventos concatenados, es decir, que combinan análisis de estabilidad de laderas, aporte de sedimentos e inundaciones. 
 
 
-::: {.caja-box}
-**Caja 1.** Glosario* Avenida torrencial: flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo.  Creciente súbita: flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas.  Inundación de escombros: flujo torrencial de dos fases generado por un evento de lluvia intenso que aumenta el caudal de la cuenca súbitamente y poder de erosión. Esto genera que el flujo remueva los sedimentos del lecho del canal, además de crear pequeños colapsos de sus orillas capaz de movilizar bloques de roca.  Flujo de escombros canalizado: flujo torrencial con altas concentraciones de sedimentos que se comporta como un fluido no newtoniano de una sola fase. Se generan con eventos de precipitación particularmente intensos que detonan enjambres de deslizamientos en las laderas, los cuales aumentan considerablemente la concentración de sedimentos y el poder erosivo y destructivo del flujo.  *Definiciones de acuerdo con Aristizábal, Carmona y López [6].
-
-:::
+| Caja 1. Glosario* Avenida torrencial: flujos formados por una mezcla de sedimentos y agua en diferentes proporciones, que se desplazan a grandes velocidades a lo largo de cauces en cuencas de montaña, y que tienen como causas detonantes la presencia de uno o varios de los siguientes eventos: lluvias concentradas intensas o lluvias antecedentes, enjambre de movimientos en masa, rotura de presas naturales o artificiales o aporte de grandes volúmenes de agua por deshielo.  Creciente súbita: flujo torrencial de dos fases generadas por eventos de lluvia cortos e intensos en cuencas montañosas. Estos eventos se reconocen por períodos de retorno cortos, caudales máximos altos, más no extremos, y baja concentración de sedimentos, principalmente finos y arenas.  Inundación de escombros: flujo torrencial de dos fases generado por un evento de lluvia intenso que aumenta el caudal de la cuenca súbitamente y poder de erosión. Esto genera que el flujo remueva los sedimentos del lecho del canal, además de crear pequeños colapsos de sus orillas capaz de movilizar bloques de roca.  Flujo de escombros canalizado: flujo torrencial con altas concentraciones de sedimentos que se comporta como un fluido no newtoniano de una sola fase. Se generan con eventos de precipitación particularmente intensos que detonan enjambres de deslizamientos en las laderas, los cuales aumentan considerablemente la concentración de sedimentos y el poder erosivo y destructivo del flujo.  *Definiciones de acuerdo con Aristizábal, Carmona y López [6]. |
+| --- |
 
 ## ÁREA DE ESTUDIO
 
@@ -70,9 +68,7 @@ El análisis se realiza en tres pasos principales: el primero es el análisis de
 
 ## Susceptibilidad
 
-::: {.caja-box}
-**Caja 2.** Susceptibilidad a avenida torrencial
-:::
+**Caja 2. Susceptibilidad a avenida torrencial** 
 
 La susceptibilidad a avenida torrencial pretende contestar dos preguntas:
 
@@ -102,9 +98,7 @@ Cuencas con regímenes torrenciales y presencia de regolitos grueso granulares s
 
 ## Amenaza: magnitud y probabilidad temporal
 
-::: {.caja-box}
-**Caja 3.** Amenaza por avenida torrencial
-:::
+**Caja 3. Amenaza por avenida torrencial** 
 
 La amenaza por avenida torrencial en una cuenca está dada por la magnitud de un posible evento, y por la probabilidad temporal de un evento de lluvia que lo desencadene. 
 

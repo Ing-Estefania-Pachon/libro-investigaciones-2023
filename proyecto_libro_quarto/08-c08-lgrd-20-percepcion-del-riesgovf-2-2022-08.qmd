@@ -1,4 +1,4 @@
-# Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia
+# Capítulo 08: Imbricación cultural, espacial y psicosocial en la percepción del riesgo de desastres. Reflexiones sobre casos de estudio en Colombia
 
 **Luz Adriana Muñoz-Duque1* & Óscar E. Navarro Carrascal2**
 
@@ -41,10 +41,8 @@ Finalmente, recogemos consideraciones de una investigación llevada a cabo en 20
 En esta pretensión de recoger algunas reflexiones suscitadas a partir de tales experiencias investigativas, sostenemos que existe la necesidad de considerar los aspectos que pueden tener influjo en la percepción del riesgo, condicionando sus dinámicas: unos asociados a las características de las situaciones riesgosas en sí mismas y, otros, psicosociales, propios de las personas y de su interacción entre ellas y con el ambiente. Se trata de un tejido entre estas dimensiones, asunto que desarrollamos a continuación.
 
 
-::: {.caja-box}
-**Caja 1.** ¿Qué es la percepción del riesgo? La percepción del riesgo hace referencia a los juicios de las personas respecto del grado de peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías [2]. Se trata de una construcción social, basada en la interacción entre individuos y grupos [1,8]. Las percepciones del riesgo impactan de manera significativa las decisiones que las personas toman frente a tales situaciones consideradas amenazantes [3]. Así, en términos generales, podríamos decir que la percepción del riesgo alude a la valoración que individuos y grupos hacen de la peligrosidad de un fenómeno o evento, así como de la posibilidad de correspondencia entre ese riesgo percibido y la acción, lo cual deriva en la toma de decisiones [17].
-
-:::
+| Caja 1. ¿Qué es la percepción del riesgo? La percepción del riesgo hace referencia a los juicios de las personas respecto del grado de peligrosidad de actividades consideradas como amenazantes, riesgos naturales o derivados del uso de tecnologías [2]. Se trata de una construcción social, basada en la interacción entre individuos y grupos [1,8]. Las percepciones del riesgo impactan de manera significativa las decisiones que las personas toman frente a tales situaciones consideradas amenazantes [3]. Así, en términos generales, podríamos decir que la percepción del riesgo alude a la valoración que individuos y grupos hacen de la peligrosidad de un fenómeno o evento, así como de la posibilidad de correspondencia entre ese riesgo percibido y la acción, lo cual deriva en la toma de decisiones [17]. |
+| --- |
 
 ## ASPECTOS INFLUYENTES EN LA PERCEPCIÓN DEL RIESGO
 
@@ -95,10 +93,8 @@ Los habitantes del corregimiento antioqueño, por su parte, mostraron un fuerte 
 En otros estudios se confirmó la correlación entre el apego al lugar y la percepción del riesgo, tanto de deslizamiento como de inundación costera [12,13]. Cabe señalar que para el caso de los deslizamientos el riesgo percibido está determinado, entre otros aspectos, por la antigüedad residencial (elemento importante del apego al lugar); asunto que no ocurre en el caso de las inundaciones costeras [13]. En Cartagena, los hallazgos del estudio desarrollado destacan un importante papel de la experiencia previa con el riesgo de inundación costera, de la habituación al mismo (familiarización con el riesgo) y del vínculo afectivo con el lugar como condicionantes de la percepción del riesgo [14]. 
 
 
-::: {.caja-box}
-**Caja 2.** Para pensar el riesgo percibido: ¿Es relevante preguntarnos por las relaciones de las personas con sus lugares? Pensar los vínculos afectivos de las personas con sus lugares resulta ser un punto clave para entender la manera como ellas se relacionan con los riesgos propios de su entorno. Aunque la investigación en la materia no ha sido concluyente, sí nos muestra la importancia de considerar las interacciones entre personas, procesos psicosociales y características de los lugares, en función de alcanzar mayores comprensiones respecto de la forma como experimentamos los riesgos con asiento en estos.
-
-:::
+| Caja 2. Para pensar el riesgo percibido: ¿Es relevante preguntarnos por las relaciones de las personas con sus lugares? Pensar los vínculos afectivos de las personas con sus lugares resulta ser un punto clave para entender la manera como ellas se relacionan con los riesgos propios de su entorno. Aunque la investigación en la materia no ha sido concluyente, sí nos muestra la importancia de considerar las interacciones entre personas, procesos psicosociales y características de los lugares, en función de alcanzar mayores comprensiones respecto de la forma como experimentamos los riesgos con asiento en estos. |
+| --- |
 
 **Confianza en las instituciones y percepción del riesgo**
 
