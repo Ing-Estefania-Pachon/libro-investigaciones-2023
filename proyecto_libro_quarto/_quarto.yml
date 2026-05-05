@@ -8,10 +8,8 @@ book:
     logo: media/Logo-UNGRD-Horizontal-removebg-preview.png
   chapters:
     - index.qmd
-    - 00-3-presentacion-del-libro.qmd
-    - 00-4-prologo-del-libro-grd-2022.qmd
-    - 00-7-lista-pares-revisores-lgrd-2022.qmd
-    - 00-al-final-indice-tematico.qmd
+    - 00-02-pagina-legal.qmd
+    - 00-03-4-prologo-del-libro-grd-2022.qmd
     - 01-c01-lgrd-14-calidad-agua-vf-2022-08-17.qmd
     - 02-c02-lgrd-16-evaluacion-amenaza-tsunami_vf-202.qmd
     - 03-c3-lgrd-27-multiamenaza-corredores-vialesvf20.qmd
@@ -27,6 +25,8 @@ book:
     - 13-c13-lgrd-10-biotratamiento-suelo-quema-19-09-.qmd
     - 14-c14-lgrd-03-gestion-del-riesgo-en-salud-vf-v4.qmd
     - 15-c-15-lgrd-11-preparacion-de-respondedores-vf3.qmd
+    - 99-01-7-lista-pares-revisores-lgrd-2022.qmd
+    - 99-02-al-final-indice-tematico.qmd
 
 format:
   html:
@@ -37,7 +37,7 @@ format:
     toc: true
     toc-depth: 4
     toc-expand: true
-    number-sections: true
+    number-sections: false
     html-math-method: mathjax
     reader-mode: true
     page-navigation: true
